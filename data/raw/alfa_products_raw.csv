@@ -1,0 +1,508 @@
+sku_id,product_name,category,brand,unit_price,unit_of_measure,is_perishable,shelf_life_days,supplier_id,is_jsm_promo,jsm_discount_pct
+SKU000001,Air Mineral Aqua,Beverage,Danone-Aqua,12100.0,botol,0,641.0,SUP-107,1,0.31
+SKU000002,Indm Grg,Food & Staples,Indofood,39000.0,pack,0,502.0,SUP-184,1,0.34
+SKU000003,Bimoli Pouch 2000ml,Food & Staples,Salim Ivomas,12900.0,pack,0,599.0,SUP-162,0,0.0
+SKU000004,Air Mineral Aqua,Beverage,Danone-Aqua,27800.0,botol,0,708.0,SUP-132,0,0.0
+SKU000005,Rokok Sampoerna Mild,Cigarettes,Sampoerna,13800.0,pack,0,,SUP-183,0,0.0
+SKU000006,Air Mineral Aqua,Beverage,Danone-Aqua,15100.0,botol,0,591.0,SUP-183,0,0.0
+SKU000007,Aqua 600ml,Beverage,Danone-Aqua,29600.0,botol,1,73.0,SUP-138,0,0.0
+SKU000008,PEPSODENT 190G,Personal Care,Unilever,3900.0,pcs,0,283.0,SUP-123,0,0.0
+SKU000009,Bimoli Pouch 2000ml,Food & Staples,Salim Ivomas,40600.0,pack,0,304.0,SUP-143,1,0.31
+SKU000010,Minyak Bimoli 2L,Food & Staples,Salim Ivomas,6300.0,pack,0,475.0,SUP-166,0,0.0
+SKU000011,Indm Grg,Food & Staples,Indofood,15200.0,pack,0,652.0,SUP-111,0,0.0
+SKU000012,PEPSODENT 190G,Personal Care,Unilever,13000.0,pcs,0,232.0,SUP-177,1,0.19
+SKU000013,Pepsodent 190g,Personal Care,Unilever,15300.0,pcs,0,639.0,SUP-133,0,0.0
+SKU000014,Minyak Bimoli 2L,Food & Staples,Salim Ivomas,15800.0,pack,0,474.0,SUP-131,0,0.0
+SKU000015,Minyak Bimoli 2L,Food & Staples,Salim Ivomas,17000.0,pack,0,195.0,SUP-169,0,0.0
+SKU000016,Air Mineral Aqua,Beverage,Danone-Aqua,33600.0,botol,0,702.0,SUP-118,0,0.0
+SKU000017,INDOMIE MIE GORENG,Food & Staples,Indofood,10400.0,pack,0,670.0,SUP-131,1,0.39
+SKU000018,Mnyk Goreng Bimoli,Food & Staples,Salim Ivomas,20100.0,pack,0,675.0,SUP-106,0,0.0
+SKU000019,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,29600.0,pack,0,,SUP-135,0,0.0
+SKU000020,AQ btl 600,Beverage,Danone-Aqua,17900.0,botol,0,509.0,SUP-177,0,0.0
+SKU000021,Minyak Bimoli 2L,Food & Staples,Salim Ivomas,17000.0,pack,0,408.0,SUP-113,0,0.0
+SKU000022,Minyak Bimoli 2L,Food & Staples,Salim Ivomas,40700.0,pack,0,422.0,SUP-134,1,0.2
+SKU000023,Rokok Sampoerna Mild,Cigarettes,Sampoerna,25000.0,pack,0,,SUP-184,0,0.0
+SKU000024,Rokok Sampoerna Mild,Cigarettes,Sampoerna,44300.0,pack,0,,SUP-152,0,0.0
+SKU000025,Minyak Bimoli 2L,Food & Staples,Salim Ivomas,29300.0,pack,0,711.0,SUP-187,1,0.18
+SKU000026,Indm Grg,Food & Staples,Indofood,26300.0,pack,0,468.0,SUP-121,0,0.0
+SKU000027,Bimoli Pouch 2000ml,Food & Staples,Salim Ivomas,21400.0,pack,0,275.0,SUP-158,0,0.0
+SKU000028,Aqua 600ml,Beverage,Danone-Aqua,11400.0,botol,0,240.0,SUP-186,0,0.0
+SKU000029,PEPSODENT 190G,Personal Care,Unilever,24700.0,pcs,0,534.0,SUP-114,0,0.0
+SKU000030,Rokok Sampoerna Mild,Cigarettes,Sampoerna,37300.0,pack,0,,SUP-108,0,0.0
+SKU000031,Indomie Goreng,Food & Staples,Indofood,44700.0,pack,0,589.0,SUP-107,0,0.0
+SKU000032,Pepsodent 190g,Personal Care,Unilever,18500.0,pcs,0,216.0,SUP-121,0,0.0
+SKU000033,Pepsodent 190g,Personal Care,Unilever,29300.0,pcs,0,551.0,SUP-164,0,0.0
+SKU000034,Minyak Bimoli 2L,Food & Staples,Salim Ivomas,42400.0,pack,0,714.0,SUP-102,0,0.0
+SKU000035,INDOMIE MIE GORENG,Food & Staples,Indofood,14200.0,pack,0,714.0,SUP-122,0,0.0
+SKU000036,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,24900.0,pack,0,,SUP-134,0,0.0
+SKU000037,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,27800.0,pack,0,,SUP-138,0,0.0
+SKU000038,Aqua 600ml,Beverage,Danone-Aqua,24100.0,botol,0,543.0,SUP-158,0,0.0
+SKU000039,Pepsodent 190g,Personal Care,Unilever,14900.0,pcs,0,326.0,SUP-191,0,0.0
+SKU000040,Bimoli Pouch 2000ml,Food & Staples,Salim Ivomas,17000.0,pack,0,709.0,SUP-156,0,0.0
+SKU000041,Air Mineral Aqua,Beverage,Danone-Aqua,4300.0,botol,0,242.0,SUP-139,1,0.23
+SKU000042,Rokok Sampoerna Mild,Cigarettes,Sampoerna,42200.0,pack,0,,SUP-106,0,0.0
+SKU000043,Pepsodent 190g,Personal Care,Unilever,38400.0,pcs,0,636.0,SUP-174,0,0.0
+SKU000044,Bimoli Pouch 2000ml,Food & Staples,Salim Ivomas,29300.0,pack,0,473.0,SUP-106,0,0.0
+SKU000045,Rokok Sampoerna Mild,Cigarettes,Sampoerna,20700.0,pack,0,,SUP-188,0,0.0
+SKU000046,PEPSODENT 190G,Personal Care,Unilever,30400.0,pcs,0,325.0,SUP-149,1,0.23
+SKU000047,Pepsodent 190g,Personal Care,Unilever,20100.0,pcs,0,199.0,SUP-194,0,0.0
+SKU000048,Minyak Bimoli 2L,Food & Staples,Salim Ivomas,39700.0,pack,0,665.0,SUP-106,0,0.0
+SKU000049,Indm Grg,Food & Staples,Indofood,13900.0,pack,0,354.0,SUP-197,1,0.33
+SKU000050,Rokok Sampoerna Mild,Cigarettes,Sampoerna,9300.0,pack,0,,SUP-170,0,0.0
+SKU000051,Air Mineral Aqua,Beverage,Danone-Aqua,35900.0,botol,0,629.0,SUP-126,1,0.32
+SKU000052,Pepsodent 190g,Personal Care,Unilever,3200.0,pcs,0,267.0,SUP-132,0,0.0
+SKU000053,Bimoli Pouch 2000ml,Food & Staples,Salim Ivomas,18200.0,pack,0,321.0,SUP-161,0,0.0
+SKU000054,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,44000.0,pack,0,,SUP-182,0,0.0
+SKU000055,Bimoli Pouch 2000ml,Food & Staples,Salim Ivomas,20300.0,pack,0,665.0,SUP-135,0,0.0
+SKU000056,Aqua 600ml,Beverage,Danone-Aqua,18300.0,botol,1,64.0,SUP-109,0,0.0
+SKU000057,INDOMIE MIE GORENG,Food & Staples,Indofood,32000.0,pack,0,564.0,SUP-106,0,0.0
+SKU000058,AQ btl 600,Beverage,Danone-Aqua,16400.0,botol,0,272.0,SUP-161,1,0.31
+SKU000059,Aqua 600ml,Beverage,Danone-Aqua,21800.0,botol,0,607.0,SUP-186,0,0.0
+SKU000060,Pepsodent 190g,Personal Care,Unilever,40100.0,pcs,0,705.0,SUP-136,0,0.0
+SKU000061,PEPSODENT 190G,Personal Care,Unilever,43100.0,pcs,0,259.0,SUP-111,0,0.0
+SKU000062,INDOMIE MIE GORENG,Food & Staples,Indofood,39100.0,pack,0,410.0,SUP-111,0,0.0
+SKU000063,Pepsodent 190g,Personal Care,Unilever,32900.0,pcs,0,272.0,SUP-118,0,0.0
+SKU000064,Pepsodent 190g,Personal Care,Unilever,25600.0,pcs,0,189.0,SUP-165,0,0.0
+SKU000065,PEPSODENT 190G,Personal Care,Unilever,41800.0,pcs,0,337.0,SUP-173,1,0.2
+SKU000066,Pepsodent 190g,Personal Care,Unilever,27600.0,pcs,0,578.0,SUP-112,0,0.0
+SKU000067,Pepsodent 190g,Personal Care,Unilever,32900.0,pcs,0,243.0,SUP-139,0,0.0
+SKU000068,INDOMIE MIE GORENG,Food & Staples,Indofood,6900.0,pack,0,338.0,SUP-114,0,0.0
+SKU000069,Rokok Sampoerna Mild,Cigarettes,Sampoerna,15800.0,pack,0,,SUP-174,0,0.0
+SKU000070,Pepsodent 190g,Personal Care,Unilever,18500.0,pcs,0,676.0,SUP-159,1,0.23
+SKU000071,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,15100.0,pack,0,,SUP-150,0,0.0
+SKU000072,Pepsodent 190g,Personal Care,Unilever,4900.0,pcs,0,243.0,SUP-172,1,0.16
+SKU000073,Pepsodent 190g,Personal Care,Unilever,38800.0,pcs,0,595.0,SUP-135,0,0.0
+SKU000074,Indomie Goreng,Food & Staples,Indofood,28700.0,pack,0,547.0,SUP-144,0,0.0
+SKU000075,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,39600.0,pack,0,,SUP-161,0,0.0
+SKU000076,AQ btl 600,Beverage,Danone-Aqua,4300.0,botol,0,662.0,SUP-128,1,0.38
+SKU000077,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,18700.0,pack,0,,SUP-115,0,0.0
+SKU000078,Mnyk Goreng Bimoli,Food & Staples,Salim Ivomas,44200.0,pack,0,326.0,SUP-195,0,0.0
+SKU000079,Indm Grg,Food & Staples,Indofood,10200.0,pack,0,543.0,SUP-148,0,0.0
+SKU000080,AQ btl 600,Beverage,Danone-Aqua,9300.0,botol,1,33.0,SUP-121,0,0.0
+SKU000081,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,24800.0,pack,0,,SUP-101,0,0.0
+SKU000082,AQ btl 600,Beverage,Danone-Aqua,18600.0,botol,0,302.0,SUP-163,0,0.0
+SKU000083,Bimoli Pouch 2000ml,Food & Staples,Salim Ivomas,11400.0,pack,0,330.0,SUP-117,0,0.0
+SKU000084,Pepsodent 190g,Personal Care,Unilever,38700.0,pcs,0,325.0,SUP-101,0,0.0
+SKU000085,PEPSODENT 190G,Personal Care,Unilever,13500.0,pcs,0,187.0,SUP-184,0,0.0
+SKU000086,Mnyk Goreng Bimoli,Food & Staples,Salim Ivomas,7700.0,pack,0,334.0,SUP-132,1,0.32
+SKU000087,AQ btl 600,Beverage,Danone-Aqua,15900.0,botol,1,49.0,SUP-189,1,0.24
+SKU000088,PEPSODENT 190G,Personal Care,Unilever,42500.0,pcs,0,254.0,SUP-103,0,0.0
+SKU000089,Aqua 600ml,Beverage,Danone-Aqua,7400.0,botol,0,462.0,SUP-107,0,0.0
+SKU000090,Bimoli Pouch 2000ml,Food & Staples,Salim Ivomas,23600.0,pack,0,721.0,SUP-132,0,0.0
+SKU000091,Indomie Goreng,Food & Staples,Indofood,14500.0,pack,0,708.0,SUP-180,0,0.0
+SKU000092,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,42200.0,pack,0,,SUP-165,0,0.0
+SKU000093,Air Mineral Aqua,Beverage,Danone-Aqua,30500.0,botol,0,271.0,SUP-179,0,0.0
+SKU000094,Mnyk Goreng Bimoli,Food & Staples,Salim Ivomas,5900.0,pack,0,383.0,SUP-100,0,0.0
+SKU000095,Air Mineral Aqua,Beverage,Danone-Aqua,4800.0,botol,0,319.0,SUP-183,1,0.33
+SKU000096,Mnyk Goreng Bimoli,Food & Staples,Salim Ivomas,15600.0,pack,0,543.0,SUP-156,0,0.0
+SKU000097,Aqua 600ml,Beverage,Danone-Aqua,17600.0,botol,0,542.0,SUP-159,0,0.0
+SKU000098,Rokok Sampoerna Mild,Cigarettes,Sampoerna,19500.0,pack,0,,SUP-172,0,0.0
+SKU000099,Minyak Bimoli 2L,Food & Staples,Salim Ivomas,37100.0,pack,0,568.0,SUP-124,0,0.0
+SKU000100,Air Mineral Aqua,Beverage,Danone-Aqua,5800.0,botol,1,119.0,SUP-141,1,0.26
+SKU000101,Indm Grg,Food & Staples,Indofood,44800.0,pack,0,289.0,SUP-149,0,0.0
+SKU000102,PEPSODENT 190G,Personal Care,Unilever,36100.0,pcs,0,574.0,SUP-137,0,0.0
+SKU000103,Air Mineral Aqua,Beverage,Danone-Aqua,28000.0,botol,1,85.0,SUP-196,1,0.39
+SKU000104,Mnyk Goreng Bimoli,Food & Staples,Salim Ivomas,41100.0,pack,0,472.0,SUP-133,0,0.0
+SKU000105,AQ btl 600,Beverage,Danone-Aqua,27100.0,botol,0,386.0,SUP-154,1,0.37
+SKU000106,PEPSODENT 190G,Personal Care,Unilever,34100.0,pcs,0,723.0,SUP-146,0,0.0
+SKU000107,Mnyk Goreng Bimoli,Food & Staples,Salim Ivomas,29500.0,pack,0,650.0,SUP-173,0,0.0
+SKU000108,AQ btl 600,Beverage,Danone-Aqua,6000.0,botol,0,400.0,SUP-110,0,0.0
+SKU000109,PEPSODENT 190G,Personal Care,Unilever,35800.0,pcs,0,673.0,SUP-195,0,0.0
+SKU000110,Air Mineral Aqua,Beverage,Danone-Aqua,25600.0,botol,0,285.0,SUP-136,0,0.0
+SKU000111,Aqua 600ml,Beverage,Danone-Aqua,4500.0,botol,0,273.0,SUP-123,0,0.0
+SKU000112,PEPSODENT 190G,Personal Care,Unilever,14600.0,pcs,0,242.0,SUP-112,0,0.0
+SKU000113,Pepsodent 190g,Personal Care,Unilever,10800.0,pcs,0,702.0,SUP-137,0,0.0
+SKU000114,Indm Grg,Food & Staples,Indofood,14400.0,pack,0,518.0,SUP-104,0,0.0
+SKU000115,Bimoli Pouch 2000ml,Food & Staples,Salim Ivomas,31100.0,pack,0,588.0,SUP-174,0,0.0
+SKU000116,Rokok Sampoerna Mild,Cigarettes,Sampoerna,7600.0,pack,0,,SUP-179,0,0.0
+SKU000117,PEPSODENT 190G,Personal Care,Unilever,26900.0,pcs,0,622.0,SUP-164,0,0.0
+SKU000118,INDOMIE MIE GORENG,Food & Staples,Indofood,3700.0,pack,0,628.0,SUP-179,0,0.0
+SKU000119,Minyak Bimoli 2L,Food & Staples,Salim Ivomas,35700.0,pack,0,496.0,SUP-101,1,0.36
+SKU000120,Rokok Sampoerna Mild,Cigarettes,Sampoerna,41300.0,pack,0,,SUP-152,0,0.0
+SKU000121,Indomie Goreng,Food & Staples,Indofood,23700.0,pack,0,503.0,SUP-157,0,0.0
+SKU000122,Bimoli Pouch 2000ml,Food & Staples,Salim Ivomas,25000.0,pack,0,302.0,SUP-123,0,0.0
+SKU000123,Rokok Sampoerna Mild,Cigarettes,Sampoerna,44700.0,pack,0,,SUP-133,0,0.0
+SKU000124,PEPSODENT 190G,Personal Care,Unilever,20400.0,pcs,0,291.0,SUP-167,0,0.0
+SKU000125,AQ btl 600,Beverage,Danone-Aqua,44100.0,botol,0,682.0,SUP-197,0,0.0
+SKU000126,Indm Grg,Food & Staples,Indofood,21000.0,pack,0,330.0,SUP-170,0,0.0
+SKU000127,Air Mineral Aqua,Beverage,Danone-Aqua,19100.0,botol,0,328.0,SUP-111,0,0.0
+SKU000128,Air Mineral Aqua,Beverage,Danone-Aqua,41000.0,botol,0,568.0,SUP-191,0,0.0
+SKU000129,PEPSODENT 190G,Personal Care,Unilever,3400.0,pcs,0,194.0,SUP-110,0,0.0
+SKU000130,Bimoli Pouch 2000ml,Food & Staples,Salim Ivomas,15500.0,pack,0,465.0,SUP-140,0,0.0
+SKU000131,Mnyk Goreng Bimoli,Food & Staples,Salim Ivomas,41700.0,pack,0,694.0,SUP-174,1,0.21
+SKU000132,Pepsodent 190g,Personal Care,Unilever,28500.0,pcs,0,613.0,SUP-102,0,0.0
+SKU000133,PEPSODENT 190G,Personal Care,Unilever,18700.0,pcs,0,624.0,SUP-187,0,0.0
+SKU000134,AQ btl 600,Beverage,Danone-Aqua,23900.0,botol,0,241.0,SUP-137,1,0.38
+SKU000135,Bimoli Pouch 2000ml,Food & Staples,Salim Ivomas,42500.0,pack,0,406.0,SUP-148,0,0.0
+SKU000136,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,16100.0,pack,0,,SUP-180,0,0.0
+SKU000137,Rokok Sampoerna Mild,Cigarettes,Sampoerna,12400.0,pack,0,,SUP-144,0,0.0
+SKU000138,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,20900.0,pack,0,,SUP-111,0,0.0
+SKU000139,Aqua 600ml,Beverage,Danone-Aqua,36400.0,botol,0,590.0,SUP-182,0,0.0
+SKU000140,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,30200.0,pack,0,,SUP-176,0,0.0
+SKU000141,Indomie Goreng,Food & Staples,Indofood,14600.0,pack,0,388.0,SUP-187,1,0.18
+SKU000142,Pepsodent 190g,Personal Care,Unilever,29600.0,pcs,0,554.0,SUP-191,0,0.0
+SKU000143,Air Mineral Aqua,Beverage,Danone-Aqua,28300.0,botol,1,118.0,SUP-162,0,0.0
+SKU000144,Indomie Goreng,Food & Staples,Indofood,23900.0,pack,0,643.0,SUP-198,1,0.23
+SKU000145,Rokok Sampoerna Mild,Cigarettes,Sampoerna,12200.0,pack,0,,SUP-124,0,0.0
+SKU000146,Indm Grg,Food & Staples,Indofood,44800.0,pack,0,496.0,SUP-138,0,0.0
+SKU000147,Minyak Bimoli 2L,Food & Staples,Salim Ivomas,38600.0,pack,0,458.0,SUP-161,1,0.15
+SKU000148,Aqua 600ml,Beverage,Danone-Aqua,22400.0,botol,0,219.0,SUP-135,0,0.0
+SKU000149,PEPSODENT 190G,Personal Care,Unilever,28500.0,pcs,0,354.0,SUP-127,0,0.0
+SKU000150,Rokok Sampoerna Mild,Cigarettes,Sampoerna,42400.0,pack,0,,SUP-159,0,0.0
+SKU000151,Pepsodent 190g,Personal Care,Unilever,4500.0,pcs,0,385.0,SUP-107,0,0.0
+SKU000152,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,41200.0,pack,0,,SUP-119,0,0.0
+SKU000153,Rokok Sampoerna Mild,Cigarettes,Sampoerna,43600.0,pack,0,,SUP-187,0,0.0
+SKU000154,Mnyk Goreng Bimoli,Food & Staples,Salim Ivomas,38900.0,pack,0,441.0,SUP-142,1,0.25
+SKU000155,Indm Grg,Food & Staples,Indofood,38400.0,pack,0,301.0,SUP-157,0,0.0
+SKU000156,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,37300.0,pack,0,,SUP-146,0,0.0
+SKU000157,Air Mineral Aqua,Beverage,Danone-Aqua,21200.0,botol,1,78.0,SUP-143,0,0.0
+SKU000158,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,17800.0,pack,0,,SUP-159,0,0.0
+SKU000159,Rokok Sampoerna Mild,Cigarettes,Sampoerna,9700.0,pack,0,,SUP-110,0,0.0
+SKU000160,PEPSODENT 190G,Personal Care,Unilever,25500.0,pcs,0,582.0,SUP-147,1,0.4
+SKU000161,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,6900.0,pack,0,,SUP-144,0,0.0
+SKU000162,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,33800.0,pack,0,,SUP-198,0,0.0
+SKU000163,Pepsodent 190g,Personal Care,Unilever,4900.0,pcs,0,413.0,SUP-139,1,0.28
+SKU000164,Rokok Sampoerna Mild,Cigarettes,Sampoerna,26200.0,pack,0,,SUP-174,0,0.0
+SKU000165,Rokok Sampoerna Mild,Cigarettes,Sampoerna,20500.0,pack,0,,SUP-193,0,0.0
+SKU000166,Air Mineral Aqua,Beverage,Danone-Aqua,30200.0,botol,0,552.0,SUP-100,0,0.0
+SKU000167,Pepsodent 190g,Personal Care,Unilever,17100.0,pcs,0,577.0,SUP-114,0,0.0
+SKU000168,Rokok Sampoerna Mild,Cigarettes,Sampoerna,11900.0,pack,0,,SUP-153,0,0.0
+SKU000169,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,27200.0,pack,0,,SUP-142,0,0.0
+SKU000170,Indm Grg,Food & Staples,Indofood,37800.0,pack,0,495.0,SUP-110,0,0.0
+SKU000171,PEPSODENT 190G,Personal Care,Unilever,18000.0,pcs,0,616.0,SUP-114,0,0.0
+SKU000172,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,33600.0,pack,0,,SUP-115,0,0.0
+SKU000173,Air Mineral Aqua,Beverage,Danone-Aqua,8600.0,botol,1,81.0,SUP-113,0,0.0
+SKU000174,Pepsodent 190g,Personal Care,Unilever,39200.0,pcs,0,374.0,SUP-116,0,0.0
+SKU000175,Indm Grg,Food & Staples,Indofood,34400.0,pack,0,598.0,SUP-191,1,0.27
+SKU000176,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,32700.0,pack,0,,SUP-179,0,0.0
+SKU000177,Indm Grg,Food & Staples,Indofood,35300.0,pack,0,183.0,SUP-147,0,0.0
+SKU000178,Mnyk Goreng Bimoli,Food & Staples,Salim Ivomas,7000.0,pack,0,413.0,SUP-178,0,0.0
+SKU000179,Air Mineral Aqua,Beverage,Danone-Aqua,39000.0,botol,1,33.0,SUP-198,0,0.0
+SKU000180,Bimoli Pouch 2000ml,Food & Staples,Salim Ivomas,33500.0,pack,0,343.0,SUP-185,0,0.0
+SKU000181,Mnyk Goreng Bimoli,Food & Staples,Salim Ivomas,23600.0,pack,0,407.0,SUP-155,1,0.27
+SKU000182,Minyak Bimoli 2L,Food & Staples,Salim Ivomas,11600.0,pack,0,378.0,SUP-198,1,0.26
+SKU000183,INDOMIE MIE GORENG,Food & Staples,Indofood,39900.0,pack,0,514.0,SUP-112,0,0.0
+SKU000184,Rokok Sampoerna Mild,Cigarettes,Sampoerna,30400.0,pack,0,,SUP-106,0,0.0
+SKU000185,INDOMIE MIE GORENG,Food & Staples,Indofood,10300.0,pack,0,376.0,SUP-146,0,0.0
+SKU000186,Mnyk Goreng Bimoli,Food & Staples,Salim Ivomas,8600.0,pack,0,371.0,SUP-153,0,0.0
+SKU000187,Bimoli Pouch 2000ml,Food & Staples,Salim Ivomas,3800.0,pack,0,646.0,SUP-143,1,0.31
+SKU000188,Aqua 600ml,Beverage,Danone-Aqua,10200.0,botol,0,351.0,SUP-178,0,0.0
+SKU000189,Bimoli Pouch 2000ml,Food & Staples,Salim Ivomas,21000.0,pack,0,272.0,SUP-148,0,0.0
+SKU000190,INDOMIE MIE GORENG,Food & Staples,Indofood,30300.0,pack,0,456.0,SUP-105,0,0.0
+SKU000191,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,34500.0,pack,0,,SUP-118,0,0.0
+SKU000192,Pepsodent 190g,Personal Care,Unilever,24400.0,pcs,0,638.0,SUP-130,0,0.0
+SKU000193,Bimoli Pouch 2000ml,Food & Staples,Salim Ivomas,27900.0,pack,0,312.0,SUP-118,0,0.0
+SKU000194,PEPSODENT 190G,Personal Care,Unilever,16500.0,pcs,0,257.0,SUP-191,0,0.0
+SKU000195,Rokok Sampoerna Mild,Cigarettes,Sampoerna,4200.0,pack,0,,SUP-191,0,0.0
+SKU000196,Bimoli Pouch 2000ml,Food & Staples,Salim Ivomas,23500.0,pack,0,393.0,SUP-170,0,0.0
+SKU000197,Air Mineral Aqua,Beverage,Danone-Aqua,19900.0,botol,0,457.0,SUP-141,0,0.0
+SKU000198,Pepsodent 190g,Personal Care,Unilever,19700.0,pcs,0,455.0,SUP-124,0,0.0
+SKU000199,Mnyk Goreng Bimoli,Food & Staples,Salim Ivomas,3200.0,pack,0,641.0,SUP-179,0,0.0
+SKU000200,Mnyk Goreng Bimoli,Food & Staples,Salim Ivomas,40500.0,pack,0,187.0,SUP-165,0,0.0
+SKU000201,Pepsodent 190g,Personal Care,Unilever,12300.0,pcs,0,650.0,SUP-170,0,0.0
+SKU000202,Rokok Sampoerna Mild,Cigarettes,Sampoerna,15300.0,pack,0,,SUP-102,0,0.0
+SKU000203,Rokok Sampoerna Mild,Cigarettes,Sampoerna,38900.0,pack,0,,SUP-124,0,0.0
+SKU000204,Aqua 600ml,Beverage,Danone-Aqua,40700.0,botol,0,662.0,SUP-141,0,0.0
+SKU000205,Air Mineral Aqua,Beverage,Danone-Aqua,41200.0,botol,0,422.0,SUP-188,1,0.31
+SKU000206,Bimoli Pouch 2000ml,Food & Staples,Salim Ivomas,32300.0,pack,0,534.0,SUP-117,1,0.25
+SKU000207,Pepsodent 190g,Personal Care,Unilever,32500.0,pcs,0,326.0,SUP-135,0,0.0
+SKU000208,Indm Grg,Food & Staples,Indofood,8400.0,pack,0,469.0,SUP-129,0,0.0
+SKU000209,Aqua 600ml,Beverage,Danone-Aqua,27100.0,botol,0,357.0,SUP-108,0,0.0
+SKU000210,PEPSODENT 190G,Personal Care,Unilever,4300.0,pcs,0,339.0,SUP-194,0,0.0
+SKU000211,Pepsodent 190g,Personal Care,Unilever,31300.0,pcs,0,713.0,SUP-169,1,0.38
+SKU000212,Pepsodent 190g,Personal Care,Unilever,44500.0,pcs,0,308.0,SUP-147,0,0.0
+SKU000213,Minyak Bimoli 2L,Food & Staples,Salim Ivomas,25200.0,pack,0,575.0,SUP-177,0,0.0
+SKU000214,Bimoli Pouch 2000ml,Food & Staples,Salim Ivomas,16400.0,pack,0,635.0,SUP-121,1,0.32
+SKU000215,INDOMIE MIE GORENG,Food & Staples,Indofood,25300.0,pack,0,546.0,SUP-122,1,0.18
+SKU000216,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,8100.0,pack,0,,SUP-113,0,0.0
+SKU000217,Mnyk Goreng Bimoli,Food & Staples,Salim Ivomas,29700.0,pack,0,349.0,SUP-135,1,0.25
+SKU000218,PEPSODENT 190G,Personal Care,Unilever,16600.0,pcs,0,349.0,SUP-178,0,0.0
+SKU000219,PEPSODENT 190G,Personal Care,Unilever,38300.0,pcs,0,288.0,SUP-114,0,0.0
+SKU000220,Pepsodent 190g,Personal Care,Unilever,30400.0,pcs,0,563.0,SUP-160,0,0.0
+SKU000221,PEPSODENT 190G,Personal Care,Unilever,6200.0,pcs,0,306.0,SUP-185,1,0.23
+SKU000222,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,33500.0,pack,0,,SUP-140,0,0.0
+SKU000223,Indomie Goreng,Food & Staples,Indofood,40300.0,pack,0,270.0,SUP-154,0,0.0
+SKU000224,Pepsodent 190g,Personal Care,Unilever,34500.0,pcs,0,501.0,SUP-134,0,0.0
+SKU000225,INDOMIE MIE GORENG,Food & Staples,Indofood,14000.0,pack,0,516.0,SUP-100,0,0.0
+SKU000226,Indm Grg,Food & Staples,Indofood,25400.0,pack,0,573.0,SUP-151,0,0.0
+SKU000227,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,30700.0,pack,0,,SUP-157,0,0.0
+SKU000228,AQ btl 600,Beverage,Danone-Aqua,22100.0,botol,0,564.0,SUP-129,0,0.0
+SKU000229,Rokok Sampoerna Mild,Cigarettes,Sampoerna,9600.0,pack,0,,SUP-186,0,0.0
+SKU000230,Mnyk Goreng Bimoli,Food & Staples,Salim Ivomas,28100.0,pack,0,639.0,SUP-114,0,0.0
+SKU000231,PEPSODENT 190G,Personal Care,Unilever,9700.0,pcs,0,552.0,SUP-187,0,0.0
+SKU000232,Pepsodent 190g,Personal Care,Unilever,16800.0,pcs,0,672.0,SUP-104,0,0.0
+SKU000233,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,6000.0,pack,0,,SUP-176,1,0.31
+SKU000234,Rokok Sampoerna Mild,Cigarettes,Sampoerna,33600.0,pack,0,,SUP-160,0,0.0
+SKU000235,Mnyk Goreng Bimoli,Food & Staples,Salim Ivomas,15300.0,pack,0,583.0,SUP-148,0,0.0
+SKU000236,Aqua 600ml,Beverage,Danone-Aqua,26100.0,botol,0,470.0,SUP-108,1,0.21
+SKU000237,Minyak Bimoli 2L,Food & Staples,Salim Ivomas,15900.0,pack,0,515.0,SUP-193,0,0.0
+SKU000238,AQ btl 600,Beverage,Danone-Aqua,43100.0,botol,1,96.0,SUP-160,0,0.0
+SKU000239,Air Mineral Aqua,Beverage,Danone-Aqua,20600.0,botol,0,476.0,SUP-125,0,0.0
+SKU000240,Aqua 600ml,Beverage,Danone-Aqua,8500.0,botol,0,636.0,SUP-172,0,0.0
+SKU000241,Indomie Goreng,Food & Staples,Indofood,39600.0,pack,0,682.0,SUP-162,0,0.0
+SKU000242,PEPSODENT 190G,Personal Care,Unilever,38600.0,pcs,0,230.0,SUP-136,0,0.0
+SKU000243,Indm Grg,Food & Staples,Indofood,34800.0,pack,0,423.0,SUP-157,0,0.0
+SKU000244,PEPSODENT 190G,Personal Care,Unilever,21500.0,pcs,0,504.0,SUP-149,0,0.0
+SKU000245,AQ btl 600,Beverage,Danone-Aqua,17600.0,botol,0,710.0,SUP-130,0,0.0
+SKU000246,Pepsodent 190g,Personal Care,Unilever,32500.0,pcs,0,433.0,SUP-146,0,0.0
+SKU000247,AQ btl 600,Beverage,Danone-Aqua,6400.0,botol,1,63.0,SUP-170,0,0.0
+SKU000248,Pepsodent 190g,Personal Care,Unilever,10600.0,pcs,0,682.0,SUP-185,0,0.0
+SKU000249,Aqua 600ml,Beverage,Danone-Aqua,6500.0,botol,0,659.0,SUP-112,0,0.0
+SKU000250,Mnyk Goreng Bimoli,Food & Staples,Salim Ivomas,40600.0,pack,0,510.0,SUP-170,0,0.0
+SKU000251,Aqua 600ml,Beverage,Danone-Aqua,26200.0,botol,1,115.0,SUP-127,0,0.0
+SKU000252,AQ btl 600,Beverage,Danone-Aqua,23300.0,botol,0,191.0,SUP-171,0,0.0
+SKU000253,Mnyk Goreng Bimoli,Food & Staples,Salim Ivomas,24000.0,pack,0,535.0,SUP-142,1,0.32
+SKU000254,Indm Grg,Food & Staples,Indofood,15500.0,pack,0,712.0,SUP-141,0,0.0
+SKU000255,Minyak Bimoli 2L,Food & Staples,Salim Ivomas,14100.0,pack,0,201.0,SUP-183,0,0.0
+SKU000256,INDOMIE MIE GORENG,Food & Staples,Indofood,31600.0,pack,0,597.0,SUP-134,0,0.0
+SKU000257,Bimoli Pouch 2000ml,Food & Staples,Salim Ivomas,6200.0,pack,0,287.0,SUP-169,0,0.0
+SKU000258,Air Mineral Aqua,Beverage,Danone-Aqua,41300.0,botol,0,302.0,SUP-122,0,0.0
+SKU000259,Indm Grg,Food & Staples,Indofood,32800.0,pack,0,328.0,SUP-113,0,0.0
+SKU000260,Air Mineral Aqua,Beverage,Danone-Aqua,29900.0,botol,1,68.0,SUP-158,0,0.0
+SKU000261,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,23900.0,pack,0,,SUP-114,0,0.0
+SKU000262,Indomie Goreng,Food & Staples,Indofood,26200.0,pack,0,212.0,SUP-114,1,0.39
+SKU000263,Mnyk Goreng Bimoli,Food & Staples,Salim Ivomas,37900.0,pack,0,567.0,SUP-161,0,0.0
+SKU000264,Indomie Goreng,Food & Staples,Indofood,30900.0,pack,0,362.0,SUP-177,1,0.26
+SKU000265,Mnyk Goreng Bimoli,Food & Staples,Salim Ivomas,11800.0,pack,0,279.0,SUP-128,0,0.0
+SKU000266,Rokok Sampoerna Mild,Cigarettes,Sampoerna,9600.0,pack,0,,SUP-133,0,0.0
+SKU000267,Minyak Bimoli 2L,Food & Staples,Salim Ivomas,44700.0,pack,0,535.0,SUP-156,0,0.0
+SKU000268,INDOMIE MIE GORENG,Food & Staples,Indofood,23500.0,pack,0,306.0,SUP-188,0,0.0
+SKU000269,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,37200.0,pack,0,,SUP-169,0,0.0
+SKU000270,Bimoli Pouch 2000ml,Food & Staples,Salim Ivomas,22700.0,pack,0,509.0,SUP-193,1,0.33
+SKU000271,Mnyk Goreng Bimoli,Food & Staples,Salim Ivomas,35800.0,pack,0,542.0,SUP-141,1,0.29
+SKU000272,Mnyk Goreng Bimoli,Food & Staples,Salim Ivomas,29400.0,pack,0,317.0,SUP-162,1,0.3
+SKU000273,Rokok Sampoerna Mild,Cigarettes,Sampoerna,39900.0,pack,0,,SUP-153,0,0.0
+SKU000274,Indomie Goreng,Food & Staples,Indofood,23000.0,pack,0,187.0,SUP-198,0,0.0
+SKU000275,Bimoli Pouch 2000ml,Food & Staples,Salim Ivomas,32100.0,pack,0,271.0,SUP-195,0,0.0
+SKU000276,Rokok Sampoerna Mild,Cigarettes,Sampoerna,43700.0,pack,0,,SUP-116,0,0.0
+SKU000277,Indomie Goreng,Food & Staples,Indofood,26800.0,pack,0,246.0,SUP-190,0,0.0
+SKU000278,Mnyk Goreng Bimoli,Food & Staples,Salim Ivomas,12300.0,pack,0,204.0,SUP-117,0,0.0
+SKU000279,Bimoli Pouch 2000ml,Food & Staples,Salim Ivomas,27900.0,pack,0,388.0,SUP-102,0,0.0
+SKU000280,Mnyk Goreng Bimoli,Food & Staples,Salim Ivomas,41900.0,pack,0,224.0,SUP-138,0,0.0
+SKU000281,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,28300.0,pack,0,,SUP-114,0,0.0
+SKU000282,PEPSODENT 190G,Personal Care,Unilever,25700.0,pcs,0,562.0,SUP-198,1,0.36
+SKU000283,Air Mineral Aqua,Beverage,Danone-Aqua,32200.0,botol,0,299.0,SUP-170,0,0.0
+SKU000284,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,22200.0,pack,0,,SUP-175,0,0.0
+SKU000285,Pepsodent 190g,Personal Care,Unilever,6400.0,pcs,0,363.0,SUP-101,0,0.0
+SKU000286,Indomie Goreng,Food & Staples,Indofood,35300.0,pack,0,620.0,SUP-138,0,0.0
+SKU000287,Rokok Sampoerna Mild,Cigarettes,Sampoerna,22800.0,pack,0,,SUP-184,0,0.0
+SKU000288,Mnyk Goreng Bimoli,Food & Staples,Salim Ivomas,15900.0,pack,0,693.0,SUP-105,1,0.34
+SKU000289,PEPSODENT 190G,Personal Care,Unilever,13800.0,pcs,0,728.0,SUP-166,0,0.0
+SKU000290,Indomie Goreng,Food & Staples,Indofood,16600.0,pack,0,463.0,SUP-148,1,0.22
+SKU000291,Indomie Goreng,Food & Staples,Indofood,39400.0,pack,0,276.0,SUP-102,1,0.38
+SKU000292,Mnyk Goreng Bimoli,Food & Staples,Salim Ivomas,26700.0,pack,0,314.0,SUP-151,0,0.0
+SKU000293,Aqua 600ml,Beverage,Danone-Aqua,23500.0,botol,1,85.0,SUP-104,0,0.0
+SKU000294,Indomie Goreng,Food & Staples,Indofood,32200.0,pack,0,486.0,SUP-151,0,0.0
+SKU000295,INDOMIE MIE GORENG,Food & Staples,Indofood,25200.0,pack,0,556.0,SUP-193,1,0.21
+SKU000296,Aqua 600ml,Beverage,Danone-Aqua,36600.0,botol,0,283.0,SUP-170,1,0.18
+SKU000297,Indomie Goreng,Food & Staples,Indofood,17400.0,pack,0,482.0,SUP-103,0,0.0
+SKU000298,Pepsodent 190g,Personal Care,Unilever,33400.0,pcs,0,692.0,SUP-172,0,0.0
+SKU000299,Bimoli Pouch 2000ml,Food & Staples,Salim Ivomas,28300.0,pack,0,635.0,SUP-178,0,0.0
+SKU000300,Air Mineral Aqua,Beverage,Danone-Aqua,16700.0,botol,0,327.0,SUP-115,0,0.0
+SKU000301,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,28800.0,pack,0,,SUP-159,0,0.0
+SKU000302,PEPSODENT 190G,Personal Care,Unilever,6800.0,pcs,0,577.0,SUP-157,0,0.0
+SKU000303,Air Mineral Aqua,Beverage,Danone-Aqua,38300.0,botol,1,61.0,SUP-106,0,0.0
+SKU000304,PEPSODENT 190G,Personal Care,Unilever,22700.0,pcs,0,579.0,SUP-124,0,0.0
+SKU000305,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,20600.0,pack,0,,SUP-155,0,0.0
+SKU000306,PEPSODENT 190G,Personal Care,Unilever,27300.0,pcs,0,528.0,SUP-123,0,0.0
+SKU000307,Mnyk Goreng Bimoli,Food & Staples,Salim Ivomas,19400.0,pack,0,425.0,SUP-187,0,0.0
+SKU000308,Indomie Goreng,Food & Staples,Indofood,42400.0,pack,0,292.0,SUP-118,1,0.34
+SKU000309,Rokok Sampoerna Mild,Cigarettes,Sampoerna,36600.0,pack,0,,SUP-119,0,0.0
+SKU000310,Bimoli Pouch 2000ml,Food & Staples,Salim Ivomas,23300.0,pack,0,504.0,SUP-186,0,0.0
+SKU000311,Indomie Goreng,Food & Staples,Indofood,38700.0,pack,0,251.0,SUP-185,0,0.0
+SKU000312,Pepsodent 190g,Personal Care,Unilever,38300.0,pcs,0,729.0,SUP-142,0,0.0
+SKU000313,Air Mineral Aqua,Beverage,Danone-Aqua,19500.0,botol,0,262.0,SUP-173,1,0.27
+SKU000314,Indomie Goreng,Food & Staples,Indofood,23800.0,pack,0,695.0,SUP-109,1,0.3
+SKU000315,Indm Grg,Food & Staples,Indofood,12500.0,pack,0,334.0,SUP-133,0,0.0
+SKU000316,Indm Grg,Food & Staples,Indofood,28100.0,pack,0,435.0,SUP-146,0,0.0
+SKU000317,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,44300.0,pack,0,,SUP-129,0,0.0
+SKU000318,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,22900.0,pack,0,,SUP-141,0,0.0
+SKU000319,Pepsodent 190g,Personal Care,Unilever,37400.0,pcs,0,557.0,SUP-155,0,0.0
+SKU000320,Aqua 600ml,Beverage,Danone-Aqua,40300.0,botol,0,245.0,SUP-186,0,0.0
+SKU000321,Bimoli Pouch 2000ml,Food & Staples,Salim Ivomas,36900.0,pack,0,654.0,SUP-178,0,0.0
+SKU000322,Indm Grg,Food & Staples,Indofood,34300.0,pack,0,590.0,SUP-190,0,0.0
+SKU000323,Air Mineral Aqua,Beverage,Danone-Aqua,32200.0,botol,0,274.0,SUP-161,0,0.0
+SKU000324,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,15600.0,pack,0,,SUP-161,0,0.0
+SKU000325,Minyak Bimoli 2L,Food & Staples,Salim Ivomas,39600.0,pack,0,622.0,SUP-190,0,0.0
+SKU000326,Minyak Bimoli 2L,Food & Staples,Salim Ivomas,40800.0,pack,0,611.0,SUP-188,0,0.0
+SKU000327,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,42100.0,pack,0,,SUP-191,0,0.0
+SKU000328,Minyak Bimoli 2L,Food & Staples,Salim Ivomas,11900.0,pack,0,359.0,SUP-184,0,0.0
+SKU000329,INDOMIE MIE GORENG,Food & Staples,Indofood,15300.0,pack,0,343.0,SUP-146,0,0.0
+SKU000330,Aqua 600ml,Beverage,Danone-Aqua,19900.0,botol,1,54.0,SUP-161,0,0.0
+SKU000331,PEPSODENT 190G,Personal Care,Unilever,25600.0,pcs,0,565.0,SUP-103,0,0.0
+SKU000332,Minyak Bimoli 2L,Food & Staples,Salim Ivomas,15600.0,pack,0,555.0,SUP-135,1,0.33
+SKU000333,PEPSODENT 190G,Personal Care,Unilever,43000.0,pcs,0,702.0,SUP-111,0,0.0
+SKU000334,Indomie Goreng,Food & Staples,Indofood,11100.0,pack,0,602.0,SUP-186,0,0.0
+SKU000335,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,41800.0,pack,0,,SUP-135,0,0.0
+SKU000336,Mnyk Goreng Bimoli,Food & Staples,Salim Ivomas,7400.0,pack,0,432.0,SUP-137,1,0.32
+SKU000337,Indm Grg,Food & Staples,Indofood,39800.0,pack,0,219.0,SUP-114,0,0.0
+SKU000338,PEPSODENT 190G,Personal Care,Unilever,30900.0,pcs,0,388.0,SUP-192,0,0.0
+SKU000339,Pepsodent 190g,Personal Care,Unilever,32000.0,pcs,0,332.0,SUP-158,0,0.0
+SKU000340,INDOMIE MIE GORENG,Food & Staples,Indofood,37500.0,pack,0,517.0,SUP-184,1,0.34
+SKU000341,Aqua 600ml,Beverage,Danone-Aqua,3500.0,botol,1,30.0,SUP-197,0,0.0
+SKU000342,Rokok Sampoerna Mild,Cigarettes,Sampoerna,26100.0,pack,0,,SUP-161,0,0.0
+SKU000343,Aqua 600ml,Beverage,Danone-Aqua,8500.0,botol,0,539.0,SUP-197,1,0.27
+SKU000344,Mnyk Goreng Bimoli,Food & Staples,Salim Ivomas,33100.0,pack,0,483.0,SUP-144,1,0.38
+SKU000345,Indm Grg,Food & Staples,Indofood,16100.0,pack,0,599.0,SUP-113,0,0.0
+SKU000346,Rokok Sampoerna Mild,Cigarettes,Sampoerna,43900.0,pack,0,,SUP-198,0,0.0
+SKU000347,PEPSODENT 190G,Personal Care,Unilever,20000.0,pcs,0,471.0,SUP-178,1,0.28
+SKU000348,Minyak Bimoli 2L,Food & Staples,Salim Ivomas,19900.0,pack,0,448.0,SUP-153,1,0.38
+SKU000349,Air Mineral Aqua,Beverage,Danone-Aqua,7700.0,botol,0,694.0,SUP-111,0,0.0
+SKU000350,PEPSODENT 190G,Personal Care,Unilever,21500.0,pcs,0,305.0,SUP-146,0,0.0
+SKU000351,Indomie Goreng,Food & Staples,Indofood,9000.0,pack,0,700.0,SUP-189,1,0.22
+SKU000352,Pepsodent 190g,Personal Care,Unilever,30500.0,pcs,0,346.0,SUP-143,0,0.0
+SKU000353,Aqua 600ml,Beverage,Danone-Aqua,36100.0,botol,0,705.0,SUP-114,0,0.0
+SKU000354,PEPSODENT 190G,Personal Care,Unilever,38400.0,pcs,0,410.0,SUP-100,0,0.0
+SKU000355,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,8700.0,pack,0,,SUP-190,0,0.0
+SKU000356,Aqua 600ml,Beverage,Danone-Aqua,44600.0,botol,0,686.0,SUP-109,0,0.0
+SKU000357,Bimoli Pouch 2000ml,Food & Staples,Salim Ivomas,30500.0,pack,0,305.0,SUP-114,0,0.0
+SKU000358,Mnyk Goreng Bimoli,Food & Staples,Salim Ivomas,44400.0,pack,0,517.0,SUP-195,0,0.0
+SKU000359,Indm Grg,Food & Staples,Indofood,19400.0,pack,0,473.0,SUP-116,0,0.0
+SKU000360,Rokok Sampoerna Mild,Cigarettes,Sampoerna,3400.0,pack,0,,SUP-100,0,0.0
+SKU000361,Bimoli Pouch 2000ml,Food & Staples,Salim Ivomas,34100.0,pack,0,403.0,SUP-106,1,0.19
+SKU000362,Minyak Bimoli 2L,Food & Staples,Salim Ivomas,26800.0,pack,0,703.0,SUP-156,0,0.0
+SKU000363,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,3200.0,pack,0,,SUP-136,0,0.0
+SKU000364,Bimoli Pouch 2000ml,Food & Staples,Salim Ivomas,21000.0,pack,0,564.0,SUP-172,1,0.25
+SKU000365,Pepsodent 190g,Personal Care,Unilever,17500.0,pcs,0,500.0,SUP-132,0,0.0
+SKU000366,Minyak Bimoli 2L,Food & Staples,Salim Ivomas,8200.0,pack,0,217.0,SUP-175,0,0.0
+SKU000367,Pepsodent 190g,Personal Care,Unilever,33300.0,pcs,0,271.0,SUP-114,0,0.0
+SKU000368,Mnyk Goreng Bimoli,Food & Staples,Salim Ivomas,20900.0,pack,0,547.0,SUP-138,0,0.0
+SKU000369,INDOMIE MIE GORENG,Food & Staples,Indofood,38200.0,pack,0,352.0,SUP-133,0,0.0
+SKU000370,Mnyk Goreng Bimoli,Food & Staples,Salim Ivomas,43700.0,pack,0,387.0,SUP-196,0,0.0
+SKU000371,Indm Grg,Food & Staples,Indofood,35200.0,pack,0,625.0,SUP-189,0,0.0
+SKU000372,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,29900.0,pack,0,,SUP-113,0,0.0
+SKU000373,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,21500.0,pack,0,,SUP-149,0,0.0
+SKU000374,Rokok Sampoerna Mild,Cigarettes,Sampoerna,15400.0,pack,0,,SUP-185,0,0.0
+SKU000375,PEPSODENT 190G,Personal Care,Unilever,42200.0,pcs,0,719.0,SUP-191,1,0.26
+SKU000376,Mnyk Goreng Bimoli,Food & Staples,Salim Ivomas,8600.0,pack,0,621.0,SUP-115,1,0.24
+SKU000377,Mnyk Goreng Bimoli,Food & Staples,Salim Ivomas,14300.0,pack,0,566.0,SUP-198,0,0.0
+SKU000378,PEPSODENT 190G,Personal Care,Unilever,25700.0,pcs,0,426.0,SUP-156,0,0.0
+SKU000379,Aqua 600ml,Beverage,Danone-Aqua,32300.0,botol,0,478.0,SUP-128,0,0.0
+SKU000380,PEPSODENT 190G,Personal Care,Unilever,17200.0,pcs,0,545.0,SUP-170,0,0.0
+SKU000381,Bimoli Pouch 2000ml,Food & Staples,Salim Ivomas,15800.0,pack,0,209.0,SUP-102,0,0.0
+SKU000382,Aqua 600ml,Beverage,Danone-Aqua,22200.0,botol,0,647.0,SUP-128,0,0.0
+SKU000383,Pepsodent 190g,Personal Care,Unilever,12100.0,pcs,0,274.0,SUP-177,0,0.0
+SKU000384,PEPSODENT 190G,Personal Care,Unilever,42700.0,pcs,0,658.0,SUP-181,0,0.0
+SKU000385,Aqua 600ml,Beverage,Danone-Aqua,30200.0,botol,0,663.0,SUP-160,0,0.0
+SKU000386,Mnyk Goreng Bimoli,Food & Staples,Salim Ivomas,23000.0,pack,0,564.0,SUP-145,0,0.0
+SKU000387,Pepsodent 190g,Personal Care,Unilever,28400.0,pcs,0,525.0,SUP-169,0,0.0
+SKU000388,Aqua 600ml,Beverage,Danone-Aqua,29600.0,botol,0,614.0,SUP-131,0,0.0
+SKU000389,Mnyk Goreng Bimoli,Food & Staples,Salim Ivomas,33000.0,pack,0,726.0,SUP-100,0,0.0
+SKU000390,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,41200.0,pack,0,,SUP-111,0,0.0
+SKU000391,Pepsodent 190g,Personal Care,Unilever,20700.0,pcs,0,401.0,SUP-180,0,0.0
+SKU000392,Indomie Goreng,Food & Staples,Indofood,27500.0,pack,0,552.0,SUP-102,0,0.0
+SKU000393,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,9400.0,pack,0,,SUP-150,0,0.0
+SKU000394,Pepsodent 190g,Personal Care,Unilever,5300.0,pcs,0,532.0,SUP-136,0,0.0
+SKU000395,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,20500.0,pack,0,,SUP-141,0,0.0
+SKU000396,Air Mineral Aqua,Beverage,Danone-Aqua,8000.0,botol,1,79.0,SUP-101,1,0.17
+SKU000397,PEPSODENT 190G,Personal Care,Unilever,27700.0,pcs,0,286.0,SUP-159,0,0.0
+SKU000398,Mnyk Goreng Bimoli,Food & Staples,Salim Ivomas,37200.0,pack,0,392.0,SUP-139,0,0.0
+SKU000399,Minyak Bimoli 2L,Food & Staples,Salim Ivomas,11400.0,pack,0,228.0,SUP-110,0,0.0
+SKU000400,Minyak Bimoli 2L,Food & Staples,Salim Ivomas,32700.0,pack,0,711.0,SUP-143,0,0.0
+SKU000401,Rokok Sampoerna Mild,Cigarettes,Sampoerna,23600.0,pack,0,,SUP-182,0,0.0
+SKU000402,Bimoli Pouch 2000ml,Food & Staples,Salim Ivomas,22200.0,pack,0,658.0,SUP-157,1,0.37
+SKU000403,Pepsodent 190g,Personal Care,Unilever,28600.0,pcs,0,342.0,SUP-144,0,0.0
+SKU000404,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,26900.0,pack,0,,SUP-132,0,0.0
+SKU000405,Air Mineral Aqua,Beverage,Danone-Aqua,11200.0,botol,0,242.0,SUP-196,0,0.0
+SKU000406,INDOMIE MIE GORENG,Food & Staples,Indofood,42200.0,pack,0,314.0,SUP-166,1,0.39
+SKU000407,Indomie Goreng,Food & Staples,Indofood,35100.0,pack,0,714.0,SUP-174,0,0.0
+SKU000408,Aqua 600ml,Beverage,Danone-Aqua,24600.0,botol,1,96.0,SUP-156,0,0.0
+SKU000409,Rokok Sampoerna Mild,Cigarettes,Sampoerna,30600.0,pack,0,,SUP-141,0,0.0
+SKU000410,PEPSODENT 190G,Personal Care,Unilever,37700.0,pcs,0,335.0,SUP-116,0,0.0
+SKU000411,AQ btl 600,Beverage,Danone-Aqua,34700.0,botol,0,690.0,SUP-189,0,0.0
+SKU000412,Mnyk Goreng Bimoli,Food & Staples,Salim Ivomas,21300.0,pack,0,337.0,SUP-123,0,0.0
+SKU000413,Rokok Sampoerna Mild,Cigarettes,Sampoerna,5700.0,pack,0,,SUP-140,0,0.0
+SKU000414,Bimoli Pouch 2000ml,Food & Staples,Salim Ivomas,6600.0,pack,0,712.0,SUP-104,0,0.0
+SKU000415,Indomie Goreng,Food & Staples,Indofood,16200.0,pack,0,416.0,SUP-161,0,0.0
+SKU000416,Pepsodent 190g,Personal Care,Unilever,38900.0,pcs,0,563.0,SUP-160,0,0.0
+SKU000417,AQ btl 600,Beverage,Danone-Aqua,17600.0,botol,1,57.0,SUP-100,0,0.0
+SKU000418,Air Mineral Aqua,Beverage,Danone-Aqua,7800.0,botol,0,387.0,SUP-167,1,0.25
+SKU000419,Indomie Goreng,Food & Staples,Indofood,5200.0,pack,0,711.0,SUP-124,0,0.0
+SKU000420,Indm Grg,Food & Staples,Indofood,42000.0,pack,0,329.0,SUP-151,0,0.0
+SKU000421,Indm Grg,Food & Staples,Indofood,21200.0,pack,0,471.0,SUP-122,0,0.0
+SKU000422,Minyak Bimoli 2L,Food & Staples,Salim Ivomas,15700.0,pack,0,675.0,SUP-124,0,0.0
+SKU000423,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,14100.0,pack,0,,SUP-125,0,0.0
+SKU000424,Minyak Bimoli 2L,Food & Staples,Salim Ivomas,4100.0,pack,0,374.0,SUP-196,0,0.0
+SKU000425,Air Mineral Aqua,Beverage,Danone-Aqua,4700.0,botol,0,671.0,SUP-164,0,0.0
+SKU000426,Pepsodent 190g,Personal Care,Unilever,20400.0,pcs,0,288.0,SUP-121,0,0.0
+SKU000427,Minyak Bimoli 2L,Food & Staples,Salim Ivomas,41500.0,pack,0,657.0,SUP-175,0,0.0
+SKU000428,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,10900.0,pack,0,,SUP-106,0,0.0
+SKU000429,Rokok Sampoerna Mild,Cigarettes,Sampoerna,39700.0,pack,0,,SUP-197,0,0.0
+SKU000430,Air Mineral Aqua,Beverage,Danone-Aqua,43900.0,botol,0,479.0,SUP-196,0,0.0
+SKU000431,Indm Grg,Food & Staples,Indofood,4800.0,pack,0,635.0,SUP-157,0,0.0
+SKU000432,INDOMIE MIE GORENG,Food & Staples,Indofood,38200.0,pack,0,478.0,SUP-173,0,0.0
+SKU000433,Minyak Bimoli 2L,Food & Staples,Salim Ivomas,7300.0,pack,0,470.0,SUP-179,0,0.0
+SKU000434,Mnyk Goreng Bimoli,Food & Staples,Salim Ivomas,6200.0,pack,0,224.0,SUP-110,0,0.0
+SKU000435,AQ btl 600,Beverage,Danone-Aqua,19200.0,botol,0,666.0,SUP-131,0,0.0
+SKU000436,AQ btl 600,Beverage,Danone-Aqua,38600.0,botol,0,416.0,SUP-131,0,0.0
+SKU000437,Mnyk Goreng Bimoli,Food & Staples,Salim Ivomas,16700.0,pack,0,562.0,SUP-173,1,0.24
+SKU000438,Pepsodent 190g,Personal Care,Unilever,7000.0,pcs,0,661.0,SUP-139,1,0.21
+SKU000439,Pepsodent 190g,Personal Care,Unilever,29800.0,pcs,0,228.0,SUP-166,0,0.0
+SKU000440,INDOMIE MIE GORENG,Food & Staples,Indofood,17800.0,pack,0,597.0,SUP-180,1,0.37
+SKU000441,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,20700.0,pack,0,,SUP-189,0,0.0
+SKU000442,Indm Grg,Food & Staples,Indofood,5800.0,pack,0,499.0,SUP-185,0,0.0
+SKU000443,Aqua 600ml,Beverage,Danone-Aqua,40300.0,botol,0,374.0,SUP-169,0,0.0
+SKU000444,INDOMIE MIE GORENG,Food & Staples,Indofood,6500.0,pack,0,587.0,SUP-139,0,0.0
+SKU000445,AQ btl 600,Beverage,Danone-Aqua,33900.0,botol,0,407.0,SUP-128,1,0.31
+SKU000446,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,33900.0,pack,0,,SUP-124,1,0.36
+SKU000447,Minyak Bimoli 2L,Food & Staples,Salim Ivomas,17700.0,pack,0,543.0,SUP-178,0,0.0
+SKU000448,INDOMIE MIE GORENG,Food & Staples,Indofood,29300.0,pack,0,645.0,SUP-147,1,0.39
+SKU000449,Indm Grg,Food & Staples,Indofood,41700.0,pack,0,191.0,SUP-158,1,0.31
+SKU000450,Aqua 600ml,Beverage,Danone-Aqua,41400.0,botol,0,365.0,SUP-127,0,0.0
+SKU000451,INDOMIE MIE GORENG,Food & Staples,Indofood,43800.0,pack,0,288.0,SUP-149,1,0.32
+SKU000452,Pepsodent 190g,Personal Care,Unilever,12100.0,pcs,0,421.0,SUP-137,0,0.0
+SKU000453,Rokok Sampoerna Mild,Cigarettes,Sampoerna,39800.0,pack,0,,SUP-124,0,0.0
+SKU000454,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,19500.0,pack,0,,SUP-191,0,0.0
+SKU000455,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,5200.0,pack,0,,SUP-147,0,0.0
+SKU000456,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,42700.0,pack,0,,SUP-163,0,0.0
+SKU000457,Rokok Sampoerna Mild,Cigarettes,Sampoerna,11800.0,pack,0,,SUP-126,0,0.0
+SKU000458,Rokok Sampoerna Mild,Cigarettes,Sampoerna,16600.0,pack,0,,SUP-171,0,0.0
+SKU000459,Aqua 600ml,Beverage,Danone-Aqua,44200.0,botol,1,83.0,SUP-113,0,0.0
+SKU000460,Pepsodent 190g,Personal Care,Unilever,11900.0,pcs,0,533.0,SUP-130,0,0.0
+SKU000461,Rokok Sampoerna Mild,Cigarettes,Sampoerna,25600.0,pack,0,,SUP-108,0,0.0
+SKU000462,Air Mineral Aqua,Beverage,Danone-Aqua,16200.0,botol,0,252.0,SUP-136,0,0.0
+SKU000463,PEPSODENT 190G,Personal Care,Unilever,27000.0,pcs,0,346.0,SUP-158,0,0.0
+SKU000464,Air Mineral Aqua,Beverage,Danone-Aqua,11200.0,botol,1,51.0,SUP-161,0,0.0
+SKU000465,AQ btl 600,Beverage,Danone-Aqua,29400.0,botol,0,215.0,SUP-157,1,0.16
+SKU000466,Pepsodent 190g,Personal Care,Unilever,14800.0,pcs,0,631.0,SUP-104,0,0.0
+SKU000467,INDOMIE MIE GORENG,Food & Staples,Indofood,15100.0,pack,0,433.0,SUP-197,0,0.0
+SKU000468,Rokok Sampoerna Mild,Cigarettes,Sampoerna,22600.0,pack,0,,SUP-147,0,0.0
+SKU000469,Pepsodent 190g,Personal Care,Unilever,40800.0,pcs,0,534.0,SUP-177,0,0.0
+SKU000470,Indomie Goreng,Food & Staples,Indofood,11400.0,pack,0,225.0,SUP-105,0,0.0
+SKU000471,Rokok Sampoerna Mild,Cigarettes,Sampoerna,15800.0,pack,0,,SUP-171,0,0.0
+SKU000472,Rokok Sampoerna Mild,Cigarettes,Sampoerna,33700.0,pack,0,,SUP-198,0,0.0
+SKU000473,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,26000.0,pack,0,,SUP-160,0,0.0
+SKU000474,Mnyk Goreng Bimoli,Food & Staples,Salim Ivomas,10000.0,pack,0,232.0,SUP-137,0,0.0
+SKU000475,Indm Grg,Food & Staples,Indofood,13500.0,pack,0,298.0,SUP-101,1,0.3
+SKU000476,Rokok Sampoerna Mild,Cigarettes,Sampoerna,18500.0,pack,0,,SUP-152,0,0.0
+SKU000477,INDOMIE MIE GORENG,Food & Staples,Indofood,40200.0,pack,0,461.0,SUP-161,1,0.23
+SKU000478,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,34900.0,pack,0,,SUP-188,0,0.0
+SKU000479,Indm Grg,Food & Staples,Indofood,3800.0,pack,0,571.0,SUP-143,0,0.0
+SKU000480,INDOMIE MIE GORENG,Food & Staples,Indofood,27300.0,pack,0,321.0,SUP-166,0,0.0
+SKU000481,Indm Grg,Food & Staples,Indofood,10000.0,pack,0,501.0,SUP-159,0,0.0
+SKU000482,Indomie Goreng,Food & Staples,Indofood,18200.0,pack,0,386.0,SUP-148,1,0.29
+SKU000483,Air Mineral Aqua,Beverage,Danone-Aqua,11700.0,botol,0,537.0,SUP-139,0,0.0
+SKU000484,INDOMIE MIE GORENG,Food & Staples,Indofood,13200.0,pack,0,241.0,SUP-123,1,0.29
+SKU000485,Bimoli Pouch 2000ml,Food & Staples,Salim Ivomas,12900.0,pack,0,726.0,SUP-163,0,0.0
+SKU000486,Mnyk Goreng Bimoli,Food & Staples,Salim Ivomas,32600.0,pack,0,359.0,SUP-114,1,0.34
+SKU000487,Minyak Bimoli 2L,Food & Staples,Salim Ivomas,11400.0,pack,0,313.0,SUP-175,0,0.0
+SKU000488,Air Mineral Aqua,Beverage,Danone-Aqua,16700.0,botol,0,196.0,SUP-112,0,0.0
+SKU000489,Mnyk Goreng Bimoli,Food & Staples,Salim Ivomas,42400.0,pack,0,319.0,SUP-138,0,0.0
+SKU000490,Minyak Bimoli 2L,Food & Staples,Salim Ivomas,40100.0,pack,0,192.0,SUP-100,0,0.0
+SKU000491,Air Mineral Aqua,Beverage,Danone-Aqua,10600.0,botol,0,660.0,SUP-168,0,0.0
+SKU000492,Indm Grg,Food & Staples,Indofood,39200.0,pack,0,644.0,SUP-118,0,0.0
+SKU000493,Bimoli Pouch 2000ml,Food & Staples,Salim Ivomas,30200.0,pack,0,538.0,SUP-124,1,0.25
+SKU000494,Indm Grg,Food & Staples,Indofood,17700.0,pack,0,477.0,SUP-158,0,0.0
+SKU000495,Rokok Sampoerna Mild,Cigarettes,Sampoerna,30100.0,pack,0,,SUP-101,0,0.0
+SKU000496,ROKOK SAMPOERNA MILD,Cigarettes,Sampoerna,43100.0,pack,0,,SUP-127,0,0.0
+SKU000497,Indm Grg,Food & Staples,Indofood,21100.0,pack,0,494.0,SUP-109,0,0.0
+SKU000498,Air Mineral Aqua,Beverage,Danone-Aqua,38400.0,botol,0,608.0,SUP-198,0,0.0
+SKU000499,Rokok Sampoerna Mild,Cigarettes,Sampoerna,20100.0,pack,0,,SUP-142,0,0.0
+SKU000500,Rokok Sampoerna Mild,Cigarettes,Sampoerna,22200.0,pack,0,,SUP-184,0,0.0
+SKU000501,Teh Pucuk Harum 350ml,Beverage,Mayora,15500.0,botol,1,97.0,SUP-197,1,0.25
+SKU000502,Beras Premium 5kg,Food & Staples,Food Station,14200.0,pack,0,344.0,SUP-178,1,0.2
+SKU000503,Sabun Lifebuoy 85g,Personal Care,Unilever,27800.0,pcs,0,662.0,SUP-184,0,0.0
+SKU000504,Kopi Kapal Api Sachet,Food & Staples,Kapal Api Global,20500.0,pack,0,290.0,SUP-126,1,0.3
+SKU000505,Susu Ultra 250ml,Beverage,Ultrajaya,12600.0,botol,0,235.0,SUP-114,0,0.0
+SKU000506,Rokok Gudang Garam Filter,Cigarettes,Gudang Garam,37400.0,pack,0,,SUP-130,0,0.0
+SKU000507,Mie Sedaap Goreng,Food & Staples,Wings Food,39200.0,pack,0,361.0,SUP-176,1,0.18

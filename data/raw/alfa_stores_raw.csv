@@ -1,0 +1,1004 @@
+store_id,store_name,city,province,open_date,store_type,store_format,store_size_sqm,has_self_checkout,region_code
+SAT-0001,Alfamart Sudirman 0,Depok,Jawa Barat,2022-05-08,Perkantoran,Sedang (Reguler),147,0,REG-JABAR-3
+SAT-0002,Alfamart Diponegoro 1,Surabaya,Jawa Timur,2022-09-16,Residential/Perumahan,Sedang (Reguler),206,0,REG-JATIM-4
+SAT-0003,Alfamart Melati 2,Depok,Jawa Barat,2022-05-24,Perkantoran,Sedang (Reguler),203,0,REG-JABAR-1
+SAT-0004,Alfamart Sudirman 3,Tangerang,Banten,2022-05-01,Residential/Perumahan,Besar (Reguler Plus),359,0,REG-BANTEN-4
+SAT-0005,Alfamart Melati 4,Bogor,Jawa Barat,2021-03-27,Residential/Perumahan,Kecil (Express),69,0,REG-JABAR-1
+SAT-0006,Alfamart Gatot Subroto 5,Bekasi,Jawa Barat,2022-07-23,Dekat Pasar/Grosir,Sedang (Reguler),207,0,REG-JABAR-3
+SAT-0007,Alfamart Melati 6,Jakarta,DKI Jakarta,2021-09-06,Residential/Perumahan,Sedang (Reguler),132,0,REG-JKT-3
+SAT-0008,Alfamart Gatot Subroto 7,Bogor,Jawa Barat,2021-10-16,Perkantoran,Sedang (Reguler),154,0,REG-JABAR-2
+SAT-0009,Alfamart Sudirman 8,Surabaya,Jawa Timur,2021-09-09,Residential/Perumahan,Sedang (Reguler),132,0,REG-JATIM-2
+SAT-0010,Alfamart Sudirman 9,Bandung,Jawa Barat,2021-03-20,Residential/Perumahan,Sedang (Reguler),166,0,REG-JABAR-3
+SAT-0011,Alfamart Sudirman 10,Medan,Sumatera Utara,2022-12-31,Residential/Perumahan,Kecil (Express),89,0,REG-SUMUT-2
+SAT-0012,Alfamart Sudirman 11,Bogor,Jawa Barat,2023-09-23,Dekat Pasar/Grosir,Kecil (Express),93,0,REG-JABAR-3
+SAT-0013,Alfamart Pahlawan 12,Depok,Jawa Barat,2022-05-29,Residential/Perumahan,Sedang (Reguler),156,0,REG-JABAR-1
+SAT-0014,Alfamart Gatot Subroto 13,Depok,Jawa Barat,2021-08-09,Perkantoran,Sedang (Reguler),136,0,REG-JABAR-1
+SAT-0015,Alfamart Gatot Subroto 14,Medan,Sumatera Utara,2021-04-02,Residential/Perumahan,Sedang (Reguler),146,0,REG-SUMUT-1
+SAT-0016,Alfamart Diponegoro 15,Tangerang,Banten,2023-03-03,Residential/Perumahan,Kecil (Express),112,0,REG-BANTEN-1
+SAT-0017,Alfamart Pahlawan 16,Bekasi,Jawa Barat,2023-01-11,Residential/Perumahan,Kecil (Express),89,0,REG-JABAR-4
+SAT-0018,Alfamart Pahlawan 17,Bandung,Jawa Barat,2022-08-07,Residential/Perumahan,Besar (Reguler Plus),345,1,REG-JABAR-1
+SAT-0019,Alfamart Melati 18,Bekasi,Jawa Barat,2022-04-28,Perkantoran,Sedang (Reguler),125,1,REG-JABAR-2
+SAT-0020,Alfamart Gatot Subroto 19,Bogor,Jawa Barat,2021-10-09,Residential/Perumahan,Kecil (Express),92,0,REG-JABAR-4
+SAT-0021,Alfamart Diponegoro 20,Medan,Sumatera Utara,2022-07-24,Residential/Perumahan,Kecil (Express),64,0,REG-SUMUT-2
+SAT-0022,Alfamart Gatot Subroto 21,Bekasi,Jawa Barat,2022-01-10,Residential/Perumahan,Sedang (Reguler),127,0,REG-JABAR-2
+SAT-0023,Alfamart Sudirman 22,Jakarta,DKI Jakarta,2022-06-01,Dekat Pasar/Grosir,Sedang (Reguler),132,1,REG-JKT-1
+SAT-0024,Alfamart Melati 23,Depok,Jawa Barat,2022-03-17,Perkantoran,Kecil (Express),85,0,REG-JABAR-4
+SAT-0025,Alfamart Diponegoro 24,Bogor,Jawa Barat,2022-09-15,Perkantoran,Sedang (Reguler),137,0,REG-JABAR-2
+SAT-0026,Alfamart Gatot Subroto 25,Semarang,Jawa Tengah,2021-05-13,Residential/Perumahan,Kecil (Express),100,0,REG-JATENG-4
+SAT-0027,Alfamart Diponegoro 26,Semarang,Jawa Tengah,2022-03-07,Residential/Perumahan,Kecil (Express),105,0,REG-JATENG-2
+SAT-0028,Alfamart Sudirman 27,Tangerang,Banten,2021-07-27,Residential/Perumahan,Kecil (Express),74,0,REG-BANTEN-1
+SAT-0029,Alfamart Gatot Subroto 28,Depok,Jawa Barat,2023-03-04,Residential/Perumahan,Besar (Reguler Plus),243,1,REG-JABAR-1
+SAT-0030,Alfamart Pahlawan 29,Medan,Sumatera Utara,2023-02-07,Residential/Perumahan,Sedang (Reguler),156,0,REG-SUMUT-2
+SAT-0031,Alfamart Diponegoro 30,Bandung,Jawa Barat,2021-02-04,Residential/Perumahan,Sedang (Reguler),128,0,REG-JABAR-3
+SAT-0032,Alfamart Diponegoro 31,Depok,Jawa Barat,2023-02-09,Dekat Pasar/Grosir,Kecil (Express),96,0,REG-JABAR-2
+SAT-0033,Alfamart Gatot Subroto 32,Jakarta,DKI Jakarta,2021-07-21,Residential/Perumahan,Kecil (Express),68,0,REG-JKT-3
+SAT-0034,Alfamart Melati 33,Tangerang,Banten,2023-02-16,Residential/Perumahan,Kecil (Express),118,0,REG-BANTEN-3
+SAT-0035,Alfamart Diponegoro 34,Malang,Jawa Timur,2021-04-27,Residential/Perumahan,Sedang (Reguler),190,0,REG-JATIM-3
+SAT-0036,Alfamart Pahlawan 35,Jakarta,DKI Jakarta,2022-06-06,Residential/Perumahan,Kecil (Express),70,0,REG-JKT-3
+SAT-0037,Alfamart Pahlawan 36,Medan,Sumatera Utara,2021-08-22,Residential/Perumahan,Kecil (Express),79,0,REG-SUMUT-4
+SAT-0038,Alfamart Sudirman 37,Jakarta,DKI Jakarta,2023-01-21,Residential/Perumahan,Kecil (Express),84,0,REG-JKT-2
+SAT-0039,Alfamart Melati 38,Medan,Sumatera Utara,2021-11-11,Residential/Perumahan,Sedang (Reguler),181,0,REG-SUMUT-4
+SAT-0040,Alfamart Melati 39,Semarang,Jawa Tengah,2023-09-17,Residential/Perumahan,Kecil (Express),60,0,REG-JATENG-2
+SAT-0041,Alfamart Gatot Subroto 40,Malang,Jawa Timur,2022-02-26,Residential/Perumahan,Kecil (Express),98,0,REG-JATIM-1
+SAT-0042,Alfamart Melati 41,Tangerang,Banten,2021-04-22,Perkantoran,Sedang (Reguler),162,0,REG-BANTEN-1
+SAT-0043,Alfamart Pahlawan 42,Bogor,Jawa Barat,2021-04-06,Residential/Perumahan,Sedang (Reguler),202,1,REG-JABAR-4
+SAT-0044,Alfamart Melati 43,Tangerang,Banten,2021-04-01,Residential/Perumahan,Sedang (Reguler),136,1,REG-BANTEN-4
+SAT-0045,Alfamart Gatot Subroto 44,Bogor,Jawa Barat,2021-05-30,Perkantoran,Sedang (Reguler),128,0,REG-JABAR-3
+SAT-0046,Alfamart Gatot Subroto 45,Surabaya,Jawa Timur,2023-01-15,Perkantoran,Sedang (Reguler),191,0,REG-JATIM-4
+SAT-0047,Alfamart Sudirman 46,Depok,Jawa Barat,2022-05-01,Residential/Perumahan,Sedang (Reguler),141,0,REG-JABAR-1
+SAT-0048,Alfamart Diponegoro 47,Bandung,Jawa Barat,2022-03-04,Residential/Perumahan,Besar (Reguler Plus),332,0,REG-JABAR-2
+SAT-0049,Alfamart Melati 48,Medan,Sumatera Utara,2023-05-23,Residential/Perumahan,Sedang (Reguler),174,0,REG-SUMUT-2
+SAT-0050,Alfamart Pahlawan 49,Jakarta,DKI Jakarta,2023-09-12,Residential/Perumahan,Sedang (Reguler),124,0,REG-JKT-2
+SAT-0051,Alfamart Gatot Subroto 50,Bogor,Jawa Barat,2021-07-20,Residential/Perumahan,Besar (Reguler Plus),306,1,REG-JABAR-2
+SAT-0052,Alfamart Sudirman 51,Jakarta,DKI Jakarta,2021-12-26,Residential/Perumahan,Kecil (Express),110,0,REG-JKT-1
+SAT-0053,Alfamart Melati 52,Semarang,Jawa Tengah,2023-03-07,Perkantoran,Sedang (Reguler),169,0,REG-JATENG-3
+SAT-0054,Alfamart Pahlawan 53,Tangerang,Banten,2022-03-12,Residential/Perumahan,Sedang (Reguler),133,1,REG-BANTEN-2
+SAT-0055,Alfamart Diponegoro 54,Medan,Sumatera Utara,2021-04-25,Residential/Perumahan,Besar (Reguler Plus),302,0,REG-SUMUT-2
+SAT-0056,Alfamart Diponegoro 55,Bekasi,Jawa Barat,2022-03-24,Perkantoran,Sedang (Reguler),217,0,REG-JABAR-1
+SAT-0057,Alfamart Diponegoro 56,Malang,Jawa Timur,2022-10-01,Residential/Perumahan,Sedang (Reguler),127,1,REG-JATIM-3
+SAT-0058,Alfamart Sudirman 57,Depok,Jawa Barat,2022-04-19,Residential/Perumahan,Sedang (Reguler),188,0,REG-JABAR-3
+SAT-0059,Alfamart Diponegoro 58,Tangerang,Banten,2023-08-26,Residential/Perumahan,Sedang (Reguler),181,0,REG-BANTEN-1
+SAT-0060,Alfamart Gatot Subroto 59,Bogor,Jawa Barat,2022-01-09,Residential/Perumahan,Sedang (Reguler),186,0,REG-JABAR-3
+SAT-0061,Alfamart Diponegoro 60,Bandung,Jawa Barat,2022-06-14,Residential/Perumahan,Sedang (Reguler),148,0,REG-JABAR-2
+SAT-0062,Alfamart Melati 61,Bekasi,Jawa Barat,2022-03-08,Residential/Perumahan,Sedang (Reguler),180,1,REG-JABAR-3
+SAT-0063,Alfamart Gatot Subroto 62,Malang,Jawa Timur,2021-06-12,Residential/Perumahan,Sedang (Reguler),168,0,REG-JATIM-1
+SAT-0064,Alfamart Gatot Subroto 63,Medan,Sumatera Utara,2023-07-29,Residential/Perumahan,Sedang (Reguler),144,1,REG-SUMUT-2
+SAT-0065,Alfamart Diponegoro 64,Medan,Sumatera Utara,2022-06-16,Residential/Perumahan,Sedang (Reguler),159,0,REG-SUMUT-1
+SAT-0066,Alfamart Gatot Subroto 65,Jakarta,DKI Jakarta,2021-07-25,Residential/Perumahan,Sedang (Reguler),147,1,REG-JKT-2
+SAT-0067,Alfamart Diponegoro 66,Malang,Jawa Timur,2023-08-16,Residential/Perumahan,Besar (Reguler Plus),321,0,REG-JATIM-3
+SAT-0068,Alfamart Diponegoro 67,Bekasi,Jawa Barat,2023-01-07,Residential/Perumahan,Kecil (Express),107,0,REG-JABAR-3
+SAT-0069,Alfamart Gatot Subroto 68,Malang,Jawa Timur,2022-09-25,Residential/Perumahan,Kecil (Express),77,0,REG-JATIM-4
+SAT-0070,Alfamart Sudirman 69,Bekasi,Jawa Barat,2021-12-19,Residential/Perumahan,Kecil (Express),100,0,REG-JABAR-2
+SAT-0071,Alfamart Gatot Subroto 70,Bogor,Jawa Barat,2021-03-06,Residential/Perumahan,Kecil (Express),93,0,REG-JABAR-3
+SAT-0072,Alfamart Diponegoro 71,Tangerang,Banten,2021-05-22,Residential/Perumahan,Sedang (Reguler),168,0,REG-BANTEN-1
+SAT-0073,Alfamart Diponegoro 72,Surabaya,Jawa Timur,2022-08-05,Perkantoran,Sedang (Reguler),165,0,REG-JATIM-4
+SAT-0074,Alfamart Sudirman 73,Bogor,Jawa Barat,2021-10-29,Residential/Perumahan,Sedang (Reguler),204,0,REG-JABAR-3
+SAT-0075,Alfamart Diponegoro 74,Bandung,Jawa Barat,2023-07-24,Residential/Perumahan,Besar (Reguler Plus),320,0,REG-JABAR-3
+SAT-0076,Alfamart Gatot Subroto 75,Surabaya,Jawa Timur,2022-09-08,Residential/Perumahan,Sedang (Reguler),165,1,REG-JATIM-1
+SAT-0077,Alfamart Sudirman 76,Bogor,Jawa Barat,2022-07-26,Residential/Perumahan,Sedang (Reguler),204,1,REG-JABAR-3
+SAT-0078,Alfamart Diponegoro 77,Bandung,Jawa Barat,2021-09-14,Residential/Perumahan,Sedang (Reguler),211,0,REG-JABAR-4
+SAT-0079,Alfamart Sudirman 78,Depok,Jawa Barat,2022-06-09,Residential/Perumahan,Sedang (Reguler),148,0,REG-JABAR-4
+SAT-0080,Alfamart Melati 79,Semarang,Jawa Tengah,2021-05-19,Perkantoran,Kecil (Express),94,0,REG-JATENG-3
+SAT-0081,Alfamart Pahlawan 80,Semarang,Jawa Tengah,2022-03-14,Residential/Perumahan,Sedang (Reguler),144,1,REG-JATENG-2
+SAT-0082,Alfamart Gatot Subroto 81,Depok,Jawa Barat,2023-03-10,Residential/Perumahan,Sedang (Reguler),186,0,REG-JABAR-2
+SAT-0083,Alfamart Diponegoro 82,Medan,Sumatera Utara,2023-02-21,Perkantoran,Sedang (Reguler),194,0,REG-SUMUT-4
+SAT-0084,Alfamart Melati 83,Bogor,Jawa Barat,2022-01-25,Residential/Perumahan,Besar (Reguler Plus),235,1,REG-JABAR-4
+SAT-0085,Alfamart Pahlawan 84,Surabaya,Jawa Timur,2021-01-10,Residential/Perumahan,Sedang (Reguler),191,0,REG-JATIM-2
+SAT-0086,Alfamart Pahlawan 85,Malang,Jawa Timur,2023-06-21,Residential/Perumahan,Kecil (Express),104,0,REG-JATIM-3
+SAT-0087,Alfamart Pahlawan 86,Bogor,Jawa Barat,2022-04-18,Residential/Perumahan,Kecil (Express),69,0,REG-JABAR-4
+SAT-0088,Alfamart Melati 87,Surabaya,Jawa Timur,2021-02-27,Residential/Perumahan,Sedang (Reguler),138,0,REG-JATIM-2
+SAT-0089,Alfamart Gatot Subroto 88,Depok,Jawa Barat,2022-03-18,Residential/Perumahan,Sedang (Reguler),128,1,REG-JABAR-3
+SAT-0090,Alfamart Pahlawan 89,Bogor,Jawa Barat,2023-07-11,Residential/Perumahan,Kecil (Express),94,0,REG-JABAR-3
+SAT-0091,Alfamart Gatot Subroto 90,Semarang,Jawa Tengah,2021-09-24,Residential/Perumahan,Sedang (Reguler),165,0,REG-JATENG-3
+SAT-0092,Alfamart Gatot Subroto 91,Depok,Jawa Barat,2022-01-03,Residential/Perumahan,Sedang (Reguler),214,0,REG-JABAR-3
+SAT-0093,Alfamart Pahlawan 92,Bekasi,Jawa Barat,2021-11-06,Residential/Perumahan,Sedang (Reguler),175,0,REG-JABAR-2
+SAT-0094,Alfamart Pahlawan 93,Bekasi,Jawa Barat,2022-03-24,Residential/Perumahan,Sedang (Reguler),128,0,REG-JABAR-2
+SAT-0095,Alfamart Gatot Subroto 94,Depok,Jawa Barat,2023-01-11,Residential/Perumahan,Kecil (Express),75,0,REG-JABAR-1
+SAT-0096,Alfamart Gatot Subroto 95,Malang,Jawa Timur,2023-03-06,Residential/Perumahan,Sedang (Reguler),141,0,REG-JATIM-2
+SAT-0097,Alfamart Diponegoro 96,Medan,Sumatera Utara,2021-04-26,Residential/Perumahan,Sedang (Reguler),195,0,REG-SUMUT-4
+SAT-0098,Alfamart Diponegoro 97,Bogor,Jawa Barat,2021-01-18,Residential/Perumahan,Sedang (Reguler),213,0,REG-JABAR-4
+SAT-0099,Alfamart Melati 98,Bekasi,Jawa Barat,2023-07-05,Residential/Perumahan,Sedang (Reguler),153,0,REG-JABAR-2
+SAT-0100,Alfamart Melati 99,Jakarta,DKI Jakarta,2021-12-29,Dekat Pasar/Grosir,Sedang (Reguler),152,0,REG-JKT-4
+SAT-0101,Alfamart Gatot Subroto 100,Bandung,Jawa Barat,2022-02-09,Perkantoran,Sedang (Reguler),172,0,REG-JABAR-3
+SAT-0102,Alfamart Melati 101,Semarang,Jawa Tengah,2022-10-24,Residential/Perumahan,Kecil (Express),91,0,REG-JATENG-1
+SAT-0103,Alfamart Pahlawan 102,Medan,Sumatera Utara,2021-07-26,Residential/Perumahan,Kecil (Express),97,0,REG-SUMUT-2
+SAT-0104,Alfamart Pahlawan 103,Bandung,Jawa Barat,2022-10-30,Dekat Pasar/Grosir,Kecil (Express),114,0,REG-JABAR-1
+SAT-0105,Alfamart Gatot Subroto 104,Bogor,Jawa Barat,2021-09-27,Perkantoran,Kecil (Express),113,0,REG-JABAR-1
+SAT-0106,Alfamart Sudirman 105,Medan,Sumatera Utara,2023-08-31,Residential/Perumahan,Sedang (Reguler),213,1,REG-SUMUT-4
+SAT-0107,Alfamart Sudirman 106,Depok,Jawa Barat,2021-12-23,Residential/Perumahan,Besar (Reguler Plus),362,1,REG-JABAR-1
+SAT-0108,Alfamart Sudirman 107,Bogor,Jawa Barat,2023-03-28,Residential/Perumahan,Sedang (Reguler),193,0,REG-JABAR-3
+SAT-0109,Alfamart Melati 108,Depok,Jawa Barat,2023-02-26,Residential/Perumahan,Besar (Reguler Plus),225,0,REG-JABAR-3
+SAT-0110,Alfamart Sudirman 109,Jakarta,DKI Jakarta,2023-07-26,Perkantoran,Kecil (Express),87,0,REG-JKT-4
+SAT-0111,Alfamart Sudirman 110,Bekasi,Jawa Barat,2021-08-15,Residential/Perumahan,Sedang (Reguler),175,0,REG-JABAR-2
+SAT-0112,Alfamart Pahlawan 111,Jakarta,DKI Jakarta,2022-09-21,Residential/Perumahan,Sedang (Reguler),179,1,REG-JKT-4
+SAT-0113,Alfamart Sudirman 112,Medan,Sumatera Utara,2021-04-16,Residential/Perumahan,Sedang (Reguler),200,1,REG-SUMUT-3
+SAT-0114,Alfamart Diponegoro 113,Tangerang,Banten,2021-08-08,Residential/Perumahan,Besar (Reguler Plus),261,0,REG-BANTEN-4
+SAT-0115,Alfamart Sudirman 114,Surabaya,Jawa Timur,2022-05-07,Residential/Perumahan,Sedang (Reguler),199,0,REG-JATIM-1
+SAT-0116,Alfamart Melati 115,Bogor,Jawa Barat,2021-02-22,Perkantoran,Besar (Reguler Plus),334,1,REG-JABAR-3
+SAT-0117,Alfamart Diponegoro 116,Bekasi,Jawa Barat,2021-11-12,Residential/Perumahan,Sedang (Reguler),134,0,REG-JABAR-4
+SAT-0118,Alfamart Melati 117,Bekasi,Jawa Barat,2021-11-06,Residential/Perumahan,Sedang (Reguler),122,0,REG-JABAR-2
+SAT-0119,Alfamart Pahlawan 118,Semarang,Jawa Tengah,2023-05-22,Residential/Perumahan,Sedang (Reguler),154,1,REG-JATENG-3
+SAT-0120,Alfamart Sudirman 119,Tangerang,Banten,2021-08-31,Residential/Perumahan,Sedang (Reguler),207,0,REG-BANTEN-3
+SAT-0121,Alfamart Gatot Subroto 120,Surabaya,Jawa Timur,2021-03-24,Residential/Perumahan,Besar (Reguler Plus),227,0,REG-JATIM-1
+SAT-0122,Alfamart Gatot Subroto 121,Medan,Sumatera Utara,2023-06-12,Residential/Perumahan,Sedang (Reguler),171,0,REG-SUMUT-2
+SAT-0123,Alfamart Melati 122,Bekasi,Jawa Barat,2023-09-22,Residential/Perumahan,Sedang (Reguler),211,0,REG-JABAR-2
+SAT-0124,Alfamart Melati 123,Jakarta,DKI Jakarta,2023-08-15,Residential/Perumahan,Kecil (Express),105,0,REG-JKT-1
+SAT-0125,Alfamart Melati 124,Depok,Jawa Barat,2021-07-19,Residential/Perumahan,Sedang (Reguler),129,0,REG-JABAR-2
+SAT-0126,Alfamart Pahlawan 125,Tangerang,Banten,2022-06-18,Residential/Perumahan,Besar (Reguler Plus),271,1,REG-BANTEN-3
+SAT-0127,Alfamart Sudirman 126,Medan,Sumatera Utara,2023-02-22,Residential/Perumahan,Sedang (Reguler),160,0,REG-SUMUT-2
+SAT-0128,Alfamart Diponegoro 127,Depok,Jawa Barat,2023-01-09,Residential/Perumahan,Kecil (Express),89,0,REG-JABAR-1
+SAT-0129,Alfamart Melati 128,Malang,Jawa Timur,2022-11-11,Residential/Perumahan,Sedang (Reguler),184,0,REG-JATIM-1
+SAT-0130,Alfamart Diponegoro 129,Depok,Jawa Barat,2022-10-15,Residential/Perumahan,Besar (Reguler Plus),333,0,REG-JABAR-1
+SAT-0131,Alfamart Pahlawan 130,Semarang,Jawa Tengah,2021-12-03,Residential/Perumahan,Sedang (Reguler),187,0,REG-JATENG-1
+SAT-0132,Alfamart Diponegoro 131,Medan,Sumatera Utara,2021-04-02,Dekat Pasar/Grosir,Kecil (Express),85,0,REG-SUMUT-1
+SAT-0133,Alfamart Pahlawan 132,Malang,Jawa Timur,2023-05-10,Residential/Perumahan,Sedang (Reguler),194,0,REG-JATIM-2
+SAT-0134,Alfamart Melati 133,Jakarta,DKI Jakarta,2021-09-11,Residential/Perumahan,Sedang (Reguler),199,0,REG-JKT-1
+SAT-0135,Alfamart Sudirman 134,Depok,Jawa Barat,2021-06-01,Residential/Perumahan,Kecil (Express),66,0,REG-JABAR-4
+SAT-0136,Alfamart Sudirman 135,Medan,Sumatera Utara,2022-01-16,Residential/Perumahan,Kecil (Express),102,0,REG-SUMUT-4
+SAT-0137,Alfamart Diponegoro 136,Medan,Sumatera Utara,2022-07-17,Dekat Pasar/Grosir,Kecil (Express),106,0,REG-SUMUT-2
+SAT-0138,Alfamart Diponegoro 137,Bandung,Jawa Barat,2022-07-11,Residential/Perumahan,Sedang (Reguler),219,0,REG-JABAR-4
+SAT-0139,Alfamart Sudirman 138,Malang,Jawa Timur,2021-06-13,Perkantoran,Sedang (Reguler),182,0,REG-JATIM-3
+SAT-0140,Alfamart Sudirman 139,Bandung,Jawa Barat,2021-01-05,Residential/Perumahan,Sedang (Reguler),182,0,REG-JABAR-4
+SAT-0141,Alfamart Sudirman 140,Semarang,Jawa Tengah,2022-08-21,Residential/Perumahan,Besar (Reguler Plus),399,0,REG-JATENG-2
+SAT-0142,Alfamart Gatot Subroto 141,Bandung,Jawa Barat,2022-10-18,Residential/Perumahan,Sedang (Reguler),182,0,REG-JABAR-3
+SAT-0143,Alfamart Pahlawan 142,Medan,Sumatera Utara,2022-10-15,Dekat Pasar/Grosir,Sedang (Reguler),162,0,REG-SUMUT-1
+SAT-0144,Alfamart Melati 143,Bekasi,Jawa Barat,2023-02-14,Residential/Perumahan,Sedang (Reguler),185,0,REG-JABAR-4
+SAT-0145,Alfamart Diponegoro 144,Malang,Jawa Timur,2021-02-10,Residential/Perumahan,Sedang (Reguler),144,0,REG-JATIM-1
+SAT-0146,Alfamart Diponegoro 145,Tangerang,Banten,2023-01-06,Residential/Perumahan,Sedang (Reguler),132,1,REG-BANTEN-3
+SAT-0147,Alfamart Gatot Subroto 146,Medan,Sumatera Utara,2022-02-04,Residential/Perumahan,Kecil (Express),67,0,REG-SUMUT-1
+SAT-0148,Alfamart Melati 147,Surabaya,Jawa Timur,2022-07-06,Residential/Perumahan,Sedang (Reguler),149,0,REG-JATIM-3
+SAT-0149,Alfamart Pahlawan 148,Semarang,Jawa Tengah,2022-09-19,Residential/Perumahan,Sedang (Reguler),212,0,REG-JATENG-1
+SAT-0150,Alfamart Sudirman 149,Surabaya,Jawa Timur,2022-11-20,Residential/Perumahan,Sedang (Reguler),163,0,REG-JATIM-4
+SAT-0151,Alfamart Pahlawan 150,Tangerang,Banten,2022-08-01,Perkantoran,Sedang (Reguler),128,0,REG-BANTEN-1
+SAT-0152,Alfamart Melati 151,Malang,Jawa Timur,2022-01-21,Perkantoran,Kecil (Express),109,0,REG-JATIM-3
+SAT-0153,Alfamart Pahlawan 152,Tangerang,Banten,2023-01-19,Residential/Perumahan,Sedang (Reguler),129,0,REG-BANTEN-3
+SAT-0154,Alfamart Diponegoro 153,Bogor,Jawa Barat,2022-11-11,Residential/Perumahan,Sedang (Reguler),128,0,REG-JABAR-2
+SAT-0155,Alfamart Gatot Subroto 154,Malang,Jawa Timur,2021-06-04,Residential/Perumahan,Sedang (Reguler),151,0,REG-JATIM-2
+SAT-0156,Alfamart Diponegoro 155,Semarang,Jawa Tengah,2023-05-15,Residential/Perumahan,Sedang (Reguler),209,0,REG-JATENG-3
+SAT-0157,Alfamart Gatot Subroto 156,Bandung,Jawa Barat,2022-03-21,Residential/Perumahan,Sedang (Reguler),153,1,REG-JABAR-1
+SAT-0158,Alfamart Pahlawan 157,Tangerang,Banten,2021-01-22,Residential/Perumahan,Besar (Reguler Plus),253,0,REG-BANTEN-2
+SAT-0159,Alfamart Melati 158,Malang,Jawa Timur,2021-08-08,Residential/Perumahan,Kecil (Express),92,0,REG-JATIM-1
+SAT-0160,Alfamart Diponegoro 159,Bogor,Jawa Barat,2022-01-01,Residential/Perumahan,Sedang (Reguler),160,0,REG-JABAR-3
+SAT-0161,Alfamart Diponegoro 160,Semarang,Jawa Tengah,2023-05-10,Residential/Perumahan,Sedang (Reguler),126,0,REG-JATENG-2
+SAT-0162,Alfamart Diponegoro 161,Depok,Jawa Barat,2022-03-23,Perkantoran,Sedang (Reguler),190,0,REG-JABAR-1
+SAT-0163,Alfamart Pahlawan 162,Semarang,Jawa Tengah,2021-07-20,Residential/Perumahan,Kecil (Express),96,0,REG-JATENG-1
+SAT-0164,Alfamart Gatot Subroto 163,Tangerang,Banten,2023-03-11,Residential/Perumahan,Kecil (Express),113,0,REG-BANTEN-1
+SAT-0165,Alfamart Gatot Subroto 164,Bekasi,Jawa Barat,2022-02-01,Residential/Perumahan,Sedang (Reguler),147,0,REG-JABAR-1
+SAT-0166,Alfamart Diponegoro 165,Bandung,Jawa Barat,2023-03-07,Residential/Perumahan,Sedang (Reguler),171,0,REG-JABAR-2
+SAT-0167,Alfamart Diponegoro 166,Jakarta,DKI Jakarta,2021-10-07,Perkantoran,Sedang (Reguler),157,1,REG-JKT-1
+SAT-0168,Alfamart Gatot Subroto 167,Bandung,Jawa Barat,2021-05-12,Perkantoran,Kecil (Express),84,0,REG-JABAR-3
+SAT-0169,Alfamart Gatot Subroto 168,Bogor,Jawa Barat,2023-09-15,Residential/Perumahan,Sedang (Reguler),181,0,REG-JABAR-1
+SAT-0170,Alfamart Melati 169,Bekasi,Jawa Barat,2021-04-24,Dekat Pasar/Grosir,Sedang (Reguler),162,0,REG-JABAR-2
+SAT-0171,Alfamart Gatot Subroto 170,Jakarta,DKI Jakarta,2022-03-13,Residential/Perumahan,Sedang (Reguler),191,0,REG-JKT-2
+SAT-0172,Alfamart Diponegoro 171,Jakarta,DKI Jakarta,2023-03-27,Residential/Perumahan,Sedang (Reguler),174,0,REG-JKT-4
+SAT-0173,Alfamart Gatot Subroto 172,Tangerang,Banten,2022-09-03,Residential/Perumahan,Sedang (Reguler),172,0,REG-BANTEN-3
+SAT-0174,Alfamart Pahlawan 173,Tangerang,Banten,2022-03-24,Dekat Pasar/Grosir,Sedang (Reguler),144,0,REG-BANTEN-4
+SAT-0175,Alfamart Pahlawan 174,Jakarta,DKI Jakarta,2021-08-02,Residential/Perumahan,Besar (Reguler Plus),395,0,REG-JKT-3
+SAT-0176,Alfamart Sudirman 175,Medan,Sumatera Utara,2023-08-26,Residential/Perumahan,Sedang (Reguler),185,0,REG-SUMUT-3
+SAT-0177,Alfamart Gatot Subroto 176,Semarang,Jawa Tengah,2022-06-03,Residential/Perumahan,Sedang (Reguler),197,1,REG-JATENG-3
+SAT-0178,Alfamart Sudirman 177,Bandung,Jawa Barat,2022-08-06,Dekat Pasar/Grosir,Besar (Reguler Plus),381,0,REG-JABAR-4
+SAT-0179,Alfamart Melati 178,Bandung,Jawa Barat,2023-07-19,Perkantoran,Kecil (Express),119,0,REG-JABAR-2
+SAT-0180,Alfamart Sudirman 179,Bekasi,Jawa Barat,2023-06-11,Residential/Perumahan,Sedang (Reguler),130,0,REG-JABAR-3
+SAT-0181,Alfamart Melati 180,Jakarta,DKI Jakarta,2023-05-24,Perkantoran,Besar (Reguler Plus),372,1,REG-JKT-1
+SAT-0182,Alfamart Pahlawan 181,Depok,Jawa Barat,2023-06-22,Perkantoran,Sedang (Reguler),141,0,REG-JABAR-3
+SAT-0183,Alfamart Sudirman 182,Semarang,Jawa Tengah,2022-11-03,Residential/Perumahan,Sedang (Reguler),161,0,REG-JATENG-2
+SAT-0184,Alfamart Pahlawan 183,Tangerang,Banten,2021-04-13,Residential/Perumahan,Sedang (Reguler),158,1,REG-BANTEN-3
+SAT-0185,Alfamart Pahlawan 184,Surabaya,Jawa Timur,2021-05-09,Perkantoran,Sedang (Reguler),198,0,REG-JATIM-1
+SAT-0186,Alfamart Diponegoro 185,Depok,Jawa Barat,2023-05-06,Residential/Perumahan,Sedang (Reguler),188,0,REG-JABAR-1
+SAT-0187,Alfamart Gatot Subroto 186,Bandung,Jawa Barat,2023-09-18,Residential/Perumahan,Sedang (Reguler),137,1,REG-JABAR-4
+SAT-0188,Alfamart Gatot Subroto 187,Tangerang,Banten,2022-12-02,Residential/Perumahan,Sedang (Reguler),201,0,REG-BANTEN-1
+SAT-0189,Alfamart Pahlawan 188,Semarang,Jawa Tengah,2023-03-12,Residential/Perumahan,Sedang (Reguler),212,0,REG-JATENG-3
+SAT-0190,Alfamart Melati 189,Semarang,Jawa Tengah,2021-09-07,Residential/Perumahan,Sedang (Reguler),163,0,REG-JATENG-1
+SAT-0191,Alfamart Diponegoro 190,Malang,Jawa Timur,2021-08-14,Dekat Pasar/Grosir,Sedang (Reguler),132,0,REG-JATIM-3
+SAT-0192,Alfamart Gatot Subroto 191,Bekasi,Jawa Barat,2022-11-11,Residential/Perumahan,Sedang (Reguler),177,0,REG-JABAR-3
+SAT-0193,Alfamart Pahlawan 192,Surabaya,Jawa Timur,2021-07-24,Residential/Perumahan,Kecil (Express),69,0,REG-JATIM-1
+SAT-0194,Alfamart Melati 193,Depok,Jawa Barat,2022-01-15,Perkantoran,Sedang (Reguler),145,1,REG-JABAR-4
+SAT-0195,Alfamart Sudirman 194,Bandung,Jawa Barat,2022-11-03,Residential/Perumahan,Sedang (Reguler),180,0,REG-JABAR-2
+SAT-0196,Alfamart Melati 195,Semarang,Jawa Tengah,2022-02-21,Residential/Perumahan,Sedang (Reguler),165,0,REG-JATENG-4
+SAT-0197,Alfamart Pahlawan 196,Medan,Sumatera Utara,2022-05-13,Residential/Perumahan,Sedang (Reguler),158,1,REG-SUMUT-2
+SAT-0198,Alfamart Pahlawan 197,Medan,Sumatera Utara,2023-07-05,Perkantoran,Sedang (Reguler),174,0,REG-SUMUT-1
+SAT-0199,Alfamart Melati 198,Bogor,Jawa Barat,2021-03-02,Residential/Perumahan,Sedang (Reguler),150,0,REG-JABAR-3
+SAT-0200,Alfamart Pahlawan 199,Semarang,Jawa Tengah,2022-10-10,Residential/Perumahan,Sedang (Reguler),212,0,REG-JATENG-1
+SAT-0201,Alfamart Pahlawan 200,Tangerang,Banten,2021-02-01,Perkantoran,Kecil (Express),112,0,REG-BANTEN-4
+SAT-0202,Alfamart Diponegoro 201,Bekasi,Jawa Barat,2023-06-25,Dekat Pasar/Grosir,Kecil (Express),111,0,REG-JABAR-2
+SAT-0203,Alfamart Pahlawan 202,Bandung,Jawa Barat,2023-06-07,Residential/Perumahan,Sedang (Reguler),140,0,REG-JABAR-4
+SAT-0204,Alfamart Sudirman 203,Tangerang,Banten,2023-04-29,Residential/Perumahan,Sedang (Reguler),177,0,REG-BANTEN-4
+SAT-0205,Alfamart Gatot Subroto 204,Malang,Jawa Timur,2022-03-06,Residential/Perumahan,Sedang (Reguler),219,0,REG-JATIM-3
+SAT-0206,Alfamart Pahlawan 205,Bandung,Jawa Barat,2023-03-31,Residential/Perumahan,Kecil (Express),76,0,REG-JABAR-1
+SAT-0207,Alfamart Diponegoro 206,Medan,Sumatera Utara,2021-09-09,Residential/Perumahan,Kecil (Express),99,0,REG-SUMUT-4
+SAT-0208,Alfamart Melati 207,Surabaya,Jawa Timur,2022-05-01,Residential/Perumahan,Sedang (Reguler),178,0,REG-JATIM-3
+SAT-0209,Alfamart Gatot Subroto 208,Medan,Sumatera Utara,2022-10-16,Residential/Perumahan,Sedang (Reguler),141,0,REG-SUMUT-1
+SAT-0210,Alfamart Gatot Subroto 209,Tangerang,Banten,2023-03-04,Residential/Perumahan,Kecil (Express),66,0,REG-BANTEN-2
+SAT-0211,Alfamart Diponegoro 210,Bogor,Jawa Barat,2023-09-10,Residential/Perumahan,Sedang (Reguler),213,0,REG-JABAR-3
+SAT-0212,Alfamart Melati 211,Medan,Sumatera Utara,2022-02-17,Residential/Perumahan,Sedang (Reguler),211,0,REG-SUMUT-4
+SAT-0213,Alfamart Diponegoro 212,Bogor,Jawa Barat,2023-08-17,Residential/Perumahan,Kecil (Express),85,0,REG-JABAR-3
+SAT-0214,Alfamart Sudirman 213,Semarang,Jawa Tengah,2023-03-28,Perkantoran,Sedang (Reguler),126,0,REG-JATENG-1
+SAT-0215,Alfamart Gatot Subroto 214,Malang,Jawa Timur,2023-05-21,Residential/Perumahan,Sedang (Reguler),199,0,REG-JATIM-1
+SAT-0216,Alfamart Melati 215,Medan,Sumatera Utara,2022-03-29,Residential/Perumahan,Kecil (Express),98,0,REG-SUMUT-1
+SAT-0217,Alfamart Pahlawan 216,Jakarta,DKI Jakarta,2023-07-08,Residential/Perumahan,Kecil (Express),83,0,REG-JKT-1
+SAT-0218,Alfamart Sudirman 217,Tangerang,Banten,2022-02-20,Residential/Perumahan,Sedang (Reguler),212,0,REG-BANTEN-3
+SAT-0219,Alfamart Pahlawan 218,Depok,Jawa Barat,2023-01-09,Dekat Pasar/Grosir,Sedang (Reguler),129,0,REG-JABAR-4
+SAT-0220,Alfamart Diponegoro 219,Depok,Jawa Barat,2021-07-01,Residential/Perumahan,Besar (Reguler Plus),340,0,REG-JABAR-1
+SAT-0221,Alfamart Gatot Subroto 220,Surabaya,Jawa Timur,2022-08-05,Residential/Perumahan,Sedang (Reguler),172,0,REG-JATIM-1
+SAT-0222,Alfamart Gatot Subroto 221,Bekasi,Jawa Barat,2021-12-06,Residential/Perumahan,Sedang (Reguler),197,0,REG-JABAR-2
+SAT-0223,Alfamart Pahlawan 222,Bekasi,Jawa Barat,2021-06-11,Residential/Perumahan,Sedang (Reguler),123,0,REG-JABAR-1
+SAT-0224,Alfamart Diponegoro 223,Jakarta,DKI Jakarta,2021-06-05,Dekat Pasar/Grosir,Sedang (Reguler),199,0,REG-JKT-1
+SAT-0225,Alfamart Sudirman 224,Surabaya,Jawa Timur,2022-01-04,Residential/Perumahan,Sedang (Reguler),176,0,REG-JATIM-1
+SAT-0226,Alfamart Pahlawan 225,Bekasi,Jawa Barat,2023-05-10,Dekat Pasar/Grosir,Sedang (Reguler),154,0,REG-JABAR-2
+SAT-0227,Alfamart Diponegoro 226,Surabaya,Jawa Timur,2023-03-10,Residential/Perumahan,Sedang (Reguler),193,0,REG-JATIM-4
+SAT-0228,Alfamart Sudirman 227,Bogor,Jawa Barat,2021-08-06,Residential/Perumahan,Sedang (Reguler),144,0,REG-JABAR-3
+SAT-0229,Alfamart Pahlawan 228,Jakarta,DKI Jakarta,2022-10-11,Residential/Perumahan,Sedang (Reguler),172,0,REG-JKT-4
+SAT-0230,Alfamart Sudirman 229,Depok,Jawa Barat,2021-12-26,Residential/Perumahan,Sedang (Reguler),174,0,REG-JABAR-4
+SAT-0231,Alfamart Diponegoro 230,Semarang,Jawa Tengah,2021-10-27,Residential/Perumahan,Sedang (Reguler),169,0,REG-JATENG-2
+SAT-0232,Alfamart Diponegoro 231,Depok,Jawa Barat,2021-12-07,Residential/Perumahan,Kecil (Express),84,0,REG-JABAR-2
+SAT-0233,Alfamart Melati 232,Tangerang,Banten,2021-09-13,Dekat Pasar/Grosir,Sedang (Reguler),171,0,REG-BANTEN-1
+SAT-0234,Alfamart Sudirman 233,Bekasi,Jawa Barat,2022-03-15,Residential/Perumahan,Besar (Reguler Plus),321,1,REG-JABAR-1
+SAT-0235,Alfamart Gatot Subroto 234,Malang,Jawa Timur,2022-06-18,Dekat Pasar/Grosir,Besar (Reguler Plus),225,1,REG-JATIM-3
+SAT-0236,Alfamart Pahlawan 235,Bekasi,Jawa Barat,2022-03-08,Perkantoran,Sedang (Reguler),151,1,REG-JABAR-4
+SAT-0237,Alfamart Pahlawan 236,Surabaya,Jawa Timur,2023-02-17,Residential/Perumahan,Sedang (Reguler),202,1,REG-JATIM-1
+SAT-0238,Alfamart Diponegoro 237,Bekasi,Jawa Barat,2023-01-02,Perkantoran,Kecil (Express),112,0,REG-JABAR-1
+SAT-0239,Alfamart Melati 238,Semarang,Jawa Tengah,2023-01-27,Residential/Perumahan,Sedang (Reguler),155,0,REG-JATENG-2
+SAT-0240,Alfamart Pahlawan 239,Jakarta,DKI Jakarta,2021-05-21,Residential/Perumahan,Sedang (Reguler),178,0,REG-JKT-4
+SAT-0241,Alfamart Pahlawan 240,Semarang,Jawa Tengah,2022-07-04,Perkantoran,Sedang (Reguler),188,1,REG-JATENG-1
+SAT-0242,Alfamart Sudirman 241,Jakarta,DKI Jakarta,2022-10-04,Perkantoran,Sedang (Reguler),140,0,REG-JKT-4
+SAT-0243,Alfamart Pahlawan 242,Jakarta,DKI Jakarta,2022-11-03,Residential/Perumahan,Kecil (Express),105,0,REG-JKT-3
+SAT-0244,Alfamart Melati 243,Jakarta,DKI Jakarta,2022-06-20,Residential/Perumahan,Kecil (Express),75,0,REG-JKT-4
+SAT-0245,Alfamart Melati 244,Medan,Sumatera Utara,2022-08-14,Residential/Perumahan,Sedang (Reguler),185,0,REG-SUMUT-3
+SAT-0246,Alfamart Sudirman 245,Malang,Jawa Timur,2021-07-22,Perkantoran,Besar (Reguler Plus),328,0,REG-JATIM-2
+SAT-0247,Alfamart Melati 246,Depok,Jawa Barat,2022-10-08,Residential/Perumahan,Sedang (Reguler),124,0,REG-JABAR-4
+SAT-0248,Alfamart Diponegoro 247,Bandung,Jawa Barat,2022-08-18,Residential/Perumahan,Sedang (Reguler),207,0,REG-JABAR-2
+SAT-0249,Alfamart Pahlawan 248,Jakarta,DKI Jakarta,2021-06-22,Residential/Perumahan,Sedang (Reguler),170,0,REG-JKT-3
+SAT-0250,Alfamart Diponegoro 249,Medan,Sumatera Utara,2023-02-24,Residential/Perumahan,Sedang (Reguler),148,0,REG-SUMUT-4
+SAT-0251,Alfamart Melati 250,Bekasi,Jawa Barat,2021-04-01,Residential/Perumahan,Sedang (Reguler),216,0,REG-JABAR-4
+SAT-0252,Alfamart Gatot Subroto 251,Tangerang,Banten,2022-08-01,Perkantoran,Sedang (Reguler),215,0,REG-BANTEN-1
+SAT-0253,Alfamart Pahlawan 252,Bekasi,Jawa Barat,2023-07-30,Residential/Perumahan,Kecil (Express),98,0,REG-JABAR-2
+SAT-0254,Alfamart Sudirman 253,Depok,Jawa Barat,2023-01-15,Residential/Perumahan,Sedang (Reguler),126,0,REG-JABAR-4
+SAT-0255,Alfamart Diponegoro 254,Bekasi,Jawa Barat,2022-08-05,Residential/Perumahan,Sedang (Reguler),197,0,REG-JABAR-4
+SAT-0256,Alfamart Pahlawan 255,Surabaya,Jawa Timur,2023-06-25,Residential/Perumahan,Sedang (Reguler),196,1,REG-JATIM-1
+SAT-0257,Alfamart Pahlawan 256,Bandung,Jawa Barat,2022-02-09,Perkantoran,Kecil (Express),62,0,REG-JABAR-1
+SAT-0258,Alfamart Sudirman 257,Jakarta,DKI Jakarta,2023-01-10,Residential/Perumahan,Sedang (Reguler),210,1,REG-JKT-2
+SAT-0259,Alfamart Melati 258,Medan,Sumatera Utara,2021-06-26,Residential/Perumahan,Kecil (Express),60,0,REG-SUMUT-4
+SAT-0260,Alfamart Diponegoro 259,Bekasi,Jawa Barat,2021-02-05,Residential/Perumahan,Sedang (Reguler),155,0,REG-JABAR-3
+SAT-0261,Alfamart Sudirman 260,Malang,Jawa Timur,2023-09-02,Residential/Perumahan,Sedang (Reguler),170,0,REG-JATIM-4
+SAT-0262,Alfamart Melati 261,Surabaya,Jawa Timur,2022-11-29,Perkantoran,Sedang (Reguler),161,0,REG-JATIM-3
+SAT-0263,Alfamart Diponegoro 262,Bekasi,Jawa Barat,2022-02-07,Residential/Perumahan,Kecil (Express),61,0,REG-JABAR-3
+SAT-0264,Alfamart Pahlawan 263,Malang,Jawa Timur,2022-12-27,Residential/Perumahan,Besar (Reguler Plus),262,1,REG-JATIM-1
+SAT-0265,Alfamart Melati 264,Depok,Jawa Barat,2021-05-04,Dekat Pasar/Grosir,Besar (Reguler Plus),276,1,REG-JABAR-4
+SAT-0266,Alfamart Melati 265,Tangerang,Banten,2023-07-09,Residential/Perumahan,Kecil (Express),79,0,REG-BANTEN-2
+SAT-0267,Alfamart Pahlawan 266,Surabaya,Jawa Timur,2021-05-06,Residential/Perumahan,Kecil (Express),93,0,REG-JATIM-3
+SAT-0268,Alfamart Sudirman 267,Surabaya,Jawa Timur,2023-08-21,Residential/Perumahan,Sedang (Reguler),208,0,REG-JATIM-4
+SAT-0269,Alfamart Pahlawan 268,Depok,Jawa Barat,2021-07-30,Residential/Perumahan,Sedang (Reguler),197,1,REG-JABAR-1
+SAT-0270,Alfamart Pahlawan 269,Bandung,Jawa Barat,2022-06-16,Residential/Perumahan,Sedang (Reguler),155,0,REG-JABAR-1
+SAT-0271,Alfamart Sudirman 270,Tangerang,Banten,2023-04-04,Residential/Perumahan,Kecil (Express),110,0,REG-BANTEN-1
+SAT-0272,Alfamart Diponegoro 271,Tangerang,Banten,2022-11-09,Residential/Perumahan,Sedang (Reguler),128,0,REG-BANTEN-4
+SAT-0273,Alfamart Gatot Subroto 272,Depok,Jawa Barat,2021-08-15,Residential/Perumahan,Sedang (Reguler),176,0,REG-JABAR-1
+SAT-0274,Alfamart Sudirman 273,Jakarta,DKI Jakarta,2022-06-04,Residential/Perumahan,Kecil (Express),92,0,REG-JKT-2
+SAT-0275,Alfamart Melati 274,Depok,Jawa Barat,2023-05-20,Residential/Perumahan,Kecil (Express),104,0,REG-JABAR-1
+SAT-0276,Alfamart Gatot Subroto 275,Medan,Sumatera Utara,2023-09-25,Residential/Perumahan,Sedang (Reguler),192,0,REG-SUMUT-4
+SAT-0277,Alfamart Gatot Subroto 276,Bandung,Jawa Barat,2022-05-06,Residential/Perumahan,Sedang (Reguler),128,0,REG-JABAR-4
+SAT-0278,Alfamart Sudirman 277,Malang,Jawa Timur,2021-03-17,Residential/Perumahan,Besar (Reguler Plus),273,0,REG-JATIM-1
+SAT-0279,Alfamart Melati 278,Bandung,Jawa Barat,2022-12-31,Perkantoran,Sedang (Reguler),192,1,REG-JABAR-1
+SAT-0280,Alfamart Pahlawan 279,Bandung,Jawa Barat,2022-09-03,Perkantoran,Sedang (Reguler),176,0,REG-JABAR-4
+SAT-0281,Alfamart Pahlawan 280,Bogor,Jawa Barat,2021-09-03,Residential/Perumahan,Sedang (Reguler),195,0,REG-JABAR-3
+SAT-0282,Alfamart Melati 281,Bogor,Jawa Barat,2023-03-25,Residential/Perumahan,Sedang (Reguler),202,1,REG-JABAR-1
+SAT-0283,Alfamart Melati 282,Medan,Sumatera Utara,2021-03-29,Residential/Perumahan,Sedang (Reguler),219,0,REG-SUMUT-4
+SAT-0284,Alfamart Melati 283,Jakarta,DKI Jakarta,2023-06-12,Residential/Perumahan,Besar (Reguler Plus),311,0,REG-JKT-3
+SAT-0285,Alfamart Gatot Subroto 284,Bekasi,Jawa Barat,2021-12-28,Residential/Perumahan,Sedang (Reguler),203,0,REG-JABAR-1
+SAT-0286,Alfamart Sudirman 285,Depok,Jawa Barat,2022-08-01,Residential/Perumahan,Sedang (Reguler),185,0,REG-JABAR-4
+SAT-0287,Alfamart Pahlawan 286,Depok,Jawa Barat,2023-04-28,Residential/Perumahan,Sedang (Reguler),168,0,REG-JABAR-1
+SAT-0288,Alfamart Melati 287,Bandung,Jawa Barat,2022-10-05,Residential/Perumahan,Kecil (Express),104,0,REG-JABAR-2
+SAT-0289,Alfamart Pahlawan 288,Depok,Jawa Barat,2021-01-11,Residential/Perumahan,Sedang (Reguler),177,0,REG-JABAR-1
+SAT-0290,Alfamart Melati 289,Malang,Jawa Timur,2023-05-18,Residential/Perumahan,Kecil (Express),98,0,REG-JATIM-2
+SAT-0291,Alfamart Sudirman 290,Tangerang,Banten,2021-05-31,Perkantoran,Besar (Reguler Plus),269,1,REG-BANTEN-1
+SAT-0292,Alfamart Sudirman 291,Bandung,Jawa Barat,2021-05-31,Residential/Perumahan,Sedang (Reguler),217,1,REG-JABAR-3
+SAT-0293,Alfamart Gatot Subroto 292,Jakarta,DKI Jakarta,2022-09-05,Dekat Pasar/Grosir,Kecil (Express),91,0,REG-JKT-2
+SAT-0294,Alfamart Sudirman 293,Malang,Jawa Timur,2021-03-15,Residential/Perumahan,Sedang (Reguler),219,1,REG-JATIM-2
+SAT-0295,Alfamart Pahlawan 294,Malang,Jawa Timur,2022-08-24,Perkantoran,Sedang (Reguler),126,0,REG-JATIM-1
+SAT-0296,Alfamart Diponegoro 295,Jakarta,DKI Jakarta,2022-10-26,Perkantoran,Sedang (Reguler),211,0,REG-JKT-2
+SAT-0297,Alfamart Sudirman 296,Semarang,Jawa Tengah,2021-06-21,Dekat Pasar/Grosir,Sedang (Reguler),211,0,REG-JATENG-3
+SAT-0298,Alfamart Gatot Subroto 297,Bekasi,Jawa Barat,2022-06-08,Perkantoran,Sedang (Reguler),202,0,REG-JABAR-2
+SAT-0299,Alfamart Gatot Subroto 298,Bekasi,Jawa Barat,2023-09-21,Perkantoran,Sedang (Reguler),177,0,REG-JABAR-4
+SAT-0300,Alfamart Sudirman 299,Jakarta,DKI Jakarta,2022-06-29,Residential/Perumahan,Kecil (Express),94,0,REG-JKT-4
+SAT-0301,Alfamart Diponegoro 300,Tangerang,Banten,2021-10-01,Perkantoran,Besar (Reguler Plus),367,1,REG-BANTEN-2
+SAT-0302,Alfamart Gatot Subroto 301,Medan,Sumatera Utara,2021-03-16,Residential/Perumahan,Kecil (Express),68,0,REG-SUMUT-4
+SAT-0303,Alfamart Pahlawan 302,Malang,Jawa Timur,2021-05-02,Residential/Perumahan,Besar (Reguler Plus),292,1,REG-JATIM-3
+SAT-0304,Alfamart Pahlawan 303,Jakarta,DKI Jakarta,2022-12-16,Residential/Perumahan,Besar (Reguler Plus),365,1,REG-JKT-4
+SAT-0305,Alfamart Diponegoro 304,Bandung,Jawa Barat,2023-03-04,Perkantoran,Sedang (Reguler),138,0,REG-JABAR-4
+SAT-0306,Alfamart Pahlawan 305,Malang,Jawa Timur,2022-03-23,Residential/Perumahan,Kecil (Express),112,0,REG-JATIM-3
+SAT-0307,Alfamart Gatot Subroto 306,Semarang,Jawa Tengah,2023-03-23,Residential/Perumahan,Besar (Reguler Plus),309,1,REG-JATENG-2
+SAT-0308,Alfamart Pahlawan 307,Tangerang,Banten,2021-09-03,Residential/Perumahan,Sedang (Reguler),172,1,REG-BANTEN-1
+SAT-0309,Alfamart Sudirman 308,Semarang,Jawa Tengah,2022-11-04,Residential/Perumahan,Besar (Reguler Plus),302,0,REG-JATENG-2
+SAT-0310,Alfamart Gatot Subroto 309,Bogor,Jawa Barat,2022-01-28,Residential/Perumahan,Besar (Reguler Plus),331,1,REG-JABAR-1
+SAT-0311,Alfamart Diponegoro 310,Tangerang,Banten,2022-10-04,Residential/Perumahan,Sedang (Reguler),205,0,REG-BANTEN-2
+SAT-0312,Alfamart Gatot Subroto 311,Bandung,Jawa Barat,2022-03-20,Residential/Perumahan,Sedang (Reguler),172,0,REG-JABAR-4
+SAT-0313,Alfamart Pahlawan 312,Medan,Sumatera Utara,2023-08-14,Residential/Perumahan,Sedang (Reguler),192,0,REG-SUMUT-4
+SAT-0314,Alfamart Sudirman 313,Surabaya,Jawa Timur,2022-02-02,Residential/Perumahan,Sedang (Reguler),212,0,REG-JATIM-4
+SAT-0315,Alfamart Sudirman 314,Surabaya,Jawa Timur,2022-12-04,Residential/Perumahan,Kecil (Express),108,0,REG-JATIM-4
+SAT-0316,Alfamart Sudirman 315,Bandung,Jawa Barat,2021-02-28,Residential/Perumahan,Sedang (Reguler),151,0,REG-JABAR-3
+SAT-0317,Alfamart Sudirman 316,Tangerang,Banten,2021-04-15,Residential/Perumahan,Kecil (Express),97,0,REG-BANTEN-1
+SAT-0318,Alfamart Pahlawan 317,Medan,Sumatera Utara,2023-04-04,Residential/Perumahan,Besar (Reguler Plus),367,1,REG-SUMUT-2
+SAT-0319,Alfamart Diponegoro 318,Malang,Jawa Timur,2021-12-21,Residential/Perumahan,Sedang (Reguler),135,0,REG-JATIM-2
+SAT-0320,Alfamart Diponegoro 319,Semarang,Jawa Tengah,2022-09-01,Dekat Pasar/Grosir,Sedang (Reguler),164,0,REG-JATENG-3
+SAT-0321,Alfamart Sudirman 320,Bandung,Jawa Barat,2021-04-04,Perkantoran,Sedang (Reguler),158,0,REG-JABAR-4
+SAT-0322,Alfamart Pahlawan 321,Tangerang,Banten,2022-05-10,Residential/Perumahan,Kecil (Express),113,0,REG-BANTEN-1
+SAT-0323,Alfamart Gatot Subroto 322,Bogor,Jawa Barat,2022-07-07,Residential/Perumahan,Kecil (Express),95,0,REG-JABAR-1
+SAT-0324,Alfamart Pahlawan 323,Malang,Jawa Timur,2021-06-02,Residential/Perumahan,Kecil (Express),87,0,REG-JATIM-1
+SAT-0325,Alfamart Sudirman 324,Bogor,Jawa Barat,2021-12-22,Perkantoran,Sedang (Reguler),127,1,REG-JABAR-3
+SAT-0326,Alfamart Gatot Subroto 325,Malang,Jawa Timur,2022-05-17,Residential/Perumahan,Sedang (Reguler),201,0,REG-JATIM-4
+SAT-0327,Alfamart Pahlawan 326,Bekasi,Jawa Barat,2023-07-23,Perkantoran,Kecil (Express),112,0,REG-JABAR-1
+SAT-0328,Alfamart Gatot Subroto 327,Semarang,Jawa Tengah,2021-11-04,Residential/Perumahan,Kecil (Express),67,0,REG-JATENG-4
+SAT-0329,Alfamart Pahlawan 328,Malang,Jawa Timur,2022-09-06,Residential/Perumahan,Besar (Reguler Plus),266,0,REG-JATIM-3
+SAT-0330,Alfamart Sudirman 329,Depok,Jawa Barat,2022-05-06,Residential/Perumahan,Kecil (Express),75,0,REG-JABAR-3
+SAT-0331,Alfamart Gatot Subroto 330,Depok,Jawa Barat,2022-07-30,Residential/Perumahan,Kecil (Express),84,0,REG-JABAR-1
+SAT-0332,Alfamart Gatot Subroto 331,Jakarta,DKI Jakarta,2022-02-15,Residential/Perumahan,Kecil (Express),105,0,REG-JKT-4
+SAT-0333,Alfamart Melati 332,Bekasi,Jawa Barat,2022-04-20,Residential/Perumahan,Kecil (Express),114,0,REG-JABAR-2
+SAT-0334,Alfamart Sudirman 333,Surabaya,Jawa Timur,2021-03-18,Perkantoran,Sedang (Reguler),166,0,REG-JATIM-1
+SAT-0335,Alfamart Diponegoro 334,Depok,Jawa Barat,2022-07-17,Residential/Perumahan,Kecil (Express),73,0,REG-JABAR-3
+SAT-0336,Alfamart Melati 335,Tangerang,Banten,2021-02-05,Residential/Perumahan,Sedang (Reguler),176,0,REG-BANTEN-3
+SAT-0337,Alfamart Melati 336,Bogor,Jawa Barat,2022-09-15,Residential/Perumahan,Sedang (Reguler),143,0,REG-JABAR-4
+SAT-0338,Alfamart Diponegoro 337,Bekasi,Jawa Barat,2023-06-06,Residential/Perumahan,Kecil (Express),107,0,REG-JABAR-4
+SAT-0339,Alfamart Melati 338,Bogor,Jawa Barat,2022-08-31,Residential/Perumahan,Sedang (Reguler),205,0,REG-JABAR-2
+SAT-0340,Alfamart Melati 339,Bandung,Jawa Barat,2021-09-29,Dekat Pasar/Grosir,Sedang (Reguler),174,0,REG-JABAR-4
+SAT-0341,Alfamart Pahlawan 340,Bogor,Jawa Barat,2021-12-22,Residential/Perumahan,Kecil (Express),79,0,REG-JABAR-4
+SAT-0342,Alfamart Sudirman 341,Jakarta,DKI Jakarta,2021-03-16,Dekat Pasar/Grosir,Sedang (Reguler),196,0,REG-JKT-1
+SAT-0343,Alfamart Gatot Subroto 342,Bandung,Jawa Barat,2021-11-09,Perkantoran,Kecil (Express),71,0,REG-JABAR-3
+SAT-0344,Alfamart Sudirman 343,Bandung,Jawa Barat,2023-02-16,Residential/Perumahan,Besar (Reguler Plus),259,0,REG-JABAR-4
+SAT-0345,Alfamart Gatot Subroto 344,Jakarta,DKI Jakarta,2023-02-21,Perkantoran,Sedang (Reguler),168,0,REG-JKT-1
+SAT-0346,Alfamart Pahlawan 345,Semarang,Jawa Tengah,2021-03-14,Perkantoran,Sedang (Reguler),154,0,REG-JATENG-1
+SAT-0347,Alfamart Gatot Subroto 346,Semarang,Jawa Tengah,2021-08-22,Dekat Pasar/Grosir,Sedang (Reguler),197,1,REG-JATENG-1
+SAT-0348,Alfamart Sudirman 347,Malang,Jawa Timur,2022-12-30,Residential/Perumahan,Besar (Reguler Plus),399,0,REG-JATIM-1
+SAT-0349,Alfamart Sudirman 348,Semarang,Jawa Tengah,2022-03-14,Residential/Perumahan,Sedang (Reguler),155,0,REG-JATENG-3
+SAT-0350,Alfamart Sudirman 349,Bekasi,Jawa Barat,2021-05-23,Residential/Perumahan,Sedang (Reguler),210,1,REG-JABAR-1
+SAT-0351,Alfamart Gatot Subroto 350,Bandung,Jawa Barat,2023-07-26,Residential/Perumahan,Kecil (Express),81,0,REG-JABAR-1
+SAT-0352,Alfamart Sudirman 351,Bekasi,Jawa Barat,2022-12-19,Residential/Perumahan,Sedang (Reguler),193,0,REG-JABAR-4
+SAT-0353,Alfamart Sudirman 352,Medan,Sumatera Utara,2021-11-09,Residential/Perumahan,Besar (Reguler Plus),289,0,REG-SUMUT-2
+SAT-0354,Alfamart Melati 353,Bogor,Jawa Barat,2022-05-26,Residential/Perumahan,Sedang (Reguler),195,1,REG-JABAR-2
+SAT-0355,Alfamart Diponegoro 354,Depok,Jawa Barat,2021-05-01,Residential/Perumahan,Sedang (Reguler),152,0,REG-JABAR-4
+SAT-0356,Alfamart Diponegoro 355,Medan,Sumatera Utara,2022-02-18,Residential/Perumahan,Kecil (Express),106,0,REG-SUMUT-2
+SAT-0357,Alfamart Melati 356,Bogor,Jawa Barat,2021-09-22,Residential/Perumahan,Kecil (Express),92,0,REG-JABAR-4
+SAT-0358,Alfamart Sudirman 357,Bandung,Jawa Barat,2021-01-30,Perkantoran,Sedang (Reguler),177,0,REG-JABAR-3
+SAT-0359,Alfamart Sudirman 358,Bandung,Jawa Barat,2022-03-14,Residential/Perumahan,Kecil (Express),116,0,REG-JABAR-2
+SAT-0360,Alfamart Diponegoro 359,Bogor,Jawa Barat,2023-02-24,Residential/Perumahan,Kecil (Express),73,0,REG-JABAR-2
+SAT-0361,Alfamart Gatot Subroto 360,Malang,Jawa Timur,2022-05-28,Dekat Pasar/Grosir,Sedang (Reguler),188,0,REG-JATIM-3
+SAT-0362,Alfamart Diponegoro 361,Bogor,Jawa Barat,2023-04-01,Residential/Perumahan,Sedang (Reguler),165,0,REG-JABAR-3
+SAT-0363,Alfamart Pahlawan 362,Depok,Jawa Barat,2021-08-27,Residential/Perumahan,Sedang (Reguler),201,0,REG-JABAR-1
+SAT-0364,Alfamart Pahlawan 363,Bekasi,Jawa Barat,2021-11-11,Residential/Perumahan,Kecil (Express),80,0,REG-JABAR-3
+SAT-0365,Alfamart Sudirman 364,Semarang,Jawa Tengah,2022-12-23,Residential/Perumahan,Kecil (Express),95,0,REG-JATENG-2
+SAT-0366,Alfamart Gatot Subroto 365,Bekasi,Jawa Barat,2021-11-17,Residential/Perumahan,Sedang (Reguler),167,1,REG-JABAR-4
+SAT-0367,Alfamart Pahlawan 366,Depok,Jawa Barat,2022-02-17,Perkantoran,Kecil (Express),92,0,REG-JABAR-1
+SAT-0368,Alfamart Gatot Subroto 367,Surabaya,Jawa Timur,2022-11-12,Residential/Perumahan,Sedang (Reguler),202,0,REG-JATIM-1
+SAT-0369,Alfamart Diponegoro 368,Surabaya,Jawa Timur,2022-01-29,Residential/Perumahan,Sedang (Reguler),201,0,REG-JATIM-3
+SAT-0370,Alfamart Melati 369,Medan,Sumatera Utara,2021-04-20,Perkantoran,Sedang (Reguler),198,0,REG-SUMUT-3
+SAT-0371,Alfamart Diponegoro 370,Jakarta,DKI Jakarta,2022-05-17,Residential/Perumahan,Sedang (Reguler),122,1,REG-JKT-1
+SAT-0372,Alfamart Gatot Subroto 371,Bandung,Jawa Barat,2022-07-04,Residential/Perumahan,Kecil (Express),101,0,REG-JABAR-4
+SAT-0373,Alfamart Sudirman 372,Bekasi,Jawa Barat,2021-10-13,Residential/Perumahan,Sedang (Reguler),133,0,REG-JABAR-3
+SAT-0374,Alfamart Diponegoro 373,Bogor,Jawa Barat,2021-12-24,Residential/Perumahan,Sedang (Reguler),178,0,REG-JABAR-4
+SAT-0375,Alfamart Gatot Subroto 374,Surabaya,Jawa Timur,2022-03-28,Residential/Perumahan,Kecil (Express),83,0,REG-JATIM-2
+SAT-0376,Alfamart Pahlawan 375,Semarang,Jawa Tengah,2023-02-09,Residential/Perumahan,Kecil (Express),88,0,REG-JATENG-2
+SAT-0377,Alfamart Pahlawan 376,Bogor,Jawa Barat,2021-11-03,Dekat Pasar/Grosir,Kecil (Express),107,0,REG-JABAR-2
+SAT-0378,Alfamart Melati 377,Depok,Jawa Barat,2021-05-12,Residential/Perumahan,Sedang (Reguler),182,1,REG-JABAR-4
+SAT-0379,Alfamart Gatot Subroto 378,Tangerang,Banten,2021-08-05,Residential/Perumahan,Sedang (Reguler),172,0,REG-BANTEN-3
+SAT-0380,Alfamart Melati 379,Surabaya,Jawa Timur,2021-08-17,Residential/Perumahan,Kecil (Express),60,0,REG-JATIM-1
+SAT-0381,Alfamart Gatot Subroto 380,Surabaya,Jawa Timur,2022-03-18,Residential/Perumahan,Sedang (Reguler),195,0,REG-JATIM-1
+SAT-0382,Alfamart Pahlawan 381,Bekasi,Jawa Barat,2023-07-18,Dekat Pasar/Grosir,Besar (Reguler Plus),255,0,REG-JABAR-3
+SAT-0383,Alfamart Diponegoro 382,Jakarta,DKI Jakarta,2021-12-04,Perkantoran,Kecil (Express),63,0,REG-JKT-1
+SAT-0384,Alfamart Melati 383,Semarang,Jawa Tengah,2021-09-07,Residential/Perumahan,Sedang (Reguler),216,0,REG-JATENG-1
+SAT-0385,Alfamart Gatot Subroto 384,Malang,Jawa Timur,2022-07-02,Residential/Perumahan,Sedang (Reguler),121,1,REG-JATIM-2
+SAT-0386,Alfamart Melati 385,Bandung,Jawa Barat,2023-08-02,Dekat Pasar/Grosir,Sedang (Reguler),204,0,REG-JABAR-2
+SAT-0387,Alfamart Gatot Subroto 386,Surabaya,Jawa Timur,2022-08-10,Residential/Perumahan,Sedang (Reguler),213,0,REG-JATIM-4
+SAT-0388,Alfamart Gatot Subroto 387,Surabaya,Jawa Timur,2022-06-24,Dekat Pasar/Grosir,Besar (Reguler Plus),276,1,REG-JATIM-2
+SAT-0389,Alfamart Pahlawan 388,Malang,Jawa Timur,2023-06-24,Residential/Perumahan,Sedang (Reguler),218,0,REG-JATIM-2
+SAT-0390,Alfamart Diponegoro 389,Medan,Sumatera Utara,2022-06-26,Perkantoran,Sedang (Reguler),198,0,REG-SUMUT-3
+SAT-0391,Alfamart Gatot Subroto 390,Semarang,Jawa Tengah,2023-01-16,Residential/Perumahan,Sedang (Reguler),200,0,REG-JATENG-2
+SAT-0392,Alfamart Melati 391,Bogor,Jawa Barat,2022-04-18,Residential/Perumahan,Besar (Reguler Plus),251,1,REG-JABAR-3
+SAT-0393,Alfamart Pahlawan 392,Jakarta,DKI Jakarta,2022-12-02,Residential/Perumahan,Sedang (Reguler),129,1,REG-JKT-1
+SAT-0394,Alfamart Gatot Subroto 393,Depok,Jawa Barat,2021-09-11,Residential/Perumahan,Kecil (Express),87,0,REG-JABAR-1
+SAT-0395,Alfamart Gatot Subroto 394,Malang,Jawa Timur,2022-06-16,Residential/Perumahan,Kecil (Express),94,0,REG-JATIM-4
+SAT-0396,Alfamart Gatot Subroto 395,Jakarta,DKI Jakarta,2023-02-27,Residential/Perumahan,Sedang (Reguler),180,0,REG-JKT-3
+SAT-0397,Alfamart Melati 396,Semarang,Jawa Tengah,2022-03-01,Perkantoran,Sedang (Reguler),165,0,REG-JATENG-3
+SAT-0398,Alfamart Melati 397,Depok,Jawa Barat,2022-10-13,Residential/Perumahan,Besar (Reguler Plus),326,1,REG-JABAR-3
+SAT-0399,Alfamart Melati 398,Tangerang,Banten,2023-02-06,Residential/Perumahan,Sedang (Reguler),157,0,REG-BANTEN-3
+SAT-0400,Alfamart Melati 399,Jakarta,DKI Jakarta,2021-07-10,Residential/Perumahan,Sedang (Reguler),216,0,REG-JKT-3
+SAT-0401,Alfamart Sudirman 400,Tangerang,Banten,2023-02-20,Residential/Perumahan,Kecil (Express),111,0,REG-BANTEN-2
+SAT-0402,Alfamart Pahlawan 401,Surabaya,Jawa Timur,2022-11-12,Perkantoran,Kecil (Express),89,0,REG-JATIM-4
+SAT-0403,Alfamart Diponegoro 402,Bogor,Jawa Barat,2021-08-09,Perkantoran,Sedang (Reguler),160,0,REG-JABAR-1
+SAT-0404,Alfamart Melati 403,Malang,Jawa Timur,2021-07-11,Residential/Perumahan,Sedang (Reguler),180,0,REG-JATIM-2
+SAT-0405,Alfamart Melati 404,Bekasi,Jawa Barat,2023-03-09,Dekat Pasar/Grosir,Kecil (Express),73,0,REG-JABAR-3
+SAT-0406,Alfamart Pahlawan 405,Bogor,Jawa Barat,2021-12-28,Perkantoran,Besar (Reguler Plus),240,0,REG-JABAR-1
+SAT-0407,Alfamart Gatot Subroto 406,Medan,Sumatera Utara,2022-01-02,Residential/Perumahan,Sedang (Reguler),125,0,REG-SUMUT-2
+SAT-0408,Alfamart Pahlawan 407,Malang,Jawa Timur,2022-10-15,Perkantoran,Besar (Reguler Plus),285,0,REG-JATIM-4
+SAT-0409,Alfamart Diponegoro 408,Surabaya,Jawa Timur,2021-09-22,Residential/Perumahan,Sedang (Reguler),123,0,REG-JATIM-3
+SAT-0410,Alfamart Gatot Subroto 409,Tangerang,Banten,2023-08-25,Dekat Pasar/Grosir,Sedang (Reguler),196,0,REG-BANTEN-4
+SAT-0411,Alfamart Sudirman 410,Medan,Sumatera Utara,2021-12-06,Residential/Perumahan,Sedang (Reguler),165,1,REG-SUMUT-3
+SAT-0412,Alfamart Melati 411,Semarang,Jawa Tengah,2021-12-20,Residential/Perumahan,Sedang (Reguler),211,1,REG-JATENG-4
+SAT-0413,Alfamart Melati 412,Surabaya,Jawa Timur,2021-10-28,Residential/Perumahan,Kecil (Express),86,0,REG-JATIM-3
+SAT-0414,Alfamart Gatot Subroto 413,Bandung,Jawa Barat,2022-11-10,Perkantoran,Kecil (Express),71,0,REG-JABAR-1
+SAT-0415,Alfamart Diponegoro 414,Bekasi,Jawa Barat,2022-04-25,Residential/Perumahan,Sedang (Reguler),195,0,REG-JABAR-2
+SAT-0416,Alfamart Pahlawan 415,Surabaya,Jawa Timur,2022-05-17,Residential/Perumahan,Sedang (Reguler),171,0,REG-JATIM-2
+SAT-0417,Alfamart Gatot Subroto 416,Bandung,Jawa Barat,2023-01-20,Residential/Perumahan,Besar (Reguler Plus),316,0,REG-JABAR-3
+SAT-0418,Alfamart Sudirman 417,Surabaya,Jawa Timur,2022-09-26,Perkantoran,Sedang (Reguler),196,1,REG-JATIM-4
+SAT-0419,Alfamart Pahlawan 418,Bogor,Jawa Barat,2022-09-07,Residential/Perumahan,Sedang (Reguler),130,0,REG-JABAR-3
+SAT-0420,Alfamart Melati 419,Malang,Jawa Timur,2022-09-23,Perkantoran,Sedang (Reguler),152,0,REG-JATIM-4
+SAT-0421,Alfamart Sudirman 420,Depok,Jawa Barat,2021-10-01,Residential/Perumahan,Sedang (Reguler),186,0,REG-JABAR-3
+SAT-0422,Alfamart Diponegoro 421,Tangerang,Banten,2021-07-18,Residential/Perumahan,Sedang (Reguler),167,0,REG-BANTEN-1
+SAT-0423,Alfamart Gatot Subroto 422,Medan,Sumatera Utara,2023-04-01,Residential/Perumahan,Kecil (Express),113,0,REG-SUMUT-1
+SAT-0424,Alfamart Pahlawan 423,Medan,Sumatera Utara,2022-10-26,Residential/Perumahan,Sedang (Reguler),202,0,REG-SUMUT-1
+SAT-0425,Alfamart Sudirman 424,Bandung,Jawa Barat,2023-03-28,Residential/Perumahan,Sedang (Reguler),190,0,REG-JABAR-3
+SAT-0426,Alfamart Diponegoro 425,Bandung,Jawa Barat,2022-06-03,Perkantoran,Sedang (Reguler),162,0,REG-JABAR-1
+SAT-0427,Alfamart Sudirman 426,Surabaya,Jawa Timur,2021-08-02,Residential/Perumahan,Besar (Reguler Plus),255,1,REG-JATIM-2
+SAT-0428,Alfamart Pahlawan 427,Jakarta,DKI Jakarta,2022-07-23,Perkantoran,Kecil (Express),86,0,REG-JKT-3
+SAT-0429,Alfamart Sudirman 428,Bekasi,Jawa Barat,2021-04-14,Residential/Perumahan,Sedang (Reguler),205,1,REG-JABAR-2
+SAT-0430,Alfamart Pahlawan 429,Jakarta,DKI Jakarta,2021-05-12,Perkantoran,Sedang (Reguler),130,0,REG-JKT-1
+SAT-0431,Alfamart Diponegoro 430,Medan,Sumatera Utara,2022-06-07,Dekat Pasar/Grosir,Sedang (Reguler),181,1,REG-SUMUT-4
+SAT-0432,Alfamart Melati 431,Semarang,Jawa Tengah,2022-04-26,Perkantoran,Sedang (Reguler),133,0,REG-JATENG-1
+SAT-0433,Alfamart Sudirman 432,Semarang,Jawa Tengah,2023-08-18,Residential/Perumahan,Sedang (Reguler),133,0,REG-JATENG-4
+SAT-0434,Alfamart Sudirman 433,Bekasi,Jawa Barat,2021-02-17,Perkantoran,Sedang (Reguler),196,0,REG-JABAR-2
+SAT-0435,Alfamart Pahlawan 434,Bandung,Jawa Barat,2023-01-17,Residential/Perumahan,Besar (Reguler Plus),225,0,REG-JABAR-4
+SAT-0436,Alfamart Melati 435,Medan,Sumatera Utara,2021-08-17,Residential/Perumahan,Sedang (Reguler),155,0,REG-SUMUT-1
+SAT-0437,Alfamart Melati 436,Semarang,Jawa Tengah,2022-07-22,Residential/Perumahan,Sedang (Reguler),199,0,REG-JATENG-4
+SAT-0438,Alfamart Sudirman 437,Surabaya,Jawa Timur,2021-08-25,Residential/Perumahan,Besar (Reguler Plus),371,0,REG-JATIM-1
+SAT-0439,Alfamart Gatot Subroto 438,Semarang,Jawa Tengah,2022-07-11,Residential/Perumahan,Kecil (Express),86,0,REG-JATENG-1
+SAT-0440,Alfamart Sudirman 439,Medan,Sumatera Utara,2021-03-15,Residential/Perumahan,Kecil (Express),66,0,REG-SUMUT-2
+SAT-0441,Alfamart Sudirman 440,Tangerang,Banten,2023-04-15,Perkantoran,Sedang (Reguler),202,1,REG-BANTEN-4
+SAT-0442,Alfamart Diponegoro 441,Jakarta,DKI Jakarta,2021-10-08,Residential/Perumahan,Sedang (Reguler),188,0,REG-JKT-4
+SAT-0443,Alfamart Sudirman 442,Bogor,Jawa Barat,2022-07-30,Residential/Perumahan,Sedang (Reguler),155,0,REG-JABAR-2
+SAT-0444,Alfamart Diponegoro 443,Surabaya,Jawa Timur,2022-02-05,Residential/Perumahan,Sedang (Reguler),124,1,REG-JATIM-3
+SAT-0445,Alfamart Diponegoro 444,Jakarta,DKI Jakarta,2023-09-09,Residential/Perumahan,Sedang (Reguler),143,0,REG-JKT-4
+SAT-0446,Alfamart Melati 445,Tangerang,Banten,2023-02-19,Residential/Perumahan,Sedang (Reguler),129,0,REG-BANTEN-2
+SAT-0447,Alfamart Pahlawan 446,Malang,Jawa Timur,2021-09-20,Dekat Pasar/Grosir,Sedang (Reguler),203,0,REG-JATIM-4
+SAT-0448,Alfamart Gatot Subroto 447,Tangerang,Banten,2022-05-20,Residential/Perumahan,Sedang (Reguler),131,0,REG-BANTEN-2
+SAT-0449,Alfamart Melati 448,Semarang,Jawa Tengah,2022-03-01,Residential/Perumahan,Kecil (Express),103,0,REG-JATENG-3
+SAT-0450,Alfamart Melati 449,Semarang,Jawa Tengah,2021-07-14,Residential/Perumahan,Sedang (Reguler),157,0,REG-JATENG-4
+SAT-0451,Alfamart Melati 450,Malang,Jawa Timur,2021-11-26,Residential/Perumahan,Sedang (Reguler),174,0,REG-JATIM-1
+SAT-0452,Alfamart Melati 451,Medan,Sumatera Utara,2021-10-01,Perkantoran,Sedang (Reguler),197,1,REG-SUMUT-4
+SAT-0453,Alfamart Pahlawan 452,Malang,Jawa Timur,2022-06-04,Residential/Perumahan,Sedang (Reguler),210,0,REG-JATIM-2
+SAT-0454,Alfamart Sudirman 453,Malang,Jawa Timur,2022-12-24,Residential/Perumahan,Besar (Reguler Plus),241,1,REG-JATIM-4
+SAT-0455,Alfamart Sudirman 454,Tangerang,Banten,2021-04-01,Residential/Perumahan,Sedang (Reguler),212,0,REG-BANTEN-2
+SAT-0456,Alfamart Melati 455,Medan,Sumatera Utara,2023-05-14,Residential/Perumahan,Sedang (Reguler),185,0,REG-SUMUT-1
+SAT-0457,Alfamart Diponegoro 456,Tangerang,Banten,2021-03-05,Dekat Pasar/Grosir,Kecil (Express),91,0,REG-BANTEN-2
+SAT-0458,Alfamart Sudirman 457,Bekasi,Jawa Barat,2021-06-28,Residential/Perumahan,Sedang (Reguler),137,0,REG-JABAR-3
+SAT-0459,Alfamart Gatot Subroto 458,Bekasi,Jawa Barat,2021-06-11,Perkantoran,Sedang (Reguler),211,0,REG-JABAR-2
+SAT-0460,Alfamart Pahlawan 459,Medan,Sumatera Utara,2021-08-20,Residential/Perumahan,Sedang (Reguler),176,0,REG-SUMUT-4
+SAT-0461,Alfamart Melati 460,Depok,Jawa Barat,2021-12-06,Residential/Perumahan,Sedang (Reguler),198,0,REG-JABAR-4
+SAT-0462,Alfamart Melati 461,Surabaya,Jawa Timur,2021-06-22,Residential/Perumahan,Sedang (Reguler),141,0,REG-JATIM-1
+SAT-0463,Alfamart Sudirman 462,Malang,Jawa Timur,2021-04-30,Dekat Pasar/Grosir,Kecil (Express),107,0,REG-JATIM-4
+SAT-0464,Alfamart Diponegoro 463,Malang,Jawa Timur,2021-12-29,Residential/Perumahan,Kecil (Express),90,0,REG-JATIM-2
+SAT-0465,Alfamart Gatot Subroto 464,Semarang,Jawa Tengah,2023-09-05,Residential/Perumahan,Sedang (Reguler),176,0,REG-JATENG-2
+SAT-0466,Alfamart Diponegoro 465,Semarang,Jawa Tengah,2021-01-11,Residential/Perumahan,Kecil (Express),93,0,REG-JATENG-3
+SAT-0467,Alfamart Gatot Subroto 466,Bekasi,Jawa Barat,2023-09-17,Residential/Perumahan,Besar (Reguler Plus),321,0,REG-JABAR-3
+SAT-0468,Alfamart Pahlawan 467,Medan,Sumatera Utara,2023-04-12,Dekat Pasar/Grosir,Kecil (Express),117,0,REG-SUMUT-2
+SAT-0469,Alfamart Melati 468,Medan,Sumatera Utara,2023-03-17,Residential/Perumahan,Sedang (Reguler),180,0,REG-SUMUT-1
+SAT-0470,Alfamart Sudirman 469,Malang,Jawa Timur,2021-07-08,Residential/Perumahan,Sedang (Reguler),189,0,REG-JATIM-4
+SAT-0471,Alfamart Melati 470,Bekasi,Jawa Barat,2021-04-04,Residential/Perumahan,Kecil (Express),106,0,REG-JABAR-4
+SAT-0472,Alfamart Sudirman 471,Tangerang,Banten,2021-05-10,Residential/Perumahan,Kecil (Express),70,0,REG-BANTEN-4
+SAT-0473,Alfamart Diponegoro 472,Jakarta,DKI Jakarta,2022-04-14,Residential/Perumahan,Sedang (Reguler),184,0,REG-JKT-4
+SAT-0474,Alfamart Melati 473,Depok,Jawa Barat,2023-07-16,Residential/Perumahan,Sedang (Reguler),198,0,REG-JABAR-3
+SAT-0475,Alfamart Pahlawan 474,Depok,Jawa Barat,2023-02-13,Residential/Perumahan,Kecil (Express),117,0,REG-JABAR-4
+SAT-0476,Alfamart Pahlawan 475,Bekasi,Jawa Barat,2022-03-16,Residential/Perumahan,Sedang (Reguler),129,0,REG-JABAR-2
+SAT-0477,Alfamart Gatot Subroto 476,Medan,Sumatera Utara,2023-06-25,Residential/Perumahan,Besar (Reguler Plus),325,1,REG-SUMUT-2
+SAT-0478,Alfamart Pahlawan 477,Malang,Jawa Timur,2022-11-16,Residential/Perumahan,Sedang (Reguler),144,0,REG-JATIM-3
+SAT-0479,Alfamart Sudirman 478,Tangerang,Banten,2023-06-01,Residential/Perumahan,Besar (Reguler Plus),380,0,REG-BANTEN-1
+SAT-0480,Alfamart Diponegoro 479,Surabaya,Jawa Timur,2022-10-08,Residential/Perumahan,Besar (Reguler Plus),223,1,REG-JATIM-3
+SAT-0481,Alfamart Diponegoro 480,Bogor,Jawa Barat,2021-04-26,Residential/Perumahan,Kecil (Express),94,0,REG-JABAR-1
+SAT-0482,Alfamart Sudirman 481,Jakarta,DKI Jakarta,2021-03-01,Residential/Perumahan,Sedang (Reguler),127,0,REG-JKT-4
+SAT-0483,Alfamart Melati 482,Bandung,Jawa Barat,2022-06-11,Residential/Perumahan,Sedang (Reguler),219,0,REG-JABAR-1
+SAT-0484,Alfamart Gatot Subroto 483,Semarang,Jawa Tengah,2022-09-25,Residential/Perumahan,Kecil (Express),115,0,REG-JATENG-2
+SAT-0485,Alfamart Melati 484,Tangerang,Banten,2022-05-17,Residential/Perumahan,Sedang (Reguler),148,1,REG-BANTEN-2
+SAT-0486,Alfamart Gatot Subroto 485,Tangerang,Banten,2022-11-01,Residential/Perumahan,Sedang (Reguler),209,0,REG-BANTEN-3
+SAT-0487,Alfamart Melati 486,Medan,Sumatera Utara,2021-07-31,Residential/Perumahan,Kecil (Express),101,0,REG-SUMUT-1
+SAT-0488,Alfamart Melati 487,Tangerang,Banten,2022-11-24,Residential/Perumahan,Sedang (Reguler),213,0,REG-BANTEN-1
+SAT-0489,Alfamart Melati 488,Medan,Sumatera Utara,2021-04-09,Residential/Perumahan,Sedang (Reguler),128,0,REG-SUMUT-3
+SAT-0490,Alfamart Diponegoro 489,Jakarta,DKI Jakarta,2023-06-11,Residential/Perumahan,Sedang (Reguler),153,0,REG-JKT-2
+SAT-0491,Alfamart Pahlawan 490,Jakarta,DKI Jakarta,2021-06-22,Residential/Perumahan,Sedang (Reguler),164,0,REG-JKT-2
+SAT-0492,Alfamart Pahlawan 491,Surabaya,Jawa Timur,2021-01-28,Residential/Perumahan,Sedang (Reguler),154,0,REG-JATIM-4
+SAT-0493,Alfamart Diponegoro 492,Semarang,Jawa Tengah,2021-04-19,Residential/Perumahan,Kecil (Express),94,0,REG-JATENG-4
+SAT-0494,Alfamart Diponegoro 493,Surabaya,Jawa Timur,2022-02-20,Residential/Perumahan,Kecil (Express),95,0,REG-JATIM-4
+SAT-0495,Alfamart Gatot Subroto 494,Medan,Sumatera Utara,2022-02-18,Perkantoran,Sedang (Reguler),187,0,REG-SUMUT-1
+SAT-0496,Alfamart Sudirman 495,Bogor,Jawa Barat,2023-09-20,Residential/Perumahan,Sedang (Reguler),120,0,REG-JABAR-1
+SAT-0497,Alfamart Gatot Subroto 496,Malang,Jawa Timur,2022-02-10,Residential/Perumahan,Sedang (Reguler),188,0,REG-JATIM-4
+SAT-0498,Alfamart Gatot Subroto 497,Jakarta,DKI Jakarta,2023-02-05,Residential/Perumahan,Kecil (Express),103,0,REG-JKT-1
+SAT-0499,Alfamart Sudirman 498,Medan,Sumatera Utara,2021-08-28,Residential/Perumahan,Sedang (Reguler),159,1,REG-SUMUT-3
+SAT-0500,Alfamart Gatot Subroto 499,Bandung,Jawa Barat,2022-09-23,Residential/Perumahan,Sedang (Reguler),166,0,REG-JABAR-4
+SAT-0501,Alfamart Diponegoro 500,Bekasi,Jawa Barat,2021-03-31,Residential/Perumahan,Sedang (Reguler),189,0,REG-JABAR-3
+SAT-0502,Alfamart Diponegoro 501,Malang,Jawa Timur,2022-02-19,Perkantoran,Sedang (Reguler),127,0,REG-JATIM-1
+SAT-0503,Alfamart Melati 502,Semarang,Jawa Tengah,2023-07-22,Dekat Pasar/Grosir,Sedang (Reguler),148,0,REG-JATENG-1
+SAT-0504,Alfamart Gatot Subroto 503,Depok,Jawa Barat,2021-08-10,Residential/Perumahan,Sedang (Reguler),134,0,REG-JABAR-1
+SAT-0505,Alfamart Melati 504,Malang,Jawa Timur,2021-09-07,Residential/Perumahan,Sedang (Reguler),169,0,REG-JATIM-2
+SAT-0506,Alfamart Diponegoro 505,Jakarta,DKI Jakarta,2023-06-14,Perkantoran,Sedang (Reguler),169,1,REG-JKT-2
+SAT-0507,Alfamart Melati 506,Surabaya,Jawa Timur,2021-02-24,Residential/Perumahan,Kecil (Express),86,0,REG-JATIM-1
+SAT-0508,Alfamart Gatot Subroto 507,Malang,Jawa Timur,2022-10-16,Perkantoran,Kecil (Express),96,0,REG-JATIM-1
+SAT-0509,Alfamart Sudirman 508,Bekasi,Jawa Barat,2022-04-11,Residential/Perumahan,Sedang (Reguler),131,0,REG-JABAR-4
+SAT-0510,Alfamart Sudirman 509,Surabaya,Jawa Timur,2022-03-14,Residential/Perumahan,Kecil (Express),62,0,REG-JATIM-4
+SAT-0511,Alfamart Melati 510,Semarang,Jawa Tengah,2021-03-03,Residential/Perumahan,Sedang (Reguler),218,0,REG-JATENG-3
+SAT-0512,Alfamart Gatot Subroto 511,Jakarta,DKI Jakarta,2023-01-30,Perkantoran,Besar (Reguler Plus),250,1,REG-JKT-1
+SAT-0513,Alfamart Gatot Subroto 512,Malang,Jawa Timur,2022-02-13,Residential/Perumahan,Besar (Reguler Plus),243,1,REG-JATIM-3
+SAT-0514,Alfamart Sudirman 513,Medan,Sumatera Utara,2021-05-24,Residential/Perumahan,Sedang (Reguler),143,0,REG-SUMUT-4
+SAT-0515,Alfamart Pahlawan 514,Medan,Sumatera Utara,2023-07-08,Residential/Perumahan,Sedang (Reguler),219,1,REG-SUMUT-2
+SAT-0516,Alfamart Melati 515,Surabaya,Jawa Timur,2022-07-13,Residential/Perumahan,Besar (Reguler Plus),376,0,REG-JATIM-2
+SAT-0517,Alfamart Diponegoro 516,Bekasi,Jawa Barat,2021-04-16,Residential/Perumahan,Sedang (Reguler),186,1,REG-JABAR-4
+SAT-0518,Alfamart Melati 517,Semarang,Jawa Tengah,2023-02-18,Residential/Perumahan,Besar (Reguler Plus),220,1,REG-JATENG-2
+SAT-0519,Alfamart Pahlawan 518,Tangerang,Banten,2023-03-26,Residential/Perumahan,Sedang (Reguler),208,0,REG-BANTEN-2
+SAT-0520,Alfamart Pahlawan 519,Semarang,Jawa Tengah,2021-04-26,Perkantoran,Kecil (Express),63,0,REG-JATENG-3
+SAT-0521,Alfamart Pahlawan 520,Medan,Sumatera Utara,2023-02-11,Perkantoran,Kecil (Express),89,0,REG-SUMUT-3
+SAT-0522,Alfamart Sudirman 521,Bandung,Jawa Barat,2022-09-08,Residential/Perumahan,Sedang (Reguler),155,0,REG-JABAR-1
+SAT-0523,Alfamart Diponegoro 522,Malang,Jawa Timur,2021-02-15,Residential/Perumahan,Sedang (Reguler),203,0,REG-JATIM-2
+SAT-0524,Alfamart Melati 523,Bandung,Jawa Barat,2022-12-13,Residential/Perumahan,Sedang (Reguler),174,0,REG-JABAR-1
+SAT-0525,Alfamart Sudirman 524,Medan,Sumatera Utara,2021-01-23,Residential/Perumahan,Sedang (Reguler),203,1,REG-SUMUT-2
+SAT-0526,Alfamart Gatot Subroto 525,Bandung,Jawa Barat,2021-11-04,Residential/Perumahan,Kecil (Express),109,0,REG-JABAR-3
+SAT-0527,Alfamart Diponegoro 526,Bogor,Jawa Barat,2022-12-31,Dekat Pasar/Grosir,Sedang (Reguler),149,0,REG-JABAR-3
+SAT-0528,Alfamart Gatot Subroto 527,Surabaya,Jawa Timur,2022-01-12,Dekat Pasar/Grosir,Sedang (Reguler),207,1,REG-JATIM-4
+SAT-0529,Alfamart Sudirman 528,Medan,Sumatera Utara,2021-03-03,Perkantoran,Sedang (Reguler),159,0,REG-SUMUT-3
+SAT-0530,Alfamart Melati 529,Medan,Sumatera Utara,2021-03-13,Residential/Perumahan,Sedang (Reguler),185,1,REG-SUMUT-2
+SAT-0531,Alfamart Sudirman 530,Tangerang,Banten,2023-02-05,Residential/Perumahan,Kecil (Express),99,0,REG-BANTEN-1
+SAT-0532,Alfamart Pahlawan 531,Bogor,Jawa Barat,2022-08-22,Residential/Perumahan,Besar (Reguler Plus),255,1,REG-JABAR-1
+SAT-0533,Alfamart Pahlawan 532,Semarang,Jawa Tengah,2023-05-06,Residential/Perumahan,Sedang (Reguler),172,1,REG-JATENG-2
+SAT-0534,Alfamart Sudirman 533,Surabaya,Jawa Timur,2023-06-02,Residential/Perumahan,Sedang (Reguler),172,0,REG-JATIM-3
+SAT-0535,Alfamart Sudirman 534,Depok,Jawa Barat,2021-03-25,Residential/Perumahan,Kecil (Express),65,0,REG-JABAR-4
+SAT-0536,Alfamart Gatot Subroto 535,Bogor,Jawa Barat,2022-05-20,Residential/Perumahan,Sedang (Reguler),209,0,REG-JABAR-1
+SAT-0537,Alfamart Diponegoro 536,Jakarta,DKI Jakarta,2021-05-24,Residential/Perumahan,Kecil (Express),72,0,REG-JKT-2
+SAT-0538,Alfamart Sudirman 537,Bogor,Jawa Barat,2023-03-19,Residential/Perumahan,Sedang (Reguler),141,0,REG-JABAR-1
+SAT-0539,Alfamart Melati 538,Tangerang,Banten,2021-06-02,Residential/Perumahan,Sedang (Reguler),178,0,REG-BANTEN-2
+SAT-0540,Alfamart Melati 539,Tangerang,Banten,2023-03-11,Perkantoran,Besar (Reguler Plus),392,0,REG-BANTEN-1
+SAT-0541,Alfamart Sudirman 540,Bogor,Jawa Barat,2021-10-14,Dekat Pasar/Grosir,Sedang (Reguler),121,0,REG-JABAR-3
+SAT-0542,Alfamart Diponegoro 541,Tangerang,Banten,2023-02-11,Residential/Perumahan,Sedang (Reguler),141,0,REG-BANTEN-1
+SAT-0543,Alfamart Sudirman 542,Medan,Sumatera Utara,2022-06-17,Perkantoran,Sedang (Reguler),138,1,REG-SUMUT-1
+SAT-0544,Alfamart Sudirman 543,Tangerang,Banten,2022-11-08,Dekat Pasar/Grosir,Sedang (Reguler),185,0,REG-BANTEN-2
+SAT-0545,Alfamart Pahlawan 544,Malang,Jawa Timur,2021-06-13,Residential/Perumahan,Besar (Reguler Plus),263,1,REG-JATIM-1
+SAT-0546,Alfamart Diponegoro 545,Semarang,Jawa Tengah,2022-01-28,Residential/Perumahan,Kecil (Express),106,0,REG-JATENG-2
+SAT-0547,Alfamart Melati 546,Medan,Sumatera Utara,2022-01-25,Residential/Perumahan,Sedang (Reguler),135,0,REG-SUMUT-3
+SAT-0548,Alfamart Sudirman 547,Bekasi,Jawa Barat,2023-01-09,Residential/Perumahan,Sedang (Reguler),181,0,REG-JABAR-3
+SAT-0549,Alfamart Melati 548,Bekasi,Jawa Barat,2022-03-15,Residential/Perumahan,Sedang (Reguler),193,0,REG-JABAR-3
+SAT-0550,Alfamart Melati 549,Depok,Jawa Barat,2022-09-20,Residential/Perumahan,Sedang (Reguler),142,0,REG-JABAR-4
+SAT-0551,Alfamart Melati 550,Medan,Sumatera Utara,2023-04-15,Residential/Perumahan,Kecil (Express),63,0,REG-SUMUT-4
+SAT-0552,Alfamart Pahlawan 551,Bandung,Jawa Barat,2022-03-12,Residential/Perumahan,Sedang (Reguler),189,0,REG-JABAR-3
+SAT-0553,Alfamart Sudirman 552,Bekasi,Jawa Barat,2023-08-20,Residential/Perumahan,Sedang (Reguler),152,1,REG-JABAR-4
+SAT-0554,Alfamart Pahlawan 553,Semarang,Jawa Tengah,2021-07-23,Perkantoran,Besar (Reguler Plus),237,1,REG-JATENG-2
+SAT-0555,Alfamart Melati 554,Medan,Sumatera Utara,2021-10-13,Residential/Perumahan,Kecil (Express),66,0,REG-SUMUT-1
+SAT-0556,Alfamart Melati 555,Surabaya,Jawa Timur,2023-08-30,Residential/Perumahan,Sedang (Reguler),146,0,REG-JATIM-3
+SAT-0557,Alfamart Gatot Subroto 556,Medan,Sumatera Utara,2021-10-29,Residential/Perumahan,Kecil (Express),106,0,REG-SUMUT-2
+SAT-0558,Alfamart Diponegoro 557,Malang,Jawa Timur,2022-05-20,Residential/Perumahan,Sedang (Reguler),200,0,REG-JATIM-2
+SAT-0559,Alfamart Gatot Subroto 558,Bekasi,Jawa Barat,2021-08-27,Residential/Perumahan,Sedang (Reguler),184,0,REG-JABAR-1
+SAT-0560,Alfamart Diponegoro 559,Malang,Jawa Timur,2023-04-14,Residential/Perumahan,Sedang (Reguler),194,0,REG-JATIM-1
+SAT-0561,Alfamart Melati 560,Tangerang,Banten,2022-09-28,Residential/Perumahan,Sedang (Reguler),123,0,REG-BANTEN-4
+SAT-0562,Alfamart Gatot Subroto 561,Medan,Sumatera Utara,2023-05-21,Residential/Perumahan,Kecil (Express),73,0,REG-SUMUT-1
+SAT-0563,Alfamart Diponegoro 562,Bekasi,Jawa Barat,2021-05-29,Perkantoran,Besar (Reguler Plus),312,1,REG-JABAR-2
+SAT-0564,Alfamart Melati 563,Semarang,Jawa Tengah,2022-02-02,Residential/Perumahan,Sedang (Reguler),155,1,REG-JATENG-2
+SAT-0565,Alfamart Sudirman 564,Bekasi,Jawa Barat,2022-02-22,Residential/Perumahan,Besar (Reguler Plus),359,1,REG-JABAR-1
+SAT-0566,Alfamart Melati 565,Bekasi,Jawa Barat,2021-07-16,Residential/Perumahan,Besar (Reguler Plus),223,0,REG-JABAR-4
+SAT-0567,Alfamart Pahlawan 566,Depok,Jawa Barat,2021-08-13,Residential/Perumahan,Sedang (Reguler),133,0,REG-JABAR-1
+SAT-0568,Alfamart Gatot Subroto 567,Surabaya,Jawa Timur,2021-11-10,Residential/Perumahan,Besar (Reguler Plus),241,0,REG-JATIM-1
+SAT-0569,Alfamart Diponegoro 568,Bogor,Jawa Barat,2023-05-26,Residential/Perumahan,Sedang (Reguler),206,0,REG-JABAR-4
+SAT-0570,Alfamart Gatot Subroto 569,Surabaya,Jawa Timur,2023-02-11,Residential/Perumahan,Sedang (Reguler),166,0,REG-JATIM-3
+SAT-0571,Alfamart Pahlawan 570,Depok,Jawa Barat,2021-07-10,Residential/Perumahan,Sedang (Reguler),149,0,REG-JABAR-4
+SAT-0572,Alfamart Pahlawan 571,Bogor,Jawa Barat,2022-07-14,Perkantoran,Sedang (Reguler),218,0,REG-JABAR-4
+SAT-0573,Alfamart Pahlawan 572,Bandung,Jawa Barat,2021-10-29,Residential/Perumahan,Sedang (Reguler),123,0,REG-JABAR-2
+SAT-0574,Alfamart Gatot Subroto 573,Bekasi,Jawa Barat,2021-12-04,Residential/Perumahan,Sedang (Reguler),158,0,REG-JABAR-1
+SAT-0575,Alfamart Sudirman 574,Depok,Jawa Barat,2022-02-07,Perkantoran,Kecil (Express),101,0,REG-JABAR-2
+SAT-0576,Alfamart Gatot Subroto 575,Malang,Jawa Timur,2023-05-16,Residential/Perumahan,Sedang (Reguler),206,0,REG-JATIM-1
+SAT-0577,Alfamart Sudirman 576,Tangerang,Banten,2021-05-13,Perkantoran,Sedang (Reguler),152,0,REG-BANTEN-1
+SAT-0578,Alfamart Melati 577,Surabaya,Jawa Timur,2023-02-04,Residential/Perumahan,Kecil (Express),77,0,REG-JATIM-3
+SAT-0579,Alfamart Diponegoro 578,Jakarta,DKI Jakarta,2023-03-06,Perkantoran,Sedang (Reguler),206,0,REG-JKT-2
+SAT-0580,Alfamart Diponegoro 579,Tangerang,Banten,2022-07-18,Residential/Perumahan,Besar (Reguler Plus),340,0,REG-BANTEN-3
+SAT-0581,Alfamart Gatot Subroto 580,Medan,Sumatera Utara,2022-11-11,Residential/Perumahan,Kecil (Express),79,0,REG-SUMUT-4
+SAT-0582,Alfamart Gatot Subroto 581,Tangerang,Banten,2022-10-30,Residential/Perumahan,Sedang (Reguler),136,0,REG-BANTEN-4
+SAT-0583,Alfamart Pahlawan 582,Jakarta,DKI Jakarta,2022-06-07,Residential/Perumahan,Kecil (Express),99,0,REG-JKT-3
+SAT-0584,Alfamart Gatot Subroto 583,Malang,Jawa Timur,2022-06-02,Residential/Perumahan,Sedang (Reguler),198,0,REG-JATIM-2
+SAT-0585,Alfamart Gatot Subroto 584,Bogor,Jawa Barat,2023-01-12,Perkantoran,Sedang (Reguler),194,0,REG-JABAR-2
+SAT-0586,Alfamart Sudirman 585,Depok,Jawa Barat,2022-05-17,Residential/Perumahan,Sedang (Reguler),137,0,REG-JABAR-4
+SAT-0587,Alfamart Melati 586,Depok,Jawa Barat,2021-12-17,Residential/Perumahan,Besar (Reguler Plus),390,1,REG-JABAR-4
+SAT-0588,Alfamart Pahlawan 587,Depok,Jawa Barat,2021-12-31,Residential/Perumahan,Sedang (Reguler),179,0,REG-JABAR-2
+SAT-0589,Alfamart Diponegoro 588,Semarang,Jawa Tengah,2021-03-30,Residential/Perumahan,Besar (Reguler Plus),223,0,REG-JATENG-1
+SAT-0590,Alfamart Sudirman 589,Depok,Jawa Barat,2022-08-18,Residential/Perumahan,Besar (Reguler Plus),221,1,REG-JABAR-1
+SAT-0591,Alfamart Diponegoro 590,Tangerang,Banten,2023-07-05,Dekat Pasar/Grosir,Sedang (Reguler),211,1,REG-BANTEN-3
+SAT-0592,Alfamart Diponegoro 591,Bandung,Jawa Barat,2021-08-10,Residential/Perumahan,Sedang (Reguler),180,1,REG-JABAR-2
+SAT-0593,Alfamart Gatot Subroto 592,Surabaya,Jawa Timur,2022-02-11,Residential/Perumahan,Sedang (Reguler),128,0,REG-JATIM-2
+SAT-0594,Alfamart Gatot Subroto 593,Tangerang,Banten,2021-07-17,Residential/Perumahan,Kecil (Express),92,0,REG-BANTEN-3
+SAT-0595,Alfamart Sudirman 594,Surabaya,Jawa Timur,2021-12-25,Residential/Perumahan,Sedang (Reguler),183,0,REG-JATIM-3
+SAT-0596,Alfamart Diponegoro 595,Bekasi,Jawa Barat,2023-06-26,Residential/Perumahan,Sedang (Reguler),192,0,REG-JABAR-1
+SAT-0597,Alfamart Pahlawan 596,Depok,Jawa Barat,2023-02-21,Residential/Perumahan,Sedang (Reguler),136,0,REG-JABAR-2
+SAT-0598,Alfamart Sudirman 597,Surabaya,Jawa Timur,2022-07-15,Residential/Perumahan,Sedang (Reguler),152,1,REG-JATIM-3
+SAT-0599,Alfamart Diponegoro 598,Semarang,Jawa Tengah,2023-03-13,Dekat Pasar/Grosir,Kecil (Express),93,0,REG-JATENG-4
+SAT-0600,Alfamart Melati 599,Medan,Sumatera Utara,2022-06-03,Residential/Perumahan,Sedang (Reguler),186,1,REG-SUMUT-1
+SAT-0601,Alfamart Gatot Subroto 600,Bogor,Jawa Barat,2022-01-08,Residential/Perumahan,Besar (Reguler Plus),359,0,REG-JABAR-1
+SAT-0602,Alfamart Diponegoro 601,Depok,Jawa Barat,2022-05-07,Residential/Perumahan,Kecil (Express),85,0,REG-JABAR-4
+SAT-0603,Alfamart Pahlawan 602,Jakarta,DKI Jakarta,2022-06-01,Perkantoran,Kecil (Express),101,0,REG-JKT-4
+SAT-0604,Alfamart Melati 603,Bekasi,Jawa Barat,2021-05-03,Residential/Perumahan,Besar (Reguler Plus),280,1,REG-JABAR-3
+SAT-0605,Alfamart Pahlawan 604,Bekasi,Jawa Barat,2021-12-25,Dekat Pasar/Grosir,Sedang (Reguler),183,0,REG-JABAR-4
+SAT-0606,Alfamart Pahlawan 605,Bekasi,Jawa Barat,2023-09-18,Perkantoran,Sedang (Reguler),186,0,REG-JABAR-3
+SAT-0607,Alfamart Diponegoro 606,Bandung,Jawa Barat,2021-04-30,Perkantoran,Sedang (Reguler),163,0,REG-JABAR-2
+SAT-0608,Alfamart Diponegoro 607,Bogor,Jawa Barat,2023-06-11,Residential/Perumahan,Sedang (Reguler),161,0,REG-JABAR-3
+SAT-0609,Alfamart Pahlawan 608,Semarang,Jawa Tengah,2022-09-14,Residential/Perumahan,Kecil (Express),63,0,REG-JATENG-2
+SAT-0610,Alfamart Gatot Subroto 609,Depok,Jawa Barat,2021-03-19,Residential/Perumahan,Kecil (Express),114,0,REG-JABAR-4
+SAT-0611,Alfamart Sudirman 610,Surabaya,Jawa Timur,2021-04-11,Residential/Perumahan,Kecil (Express),114,0,REG-JATIM-3
+SAT-0612,Alfamart Melati 611,Bogor,Jawa Barat,2021-09-27,Residential/Perumahan,Besar (Reguler Plus),239,1,REG-JABAR-3
+SAT-0613,Alfamart Pahlawan 612,Malang,Jawa Timur,2023-09-03,Dekat Pasar/Grosir,Sedang (Reguler),123,0,REG-JATIM-1
+SAT-0614,Alfamart Diponegoro 613,Tangerang,Banten,2023-08-08,Dekat Pasar/Grosir,Sedang (Reguler),159,0,REG-BANTEN-3
+SAT-0615,Alfamart Pahlawan 614,Bogor,Jawa Barat,2022-11-04,Residential/Perumahan,Sedang (Reguler),145,0,REG-JABAR-3
+SAT-0616,Alfamart Sudirman 615,Medan,Sumatera Utara,2022-09-10,Residential/Perumahan,Sedang (Reguler),199,0,REG-SUMUT-4
+SAT-0617,Alfamart Melati 616,Jakarta,DKI Jakarta,2021-08-31,Residential/Perumahan,Sedang (Reguler),149,0,REG-JKT-2
+SAT-0618,Alfamart Gatot Subroto 617,Depok,Jawa Barat,2022-05-24,Residential/Perumahan,Sedang (Reguler),156,0,REG-JABAR-1
+SAT-0619,Alfamart Sudirman 618,Medan,Sumatera Utara,2021-06-10,Residential/Perumahan,Besar (Reguler Plus),329,1,REG-SUMUT-4
+SAT-0620,Alfamart Sudirman 619,Malang,Jawa Timur,2022-06-22,Residential/Perumahan,Kecil (Express),83,0,REG-JATIM-3
+SAT-0621,Alfamart Diponegoro 620,Bandung,Jawa Barat,2022-07-06,Perkantoran,Sedang (Reguler),144,1,REG-JABAR-4
+SAT-0622,Alfamart Diponegoro 621,Medan,Sumatera Utara,2022-06-16,Residential/Perumahan,Sedang (Reguler),157,1,REG-SUMUT-3
+SAT-0623,Alfamart Gatot Subroto 622,Depok,Jawa Barat,2021-06-22,Dekat Pasar/Grosir,Kecil (Express),72,0,REG-JABAR-3
+SAT-0624,Alfamart Pahlawan 623,Bekasi,Jawa Barat,2022-03-23,Residential/Perumahan,Sedang (Reguler),179,0,REG-JABAR-4
+SAT-0625,Alfamart Sudirman 624,Bandung,Jawa Barat,2022-04-05,Dekat Pasar/Grosir,Sedang (Reguler),215,0,REG-JABAR-2
+SAT-0626,Alfamart Sudirman 625,Bekasi,Jawa Barat,2022-07-28,Residential/Perumahan,Sedang (Reguler),125,0,REG-JABAR-2
+SAT-0627,Alfamart Melati 626,Malang,Jawa Timur,2022-12-20,Perkantoran,Sedang (Reguler),209,0,REG-JATIM-2
+SAT-0628,Alfamart Melati 627,Tangerang,Banten,2022-07-04,Residential/Perumahan,Sedang (Reguler),151,0,REG-BANTEN-1
+SAT-0629,Alfamart Pahlawan 628,Semarang,Jawa Tengah,2023-04-15,Residential/Perumahan,Sedang (Reguler),165,0,REG-JATENG-1
+SAT-0630,Alfamart Sudirman 629,Bekasi,Jawa Barat,2022-12-16,Perkantoran,Sedang (Reguler),146,0,REG-JABAR-1
+SAT-0631,Alfamart Diponegoro 630,Depok,Jawa Barat,2022-11-18,Dekat Pasar/Grosir,Sedang (Reguler),161,0,REG-JABAR-1
+SAT-0632,Alfamart Melati 631,Jakarta,DKI Jakarta,2023-09-25,Perkantoran,Besar (Reguler Plus),258,0,REG-JKT-1
+SAT-0633,Alfamart Melati 632,Medan,Sumatera Utara,2021-12-04,Residential/Perumahan,Sedang (Reguler),191,0,REG-SUMUT-2
+SAT-0634,Alfamart Melati 633,Malang,Jawa Timur,2022-03-18,Residential/Perumahan,Sedang (Reguler),199,0,REG-JATIM-4
+SAT-0635,Alfamart Pahlawan 634,Depok,Jawa Barat,2021-12-06,Residential/Perumahan,Besar (Reguler Plus),362,0,REG-JABAR-3
+SAT-0636,Alfamart Sudirman 635,Bekasi,Jawa Barat,2022-01-29,Residential/Perumahan,Sedang (Reguler),133,0,REG-JABAR-1
+SAT-0637,Alfamart Diponegoro 636,Medan,Sumatera Utara,2022-06-13,Residential/Perumahan,Sedang (Reguler),194,0,REG-SUMUT-2
+SAT-0638,Alfamart Pahlawan 637,Depok,Jawa Barat,2021-12-31,Residential/Perumahan,Sedang (Reguler),121,0,REG-JABAR-4
+SAT-0639,Alfamart Gatot Subroto 638,Semarang,Jawa Tengah,2021-05-14,Perkantoran,Besar (Reguler Plus),359,1,REG-JATENG-3
+SAT-0640,Alfamart Gatot Subroto 639,Bogor,Jawa Barat,2023-01-09,Perkantoran,Sedang (Reguler),140,0,REG-JABAR-2
+SAT-0641,Alfamart Diponegoro 640,Bekasi,Jawa Barat,2021-12-16,Residential/Perumahan,Sedang (Reguler),127,0,REG-JABAR-3
+SAT-0642,Alfamart Gatot Subroto 641,Bogor,Jawa Barat,2022-06-07,Perkantoran,Sedang (Reguler),146,0,REG-JABAR-2
+SAT-0643,Alfamart Gatot Subroto 642,Bogor,Jawa Barat,2021-05-18,Residential/Perumahan,Sedang (Reguler),166,0,REG-JABAR-3
+SAT-0644,Alfamart Melati 643,Tangerang,Banten,2021-08-29,Residential/Perumahan,Sedang (Reguler),125,0,REG-BANTEN-1
+SAT-0645,Alfamart Gatot Subroto 644,Surabaya,Jawa Timur,2021-01-18,Residential/Perumahan,Besar (Reguler Plus),307,0,REG-JATIM-1
+SAT-0646,Alfamart Melati 645,Bogor,Jawa Barat,2022-11-13,Perkantoran,Sedang (Reguler),177,0,REG-JABAR-4
+SAT-0647,Alfamart Pahlawan 646,Tangerang,Banten,2022-05-15,Residential/Perumahan,Sedang (Reguler),166,0,REG-BANTEN-3
+SAT-0648,Alfamart Sudirman 647,Malang,Jawa Timur,2021-12-09,Residential/Perumahan,Sedang (Reguler),191,1,REG-JATIM-1
+SAT-0649,Alfamart Melati 648,Medan,Sumatera Utara,2022-01-16,Residential/Perumahan,Sedang (Reguler),187,0,REG-SUMUT-1
+SAT-0650,Alfamart Pahlawan 649,Tangerang,Banten,2022-12-24,Residential/Perumahan,Sedang (Reguler),128,0,REG-BANTEN-4
+SAT-0651,Alfamart Melati 650,Jakarta,DKI Jakarta,2022-01-29,Residential/Perumahan,Besar (Reguler Plus),319,1,REG-JKT-3
+SAT-0652,Alfamart Sudirman 651,Bogor,Jawa Barat,2023-06-13,Perkantoran,Besar (Reguler Plus),308,0,REG-JABAR-3
+SAT-0653,Alfamart Pahlawan 652,Medan,Sumatera Utara,2022-12-03,Residential/Perumahan,Sedang (Reguler),153,1,REG-SUMUT-1
+SAT-0654,Alfamart Pahlawan 653,Bandung,Jawa Barat,2023-01-29,Residential/Perumahan,Sedang (Reguler),174,1,REG-JABAR-1
+SAT-0655,Alfamart Diponegoro 654,Bogor,Jawa Barat,2021-12-26,Perkantoran,Sedang (Reguler),163,0,REG-JABAR-4
+SAT-0656,Alfamart Gatot Subroto 655,Bogor,Jawa Barat,2021-08-31,Residential/Perumahan,Besar (Reguler Plus),380,1,REG-JABAR-4
+SAT-0657,Alfamart Pahlawan 656,Jakarta,DKI Jakarta,2021-12-12,Perkantoran,Besar (Reguler Plus),382,1,REG-JKT-2
+SAT-0658,Alfamart Pahlawan 657,Malang,Jawa Timur,2022-12-31,Residential/Perumahan,Sedang (Reguler),186,0,REG-JATIM-4
+SAT-0659,Alfamart Sudirman 658,Tangerang,Banten,2021-06-13,Residential/Perumahan,Kecil (Express),74,0,REG-BANTEN-4
+SAT-0660,Alfamart Gatot Subroto 659,Malang,Jawa Timur,2023-08-18,Residential/Perumahan,Sedang (Reguler),128,0,REG-JATIM-3
+SAT-0661,Alfamart Diponegoro 660,Bandung,Jawa Barat,2022-04-28,Residential/Perumahan,Sedang (Reguler),206,0,REG-JABAR-1
+SAT-0662,Alfamart Pahlawan 661,Tangerang,Banten,2021-06-21,Perkantoran,Sedang (Reguler),136,0,REG-BANTEN-3
+SAT-0663,Alfamart Pahlawan 662,Semarang,Jawa Tengah,2023-08-06,Residential/Perumahan,Sedang (Reguler),185,0,REG-JATENG-3
+SAT-0664,Alfamart Gatot Subroto 663,Depok,Jawa Barat,2023-04-30,Residential/Perumahan,Kecil (Express),93,0,REG-JABAR-3
+SAT-0665,Alfamart Melati 664,Bekasi,Jawa Barat,2022-06-22,Residential/Perumahan,Sedang (Reguler),161,0,REG-JABAR-1
+SAT-0666,Alfamart Sudirman 665,Malang,Jawa Timur,2022-05-23,Residential/Perumahan,Sedang (Reguler),203,0,REG-JATIM-1
+SAT-0667,Alfamart Diponegoro 666,Bogor,Jawa Barat,2022-06-08,Perkantoran,Kecil (Express),75,0,REG-JABAR-1
+SAT-0668,Alfamart Gatot Subroto 667,Bandung,Jawa Barat,2022-05-18,Dekat Pasar/Grosir,Sedang (Reguler),134,0,REG-JABAR-2
+SAT-0669,Alfamart Sudirman 668,Semarang,Jawa Tengah,2021-05-05,Residential/Perumahan,Kecil (Express),115,0,REG-JATENG-2
+SAT-0670,Alfamart Gatot Subroto 669,Bekasi,Jawa Barat,2023-01-27,Residential/Perumahan,Kecil (Express),76,0,REG-JABAR-1
+SAT-0671,Alfamart Gatot Subroto 670,Semarang,Jawa Tengah,2021-07-02,Residential/Perumahan,Kecil (Express),78,0,REG-JATENG-4
+SAT-0672,Alfamart Melati 671,Medan,Sumatera Utara,2023-02-01,Residential/Perumahan,Kecil (Express),77,0,REG-SUMUT-3
+SAT-0673,Alfamart Diponegoro 672,Surabaya,Jawa Timur,2023-09-16,Dekat Pasar/Grosir,Besar (Reguler Plus),274,0,REG-JATIM-4
+SAT-0674,Alfamart Pahlawan 673,Medan,Sumatera Utara,2023-08-06,Residential/Perumahan,Sedang (Reguler),175,0,REG-SUMUT-3
+SAT-0675,Alfamart Diponegoro 674,Depok,Jawa Barat,2021-08-22,Residential/Perumahan,Sedang (Reguler),171,0,REG-JABAR-4
+SAT-0676,Alfamart Gatot Subroto 675,Medan,Sumatera Utara,2021-06-29,Residential/Perumahan,Besar (Reguler Plus),345,0,REG-SUMUT-3
+SAT-0677,Alfamart Diponegoro 676,Malang,Jawa Timur,2021-06-15,Perkantoran,Kecil (Express),93,0,REG-JATIM-2
+SAT-0678,Alfamart Pahlawan 677,Medan,Sumatera Utara,2022-10-17,Residential/Perumahan,Sedang (Reguler),126,1,REG-SUMUT-1
+SAT-0679,Alfamart Gatot Subroto 678,Jakarta,DKI Jakarta,2022-02-05,Residential/Perumahan,Kecil (Express),73,0,REG-JKT-1
+SAT-0680,Alfamart Pahlawan 679,Semarang,Jawa Tengah,2021-05-28,Residential/Perumahan,Sedang (Reguler),195,0,REG-JATENG-2
+SAT-0681,Alfamart Diponegoro 680,Bandung,Jawa Barat,2022-12-08,Residential/Perumahan,Sedang (Reguler),198,0,REG-JABAR-3
+SAT-0682,Alfamart Gatot Subroto 681,Bekasi,Jawa Barat,2022-09-11,Residential/Perumahan,Sedang (Reguler),193,0,REG-JABAR-4
+SAT-0683,Alfamart Sudirman 682,Bekasi,Jawa Barat,2022-01-20,Residential/Perumahan,Besar (Reguler Plus),270,0,REG-JABAR-4
+SAT-0684,Alfamart Gatot Subroto 683,Tangerang,Banten,2021-07-04,Residential/Perumahan,Sedang (Reguler),129,0,REG-BANTEN-3
+SAT-0685,Alfamart Gatot Subroto 684,Depok,Jawa Barat,2021-07-27,Residential/Perumahan,Besar (Reguler Plus),280,1,REG-JABAR-3
+SAT-0686,Alfamart Gatot Subroto 685,Tangerang,Banten,2021-03-05,Residential/Perumahan,Kecil (Express),103,0,REG-BANTEN-2
+SAT-0687,Alfamart Melati 686,Bandung,Jawa Barat,2022-06-14,Residential/Perumahan,Kecil (Express),90,0,REG-JABAR-1
+SAT-0688,Alfamart Melati 687,Jakarta,DKI Jakarta,2021-09-20,Dekat Pasar/Grosir,Kecil (Express),88,0,REG-JKT-1
+SAT-0689,Alfamart Sudirman 688,Semarang,Jawa Tengah,2023-07-14,Residential/Perumahan,Besar (Reguler Plus),393,1,REG-JATENG-3
+SAT-0690,Alfamart Pahlawan 689,Semarang,Jawa Tengah,2021-01-15,Residential/Perumahan,Sedang (Reguler),145,0,REG-JATENG-1
+SAT-0691,Alfamart Sudirman 690,Jakarta,DKI Jakarta,2022-01-21,Residential/Perumahan,Kecil (Express),60,0,REG-JKT-4
+SAT-0692,Alfamart Gatot Subroto 691,Bekasi,Jawa Barat,2021-02-19,Perkantoran,Besar (Reguler Plus),285,0,REG-JABAR-1
+SAT-0693,Alfamart Sudirman 692,Medan,Sumatera Utara,2022-05-12,Residential/Perumahan,Besar (Reguler Plus),291,1,REG-SUMUT-2
+SAT-0694,Alfamart Pahlawan 693,Semarang,Jawa Tengah,2022-01-06,Residential/Perumahan,Sedang (Reguler),130,0,REG-JATENG-4
+SAT-0695,Alfamart Pahlawan 694,Depok,Jawa Barat,2021-05-05,Perkantoran,Sedang (Reguler),177,0,REG-JABAR-4
+SAT-0696,Alfamart Pahlawan 695,Bogor,Jawa Barat,2021-09-09,Residential/Perumahan,Kecil (Express),60,0,REG-JABAR-4
+SAT-0697,Alfamart Gatot Subroto 696,Jakarta,DKI Jakarta,2022-10-23,Residential/Perumahan,Sedang (Reguler),170,0,REG-JKT-4
+SAT-0698,Alfamart Melati 697,Bandung,Jawa Barat,2023-08-31,Residential/Perumahan,Sedang (Reguler),205,0,REG-JABAR-2
+SAT-0699,Alfamart Diponegoro 698,Tangerang,Banten,2022-04-27,Residential/Perumahan,Sedang (Reguler),157,0,REG-BANTEN-3
+SAT-0700,Alfamart Diponegoro 699,Bekasi,Jawa Barat,2021-04-14,Residential/Perumahan,Sedang (Reguler),200,0,REG-JABAR-3
+SAT-0701,Alfamart Melati 700,Medan,Sumatera Utara,2023-08-25,Residential/Perumahan,Sedang (Reguler),122,0,REG-SUMUT-2
+SAT-0702,Alfamart Gatot Subroto 701,Jakarta,DKI Jakarta,2021-01-27,Residential/Perumahan,Sedang (Reguler),134,0,REG-JKT-2
+SAT-0703,Alfamart Gatot Subroto 702,Bogor,Jawa Barat,2021-12-17,Residential/Perumahan,Sedang (Reguler),182,0,REG-JABAR-1
+SAT-0704,Alfamart Pahlawan 703,Bekasi,Jawa Barat,2022-07-27,Perkantoran,Kecil (Express),69,0,REG-JABAR-1
+SAT-0705,Alfamart Gatot Subroto 704,Depok,Jawa Barat,2023-08-14,Residential/Perumahan,Besar (Reguler Plus),247,1,REG-JABAR-4
+SAT-0706,Alfamart Diponegoro 705,Malang,Jawa Timur,2022-07-07,Residential/Perumahan,Besar (Reguler Plus),275,0,REG-JATIM-1
+SAT-0707,Alfamart Melati 706,Jakarta,DKI Jakarta,2022-10-29,Perkantoran,Sedang (Reguler),141,1,REG-JKT-1
+SAT-0708,Alfamart Sudirman 707,Malang,Jawa Timur,2022-04-20,Perkantoran,Sedang (Reguler),219,1,REG-JATIM-1
+SAT-0709,Alfamart Pahlawan 708,Malang,Jawa Timur,2022-10-07,Residential/Perumahan,Sedang (Reguler),137,1,REG-JATIM-3
+SAT-0710,Alfamart Diponegoro 709,Bandung,Jawa Barat,2023-03-13,Residential/Perumahan,Kecil (Express),66,0,REG-JABAR-2
+SAT-0711,Alfamart Sudirman 710,Bekasi,Jawa Barat,2021-05-17,Dekat Pasar/Grosir,Kecil (Express),99,0,REG-JABAR-1
+SAT-0712,Alfamart Melati 711,Semarang,Jawa Tengah,2022-05-07,Residential/Perumahan,Besar (Reguler Plus),303,1,REG-JATENG-1
+SAT-0713,Alfamart Melati 712,Depok,Jawa Barat,2021-06-10,Perkantoran,Besar (Reguler Plus),266,0,REG-JABAR-3
+SAT-0714,Alfamart Melati 713,Medan,Sumatera Utara,2022-04-27,Perkantoran,Besar (Reguler Plus),342,1,REG-SUMUT-1
+SAT-0715,Alfamart Melati 714,Semarang,Jawa Tengah,2021-03-29,Perkantoran,Sedang (Reguler),133,0,REG-JATENG-1
+SAT-0716,Alfamart Melati 715,Surabaya,Jawa Timur,2022-09-09,Residential/Perumahan,Sedang (Reguler),203,0,REG-JATIM-1
+SAT-0717,Alfamart Diponegoro 716,Malang,Jawa Timur,2023-08-12,Residential/Perumahan,Sedang (Reguler),169,1,REG-JATIM-1
+SAT-0718,Alfamart Pahlawan 717,Semarang,Jawa Tengah,2022-05-27,Residential/Perumahan,Kecil (Express),113,0,REG-JATENG-3
+SAT-0719,Alfamart Diponegoro 718,Semarang,Jawa Tengah,2021-07-27,Residential/Perumahan,Kecil (Express),117,0,REG-JATENG-1
+SAT-0720,Alfamart Pahlawan 719,Surabaya,Jawa Timur,2022-11-24,Dekat Pasar/Grosir,Besar (Reguler Plus),247,1,REG-JATIM-2
+SAT-0721,Alfamart Pahlawan 720,Tangerang,Banten,2022-12-13,Residential/Perumahan,Besar (Reguler Plus),262,1,REG-BANTEN-3
+SAT-0722,Alfamart Sudirman 721,Semarang,Jawa Tengah,2022-08-09,Residential/Perumahan,Sedang (Reguler),195,0,REG-JATENG-4
+SAT-0723,Alfamart Diponegoro 722,Malang,Jawa Timur,2023-04-09,Residential/Perumahan,Kecil (Express),70,0,REG-JATIM-2
+SAT-0724,Alfamart Gatot Subroto 723,Jakarta,DKI Jakarta,2022-05-08,Dekat Pasar/Grosir,Sedang (Reguler),168,0,REG-JKT-4
+SAT-0725,Alfamart Pahlawan 724,Depok,Jawa Barat,2021-10-24,Residential/Perumahan,Sedang (Reguler),129,0,REG-JABAR-4
+SAT-0726,Alfamart Gatot Subroto 725,Tangerang,Banten,2021-01-14,Residential/Perumahan,Besar (Reguler Plus),365,0,REG-BANTEN-4
+SAT-0727,Alfamart Diponegoro 726,Malang,Jawa Timur,2021-03-13,Residential/Perumahan,Besar (Reguler Plus),267,1,REG-JATIM-4
+SAT-0728,Alfamart Diponegoro 727,Semarang,Jawa Tengah,2022-12-26,Residential/Perumahan,Sedang (Reguler),157,0,REG-JATENG-3
+SAT-0729,Alfamart Melati 728,Jakarta,DKI Jakarta,2023-04-05,Residential/Perumahan,Sedang (Reguler),198,0,REG-JKT-1
+SAT-0730,Alfamart Sudirman 729,Bogor,Jawa Barat,2022-02-17,Residential/Perumahan,Sedang (Reguler),175,1,REG-JABAR-1
+SAT-0731,Alfamart Diponegoro 730,Depok,Jawa Barat,2021-02-15,Residential/Perumahan,Sedang (Reguler),172,0,REG-JABAR-3
+SAT-0732,Alfamart Melati 731,Depok,Jawa Barat,2022-10-23,Residential/Perumahan,Sedang (Reguler),197,0,REG-JABAR-1
+SAT-0733,Alfamart Pahlawan 732,Semarang,Jawa Tengah,2021-07-23,Residential/Perumahan,Sedang (Reguler),219,0,REG-JATENG-4
+SAT-0734,Alfamart Melati 733,Bogor,Jawa Barat,2021-06-03,Residential/Perumahan,Sedang (Reguler),188,0,REG-JABAR-2
+SAT-0735,Alfamart Pahlawan 734,Bandung,Jawa Barat,2023-02-14,Residential/Perumahan,Sedang (Reguler),204,0,REG-JABAR-3
+SAT-0736,Alfamart Sudirman 735,Medan,Sumatera Utara,2022-03-04,Residential/Perumahan,Sedang (Reguler),175,0,REG-SUMUT-1
+SAT-0737,Alfamart Pahlawan 736,Jakarta,DKI Jakarta,2022-08-09,Residential/Perumahan,Sedang (Reguler),189,0,REG-JKT-2
+SAT-0738,Alfamart Diponegoro 737,Malang,Jawa Timur,2021-09-30,Residential/Perumahan,Kecil (Express),107,0,REG-JATIM-4
+SAT-0739,Alfamart Pahlawan 738,Bandung,Jawa Barat,2023-07-11,Residential/Perumahan,Kecil (Express),61,0,REG-JABAR-1
+SAT-0740,Alfamart Gatot Subroto 739,Semarang,Jawa Tengah,2021-01-16,Residential/Perumahan,Sedang (Reguler),147,0,REG-JATENG-1
+SAT-0741,Alfamart Melati 740,Bandung,Jawa Barat,2022-08-10,Residential/Perumahan,Sedang (Reguler),122,0,REG-JABAR-3
+SAT-0742,Alfamart Diponegoro 741,Malang,Jawa Timur,2021-06-10,Residential/Perumahan,Sedang (Reguler),194,0,REG-JATIM-1
+SAT-0743,Alfamart Sudirman 742,Bogor,Jawa Barat,2021-08-26,Perkantoran,Besar (Reguler Plus),288,0,REG-JABAR-1
+SAT-0744,Alfamart Melati 743,Bogor,Jawa Barat,2022-02-28,Residential/Perumahan,Sedang (Reguler),185,0,REG-JABAR-4
+SAT-0745,Alfamart Sudirman 744,Tangerang,Banten,2022-07-21,Residential/Perumahan,Kecil (Express),98,0,REG-BANTEN-4
+SAT-0746,Alfamart Diponegoro 745,Bandung,Jawa Barat,2022-02-08,Residential/Perumahan,Sedang (Reguler),123,0,REG-JABAR-4
+SAT-0747,Alfamart Pahlawan 746,Bogor,Jawa Barat,2023-07-03,Residential/Perumahan,Sedang (Reguler),139,0,REG-JABAR-4
+SAT-0748,Alfamart Melati 747,Bogor,Jawa Barat,2023-09-21,Residential/Perumahan,Kecil (Express),98,0,REG-JABAR-2
+SAT-0749,Alfamart Pahlawan 748,Bandung,Jawa Barat,2021-08-22,Perkantoran,Sedang (Reguler),166,0,REG-JABAR-4
+SAT-0750,Alfamart Melati 749,Jakarta,DKI Jakarta,2023-02-22,Perkantoran,Sedang (Reguler),146,0,REG-JKT-4
+SAT-0751,Alfamart Melati 750,Medan,Sumatera Utara,2023-09-25,Residential/Perumahan,Sedang (Reguler),202,0,REG-SUMUT-3
+SAT-0752,Alfamart Diponegoro 751,Tangerang,Banten,2021-10-22,Residential/Perumahan,Sedang (Reguler),121,1,REG-BANTEN-1
+SAT-0753,Alfamart Diponegoro 752,Malang,Jawa Timur,2021-10-23,Residential/Perumahan,Sedang (Reguler),121,1,REG-JATIM-3
+SAT-0754,Alfamart Diponegoro 753,Surabaya,Jawa Timur,2021-03-14,Residential/Perumahan,Sedang (Reguler),124,0,REG-JATIM-4
+SAT-0755,Alfamart Diponegoro 754,Malang,Jawa Timur,2022-10-03,Residential/Perumahan,Besar (Reguler Plus),333,1,REG-JATIM-3
+SAT-0756,Alfamart Sudirman 755,Malang,Jawa Timur,2021-07-26,Residential/Perumahan,Sedang (Reguler),202,0,REG-JATIM-4
+SAT-0757,Alfamart Gatot Subroto 756,Surabaya,Jawa Timur,2022-03-12,Residential/Perumahan,Besar (Reguler Plus),257,0,REG-JATIM-1
+SAT-0758,Alfamart Gatot Subroto 757,Bandung,Jawa Barat,2022-06-19,Dekat Pasar/Grosir,Sedang (Reguler),202,1,REG-JABAR-4
+SAT-0759,Alfamart Gatot Subroto 758,Bogor,Jawa Barat,2021-07-01,Residential/Perumahan,Sedang (Reguler),148,0,REG-JABAR-2
+SAT-0760,Alfamart Pahlawan 759,Surabaya,Jawa Timur,2023-03-14,Residential/Perumahan,Kecil (Express),75,0,REG-JATIM-4
+SAT-0761,Alfamart Pahlawan 760,Semarang,Jawa Tengah,2023-04-01,Residential/Perumahan,Sedang (Reguler),160,0,REG-JATENG-1
+SAT-0762,Alfamart Sudirman 761,Bogor,Jawa Barat,2023-04-11,Residential/Perumahan,Besar (Reguler Plus),391,1,REG-JABAR-3
+SAT-0763,Alfamart Sudirman 762,Surabaya,Jawa Timur,2022-01-23,Residential/Perumahan,Sedang (Reguler),175,0,REG-JATIM-2
+SAT-0764,Alfamart Melati 763,Malang,Jawa Timur,2022-01-13,Residential/Perumahan,Kecil (Express),70,0,REG-JATIM-2
+SAT-0765,Alfamart Sudirman 764,Bandung,Jawa Barat,2023-04-04,Perkantoran,Sedang (Reguler),184,0,REG-JABAR-1
+SAT-0766,Alfamart Pahlawan 765,Depok,Jawa Barat,2023-03-28,Residential/Perumahan,Sedang (Reguler),129,0,REG-JABAR-4
+SAT-0767,Alfamart Pahlawan 766,Tangerang,Banten,2021-07-18,Residential/Perumahan,Sedang (Reguler),122,0,REG-BANTEN-2
+SAT-0768,Alfamart Diponegoro 767,Bogor,Jawa Barat,2022-06-15,Residential/Perumahan,Kecil (Express),67,0,REG-JABAR-3
+SAT-0769,Alfamart Pahlawan 768,Bandung,Jawa Barat,2021-02-23,Residential/Perumahan,Sedang (Reguler),200,0,REG-JABAR-3
+SAT-0770,Alfamart Melati 769,Semarang,Jawa Tengah,2023-06-11,Residential/Perumahan,Kecil (Express),109,0,REG-JATENG-1
+SAT-0771,Alfamart Gatot Subroto 770,Jakarta,DKI Jakarta,2022-10-23,Residential/Perumahan,Kecil (Express),73,0,REG-JKT-4
+SAT-0772,Alfamart Diponegoro 771,Bandung,Jawa Barat,2021-08-28,Residential/Perumahan,Besar (Reguler Plus),263,1,REG-JABAR-3
+SAT-0773,Alfamart Melati 772,Medan,Sumatera Utara,2022-08-10,Residential/Perumahan,Sedang (Reguler),126,0,REG-SUMUT-4
+SAT-0774,Alfamart Pahlawan 773,Semarang,Jawa Tengah,2021-03-19,Perkantoran,Besar (Reguler Plus),340,1,REG-JATENG-4
+SAT-0775,Alfamart Sudirman 774,Surabaya,Jawa Timur,2021-05-31,Residential/Perumahan,Sedang (Reguler),150,0,REG-JATIM-3
+SAT-0776,Alfamart Sudirman 775,Malang,Jawa Timur,2022-05-14,Perkantoran,Sedang (Reguler),149,0,REG-JATIM-4
+SAT-0777,Alfamart Pahlawan 776,Malang,Jawa Timur,2022-08-07,Residential/Perumahan,Sedang (Reguler),207,0,REG-JATIM-3
+SAT-0778,Alfamart Pahlawan 777,Malang,Jawa Timur,2022-10-02,Residential/Perumahan,Sedang (Reguler),185,0,REG-JATIM-2
+SAT-0779,Alfamart Sudirman 778,Depok,Jawa Barat,2022-08-22,Perkantoran,Besar (Reguler Plus),351,1,REG-JABAR-4
+SAT-0780,Alfamart Sudirman 779,Malang,Jawa Timur,2022-07-15,Perkantoran,Kecil (Express),119,0,REG-JATIM-3
+SAT-0781,Alfamart Sudirman 780,Tangerang,Banten,2022-11-25,Residential/Perumahan,Sedang (Reguler),125,0,REG-BANTEN-3
+SAT-0782,Alfamart Pahlawan 781,Tangerang,Banten,2022-07-13,Perkantoran,Sedang (Reguler),169,0,REG-BANTEN-2
+SAT-0783,Alfamart Gatot Subroto 782,Bandung,Jawa Barat,2021-12-21,Residential/Perumahan,Besar (Reguler Plus),398,1,REG-JABAR-3
+SAT-0784,Alfamart Pahlawan 783,Tangerang,Banten,2023-03-20,Residential/Perumahan,Sedang (Reguler),184,0,REG-BANTEN-3
+SAT-0785,Alfamart Melati 784,Jakarta,DKI Jakarta,2023-09-05,Dekat Pasar/Grosir,Kecil (Express),98,0,REG-JKT-2
+SAT-0786,Alfamart Melati 785,Depok,Jawa Barat,2023-06-16,Residential/Perumahan,Kecil (Express),99,0,REG-JABAR-3
+SAT-0787,Alfamart Gatot Subroto 786,Surabaya,Jawa Timur,2023-08-28,Perkantoran,Sedang (Reguler),185,0,REG-JATIM-3
+SAT-0788,Alfamart Gatot Subroto 787,Depok,Jawa Barat,2022-07-03,Residential/Perumahan,Sedang (Reguler),213,0,REG-JABAR-1
+SAT-0789,Alfamart Gatot Subroto 788,Tangerang,Banten,2021-10-29,Perkantoran,Kecil (Express),85,0,REG-BANTEN-4
+SAT-0790,Alfamart Diponegoro 789,Surabaya,Jawa Timur,2021-01-07,Residential/Perumahan,Sedang (Reguler),190,1,REG-JATIM-4
+SAT-0791,Alfamart Melati 790,Bandung,Jawa Barat,2023-07-05,Residential/Perumahan,Sedang (Reguler),172,1,REG-JABAR-3
+SAT-0792,Alfamart Diponegoro 791,Depok,Jawa Barat,2023-01-02,Residential/Perumahan,Kecil (Express),113,0,REG-JABAR-1
+SAT-0793,Alfamart Melati 792,Bogor,Jawa Barat,2022-05-05,Residential/Perumahan,Sedang (Reguler),120,0,REG-JABAR-1
+SAT-0794,Alfamart Diponegoro 793,Depok,Jawa Barat,2022-02-13,Residential/Perumahan,Besar (Reguler Plus),258,1,REG-JABAR-2
+SAT-0795,Alfamart Diponegoro 794,Malang,Jawa Timur,2022-07-19,Residential/Perumahan,Kecil (Express),81,0,REG-JATIM-3
+SAT-0796,Alfamart Pahlawan 795,Bandung,Jawa Barat,2022-08-21,Residential/Perumahan,Sedang (Reguler),186,0,REG-JABAR-2
+SAT-0797,Alfamart Diponegoro 796,Malang,Jawa Timur,2021-10-21,Residential/Perumahan,Sedang (Reguler),190,1,REG-JATIM-4
+SAT-0798,Alfamart Gatot Subroto 797,Medan,Sumatera Utara,2021-08-31,Residential/Perumahan,Sedang (Reguler),178,1,REG-SUMUT-4
+SAT-0799,Alfamart Pahlawan 798,Semarang,Jawa Tengah,2022-06-17,Residential/Perumahan,Sedang (Reguler),178,0,REG-JATENG-2
+SAT-0800,Alfamart Pahlawan 799,Semarang,Jawa Tengah,2023-09-07,Residential/Perumahan,Sedang (Reguler),195,0,REG-JATENG-4
+SAT-0801,Alfamart Melati 800,Bandung,Jawa Barat,2022-02-19,Residential/Perumahan,Sedang (Reguler),143,1,REG-JABAR-4
+SAT-0802,Alfamart Diponegoro 801,Tangerang,Banten,2023-06-30,Residential/Perumahan,Kecil (Express),92,0,REG-BANTEN-3
+SAT-0803,Alfamart Pahlawan 802,Surabaya,Jawa Timur,2023-07-04,Perkantoran,Sedang (Reguler),207,0,REG-JATIM-2
+SAT-0804,Alfamart Diponegoro 803,Medan,Sumatera Utara,2022-07-27,Residential/Perumahan,Sedang (Reguler),153,0,REG-SUMUT-2
+SAT-0805,Alfamart Gatot Subroto 804,Depok,Jawa Barat,2022-09-08,Residential/Perumahan,Sedang (Reguler),185,0,REG-JABAR-2
+SAT-0806,Alfamart Diponegoro 805,Bogor,Jawa Barat,2022-04-13,Residential/Perumahan,Sedang (Reguler),140,0,REG-JABAR-1
+SAT-0807,Alfamart Gatot Subroto 806,Surabaya,Jawa Timur,2021-08-20,Residential/Perumahan,Sedang (Reguler),175,0,REG-JATIM-1
+SAT-0808,Alfamart Diponegoro 807,Tangerang,Banten,2022-04-20,Residential/Perumahan,Kecil (Express),76,0,REG-BANTEN-2
+SAT-0809,Alfamart Melati 808,Medan,Sumatera Utara,2023-01-29,Residential/Perumahan,Sedang (Reguler),122,0,REG-SUMUT-3
+SAT-0810,Alfamart Melati 809,Surabaya,Jawa Timur,2022-09-30,Dekat Pasar/Grosir,Sedang (Reguler),144,0,REG-JATIM-2
+SAT-0811,Alfamart Gatot Subroto 810,Jakarta,DKI Jakarta,2021-03-24,Residential/Perumahan,Kecil (Express),85,0,REG-JKT-4
+SAT-0812,Alfamart Gatot Subroto 811,Bandung,Jawa Barat,2021-05-08,Residential/Perumahan,Besar (Reguler Plus),301,1,REG-JABAR-1
+SAT-0813,Alfamart Sudirman 812,Tangerang,Banten,2023-08-06,Dekat Pasar/Grosir,Besar (Reguler Plus),247,0,REG-BANTEN-4
+SAT-0814,Alfamart Diponegoro 813,Surabaya,Jawa Timur,2022-10-18,Residential/Perumahan,Sedang (Reguler),149,0,REG-JATIM-3
+SAT-0815,Alfamart Melati 814,Malang,Jawa Timur,2021-09-02,Residential/Perumahan,Besar (Reguler Plus),259,0,REG-JATIM-2
+SAT-0816,Alfamart Gatot Subroto 815,Depok,Jawa Barat,2022-06-03,Perkantoran,Kecil (Express),98,0,REG-JABAR-2
+SAT-0817,Alfamart Melati 816,Medan,Sumatera Utara,2021-09-09,Perkantoran,Sedang (Reguler),181,0,REG-SUMUT-2
+SAT-0818,Alfamart Diponegoro 817,Bekasi,Jawa Barat,2023-06-28,Residential/Perumahan,Besar (Reguler Plus),295,1,REG-JABAR-4
+SAT-0819,Alfamart Pahlawan 818,Jakarta,DKI Jakarta,2023-01-07,Residential/Perumahan,Besar (Reguler Plus),355,1,REG-JKT-4
+SAT-0820,Alfamart Sudirman 819,Surabaya,Jawa Timur,2023-07-23,Residential/Perumahan,Kecil (Express),87,0,REG-JATIM-1
+SAT-0821,Alfamart Pahlawan 820,Medan,Sumatera Utara,2023-02-20,Residential/Perumahan,Besar (Reguler Plus),253,0,REG-SUMUT-3
+SAT-0822,Alfamart Pahlawan 821,Bogor,Jawa Barat,2022-06-09,Residential/Perumahan,Sedang (Reguler),179,0,REG-JABAR-4
+SAT-0823,Alfamart Diponegoro 822,Bogor,Jawa Barat,2022-01-31,Residential/Perumahan,Kecil (Express),63,0,REG-JABAR-3
+SAT-0824,Alfamart Gatot Subroto 823,Depok,Jawa Barat,2023-07-25,Residential/Perumahan,Kecil (Express),115,0,REG-JABAR-4
+SAT-0825,Alfamart Gatot Subroto 824,Semarang,Jawa Tengah,2022-04-13,Perkantoran,Sedang (Reguler),163,0,REG-JATENG-4
+SAT-0826,Alfamart Melati 825,Medan,Sumatera Utara,2022-11-25,Residential/Perumahan,Sedang (Reguler),133,0,REG-SUMUT-3
+SAT-0827,Alfamart Pahlawan 826,Depok,Jawa Barat,2021-03-07,Residential/Perumahan,Sedang (Reguler),171,0,REG-JABAR-3
+SAT-0828,Alfamart Diponegoro 827,Depok,Jawa Barat,2023-08-23,Residential/Perumahan,Sedang (Reguler),128,0,REG-JABAR-2
+SAT-0829,Alfamart Melati 828,Depok,Jawa Barat,2022-09-22,Perkantoran,Kecil (Express),86,0,REG-JABAR-4
+SAT-0830,Alfamart Pahlawan 829,Malang,Jawa Timur,2021-05-18,Residential/Perumahan,Besar (Reguler Plus),353,1,REG-JATIM-2
+SAT-0831,Alfamart Sudirman 830,Bekasi,Jawa Barat,2022-12-29,Residential/Perumahan,Sedang (Reguler),162,1,REG-JABAR-4
+SAT-0832,Alfamart Melati 831,Bekasi,Jawa Barat,2023-01-05,Residential/Perumahan,Kecil (Express),74,0,REG-JABAR-1
+SAT-0833,Alfamart Melati 832,Bogor,Jawa Barat,2021-11-06,Residential/Perumahan,Sedang (Reguler),207,0,REG-JABAR-2
+SAT-0834,Alfamart Melati 833,Semarang,Jawa Tengah,2023-01-19,Residential/Perumahan,Sedang (Reguler),181,0,REG-JATENG-1
+SAT-0835,Alfamart Diponegoro 834,Bekasi,Jawa Barat,2021-02-12,Residential/Perumahan,Sedang (Reguler),150,1,REG-JABAR-2
+SAT-0836,Alfamart Melati 835,Bogor,Jawa Barat,2023-03-03,Residential/Perumahan,Sedang (Reguler),175,0,REG-JABAR-4
+SAT-0837,Alfamart Pahlawan 836,Jakarta,DKI Jakarta,2021-12-19,Residential/Perumahan,Sedang (Reguler),121,0,REG-JKT-3
+SAT-0838,Alfamart Melati 837,Jakarta,DKI Jakarta,2022-02-25,Dekat Pasar/Grosir,Sedang (Reguler),201,0,REG-JKT-2
+SAT-0839,Alfamart Sudirman 838,Semarang,Jawa Tengah,2021-03-09,Residential/Perumahan,Sedang (Reguler),219,0,REG-JATENG-1
+SAT-0840,Alfamart Sudirman 839,Medan,Sumatera Utara,2022-02-25,Residential/Perumahan,Sedang (Reguler),178,0,REG-SUMUT-3
+SAT-0841,Alfamart Sudirman 840,Tangerang,Banten,2021-02-14,Residential/Perumahan,Besar (Reguler Plus),311,0,REG-BANTEN-2
+SAT-0842,Alfamart Melati 841,Medan,Sumatera Utara,2021-09-25,Perkantoran,Sedang (Reguler),173,0,REG-SUMUT-2
+SAT-0843,Alfamart Gatot Subroto 842,Tangerang,Banten,2022-09-01,Residential/Perumahan,Sedang (Reguler),133,1,REG-BANTEN-4
+SAT-0844,Alfamart Pahlawan 843,Tangerang,Banten,2022-04-25,Residential/Perumahan,Besar (Reguler Plus),257,1,REG-BANTEN-4
+SAT-0845,Alfamart Sudirman 844,Medan,Sumatera Utara,2021-12-05,Residential/Perumahan,Besar (Reguler Plus),247,0,REG-SUMUT-1
+SAT-0846,Alfamart Gatot Subroto 845,Medan,Sumatera Utara,2022-03-30,Perkantoran,Sedang (Reguler),127,0,REG-SUMUT-3
+SAT-0847,Alfamart Diponegoro 846,Jakarta,DKI Jakarta,2021-06-23,Residential/Perumahan,Besar (Reguler Plus),358,1,REG-JKT-3
+SAT-0848,Alfamart Gatot Subroto 847,Tangerang,Banten,2021-07-13,Residential/Perumahan,Besar (Reguler Plus),378,1,REG-BANTEN-3
+SAT-0849,Alfamart Sudirman 848,Surabaya,Jawa Timur,2022-01-27,Residential/Perumahan,Sedang (Reguler),156,0,REG-JATIM-3
+SAT-0850,Alfamart Pahlawan 849,Semarang,Jawa Tengah,2021-04-06,Dekat Pasar/Grosir,Besar (Reguler Plus),357,1,REG-JATENG-2
+SAT-0851,Alfamart Melati 850,Medan,Sumatera Utara,2022-10-07,Residential/Perumahan,Sedang (Reguler),166,0,REG-SUMUT-1
+SAT-0852,Alfamart Pahlawan 851,Bogor,Jawa Barat,2022-11-16,Residential/Perumahan,Kecil (Express),70,0,REG-JABAR-2
+SAT-0853,Alfamart Gatot Subroto 852,Bandung,Jawa Barat,2023-05-25,Perkantoran,Kecil (Express),82,0,REG-JABAR-2
+SAT-0854,Alfamart Gatot Subroto 853,Tangerang,Banten,2022-04-07,Perkantoran,Sedang (Reguler),130,0,REG-BANTEN-3
+SAT-0855,Alfamart Diponegoro 854,Bogor,Jawa Barat,2023-03-29,Residential/Perumahan,Besar (Reguler Plus),389,1,REG-JABAR-4
+SAT-0856,Alfamart Melati 855,Malang,Jawa Timur,2021-09-18,Residential/Perumahan,Kecil (Express),93,0,REG-JATIM-3
+SAT-0857,Alfamart Gatot Subroto 856,Tangerang,Banten,2022-06-21,Residential/Perumahan,Sedang (Reguler),181,0,REG-BANTEN-4
+SAT-0858,Alfamart Diponegoro 857,Semarang,Jawa Tengah,2023-04-03,Perkantoran,Besar (Reguler Plus),258,0,REG-JATENG-3
+SAT-0859,Alfamart Diponegoro 858,Malang,Jawa Timur,2021-02-08,Residential/Perumahan,Kecil (Express),114,0,REG-JATIM-1
+SAT-0860,Alfamart Diponegoro 859,Surabaya,Jawa Timur,2021-02-21,Residential/Perumahan,Sedang (Reguler),185,0,REG-JATIM-2
+SAT-0861,Alfamart Melati 860,Medan,Sumatera Utara,2022-09-06,Residential/Perumahan,Sedang (Reguler),187,0,REG-SUMUT-3
+SAT-0862,Alfamart Sudirman 861,Medan,Sumatera Utara,2022-03-18,Residential/Perumahan,Kecil (Express),110,0,REG-SUMUT-3
+SAT-0863,Alfamart Sudirman 862,Depok,Jawa Barat,2022-12-08,Perkantoran,Besar (Reguler Plus),316,1,REG-JABAR-1
+SAT-0864,Alfamart Sudirman 863,Bandung,Jawa Barat,2021-10-02,Residential/Perumahan,Sedang (Reguler),217,0,REG-JABAR-3
+SAT-0865,Alfamart Melati 864,Depok,Jawa Barat,2021-03-23,Residential/Perumahan,Besar (Reguler Plus),273,0,REG-JABAR-4
+SAT-0866,Alfamart Melati 865,Malang,Jawa Timur,2022-12-08,Perkantoran,Sedang (Reguler),146,0,REG-JATIM-3
+SAT-0867,Alfamart Pahlawan 866,Depok,Jawa Barat,2023-09-21,Perkantoran,Sedang (Reguler),195,0,REG-JABAR-4
+SAT-0868,Alfamart Gatot Subroto 867,Bandung,Jawa Barat,2021-09-16,Perkantoran,Sedang (Reguler),213,0,REG-JABAR-4
+SAT-0869,Alfamart Pahlawan 868,Malang,Jawa Timur,2023-02-13,Residential/Perumahan,Sedang (Reguler),179,0,REG-JATIM-4
+SAT-0870,Alfamart Melati 869,Tangerang,Banten,2023-07-11,Residential/Perumahan,Besar (Reguler Plus),254,0,REG-BANTEN-3
+SAT-0871,Alfamart Melati 870,Bekasi,Jawa Barat,2023-01-27,Residential/Perumahan,Sedang (Reguler),184,0,REG-JABAR-1
+SAT-0872,Alfamart Diponegoro 871,Tangerang,Banten,2022-05-24,Residential/Perumahan,Kecil (Express),75,0,REG-BANTEN-4
+SAT-0873,Alfamart Gatot Subroto 872,Semarang,Jawa Tengah,2021-01-26,Dekat Pasar/Grosir,Sedang (Reguler),124,0,REG-JATENG-2
+SAT-0874,Alfamart Diponegoro 873,Surabaya,Jawa Timur,2023-08-27,Residential/Perumahan,Sedang (Reguler),142,0,REG-JATIM-1
+SAT-0875,Alfamart Melati 874,Bogor,Jawa Barat,2022-05-10,Residential/Perumahan,Besar (Reguler Plus),282,0,REG-JABAR-2
+SAT-0876,Alfamart Pahlawan 875,Jakarta,DKI Jakarta,2021-01-11,Perkantoran,Sedang (Reguler),188,0,REG-JKT-1
+SAT-0877,Alfamart Pahlawan 876,Medan,Sumatera Utara,2023-05-01,Residential/Perumahan,Kecil (Express),62,0,REG-SUMUT-3
+SAT-0878,Alfamart Pahlawan 877,Medan,Sumatera Utara,2022-04-21,Residential/Perumahan,Sedang (Reguler),137,0,REG-SUMUT-4
+SAT-0879,Alfamart Sudirman 878,Jakarta,DKI Jakarta,2022-08-23,Residential/Perumahan,Sedang (Reguler),150,0,REG-JKT-2
+SAT-0880,Alfamart Diponegoro 879,Surabaya,Jawa Timur,2022-03-10,Residential/Perumahan,Sedang (Reguler),140,1,REG-JATIM-1
+SAT-0881,Alfamart Pahlawan 880,Surabaya,Jawa Timur,2022-09-05,Residential/Perumahan,Kecil (Express),93,0,REG-JATIM-2
+SAT-0882,Alfamart Melati 881,Semarang,Jawa Tengah,2022-08-14,Residential/Perumahan,Sedang (Reguler),142,0,REG-JATENG-3
+SAT-0883,Alfamart Melati 882,Bekasi,Jawa Barat,2022-08-13,Dekat Pasar/Grosir,Besar (Reguler Plus),303,0,REG-JABAR-1
+SAT-0884,Alfamart Gatot Subroto 883,Bekasi,Jawa Barat,2021-11-03,Residential/Perumahan,Sedang (Reguler),185,0,REG-JABAR-4
+SAT-0885,Alfamart Melati 884,Depok,Jawa Barat,2023-07-17,Residential/Perumahan,Sedang (Reguler),180,0,REG-JABAR-4
+SAT-0886,Alfamart Melati 885,Surabaya,Jawa Timur,2021-11-21,Residential/Perumahan,Sedang (Reguler),206,0,REG-JATIM-4
+SAT-0887,Alfamart Melati 886,Malang,Jawa Timur,2021-02-19,Residential/Perumahan,Sedang (Reguler),153,0,REG-JATIM-3
+SAT-0888,Alfamart Melati 887,Semarang,Jawa Tengah,2022-09-28,Residential/Perumahan,Kecil (Express),79,0,REG-JATENG-4
+SAT-0889,Alfamart Melati 888,Bandung,Jawa Barat,2022-01-24,Residential/Perumahan,Sedang (Reguler),175,0,REG-JABAR-4
+SAT-0890,Alfamart Gatot Subroto 889,Medan,Sumatera Utara,2023-09-02,Residential/Perumahan,Sedang (Reguler),177,0,REG-SUMUT-3
+SAT-0891,Alfamart Pahlawan 890,Bogor,Jawa Barat,2023-08-06,Residential/Perumahan,Besar (Reguler Plus),373,1,REG-JABAR-2
+SAT-0892,Alfamart Gatot Subroto 891,Bekasi,Jawa Barat,2021-10-02,Dekat Pasar/Grosir,Besar (Reguler Plus),385,1,REG-JABAR-3
+SAT-0893,Alfamart Gatot Subroto 892,Bogor,Jawa Barat,2021-01-15,Residential/Perumahan,Sedang (Reguler),217,0,REG-JABAR-4
+SAT-0894,Alfamart Gatot Subroto 893,Bogor,Jawa Barat,2023-09-15,Residential/Perumahan,Sedang (Reguler),205,0,REG-JABAR-3
+SAT-0895,Alfamart Sudirman 894,Jakarta,DKI Jakarta,2021-02-01,Residential/Perumahan,Sedang (Reguler),195,0,REG-JKT-4
+SAT-0896,Alfamart Sudirman 895,Jakarta,DKI Jakarta,2021-01-28,Perkantoran,Sedang (Reguler),153,0,REG-JKT-1
+SAT-0897,Alfamart Diponegoro 896,Bogor,Jawa Barat,2023-03-26,Residential/Perumahan,Sedang (Reguler),169,0,REG-JABAR-4
+SAT-0898,Alfamart Gatot Subroto 897,Bogor,Jawa Barat,2022-08-28,Residential/Perumahan,Sedang (Reguler),178,0,REG-JABAR-3
+SAT-0899,Alfamart Pahlawan 898,Bandung,Jawa Barat,2022-02-14,Residential/Perumahan,Sedang (Reguler),152,0,REG-JABAR-4
+SAT-0900,Alfamart Sudirman 899,Surabaya,Jawa Timur,2022-07-03,Residential/Perumahan,Sedang (Reguler),168,0,REG-JATIM-1
+SAT-0901,Alfamart Sudirman 900,Malang,Jawa Timur,2023-08-09,Residential/Perumahan,Sedang (Reguler),203,0,REG-JATIM-2
+SAT-0902,Alfamart Gatot Subroto 901,Surabaya,Jawa Timur,2021-04-14,Residential/Perumahan,Sedang (Reguler),165,1,REG-JATIM-4
+SAT-0903,Alfamart Melati 902,Bekasi,Jawa Barat,2022-01-04,Residential/Perumahan,Besar (Reguler Plus),312,0,REG-JABAR-4
+SAT-0904,Alfamart Pahlawan 903,Bandung,Jawa Barat,2022-04-14,Residential/Perumahan,Sedang (Reguler),193,0,REG-JABAR-1
+SAT-0905,Alfamart Pahlawan 904,Jakarta,DKI Jakarta,2021-08-15,Dekat Pasar/Grosir,Sedang (Reguler),158,0,REG-JKT-3
+SAT-0906,Alfamart Pahlawan 905,Surabaya,Jawa Timur,2022-10-21,Residential/Perumahan,Besar (Reguler Plus),300,1,REG-JATIM-4
+SAT-0907,Alfamart Pahlawan 906,Tangerang,Banten,2021-03-01,Residential/Perumahan,Sedang (Reguler),126,0,REG-BANTEN-2
+SAT-0908,Alfamart Diponegoro 907,Semarang,Jawa Tengah,2021-09-23,Residential/Perumahan,Sedang (Reguler),176,0,REG-JATENG-3
+SAT-0909,Alfamart Pahlawan 908,Jakarta,DKI Jakarta,2021-07-18,Residential/Perumahan,Sedang (Reguler),199,1,REG-JKT-4
+SAT-0910,Alfamart Pahlawan 909,Malang,Jawa Timur,2022-04-03,Residential/Perumahan,Besar (Reguler Plus),253,1,REG-JATIM-2
+SAT-0911,Alfamart Sudirman 910,Bekasi,Jawa Barat,2021-06-19,Residential/Perumahan,Sedang (Reguler),200,0,REG-JABAR-1
+SAT-0912,Alfamart Pahlawan 911,Tangerang,Banten,2022-02-02,Perkantoran,Besar (Reguler Plus),297,0,REG-BANTEN-1
+SAT-0913,Alfamart Gatot Subroto 912,Depok,Jawa Barat,2022-04-06,Perkantoran,Kecil (Express),72,0,REG-JABAR-3
+SAT-0914,Alfamart Diponegoro 913,Surabaya,Jawa Timur,2022-10-25,Dekat Pasar/Grosir,Kecil (Express),71,0,REG-JATIM-3
+SAT-0915,Alfamart Diponegoro 914,Depok,Jawa Barat,2022-11-03,Dekat Pasar/Grosir,Sedang (Reguler),202,0,REG-JABAR-3
+SAT-0916,Alfamart Diponegoro 915,Bandung,Jawa Barat,2021-01-17,Dekat Pasar/Grosir,Besar (Reguler Plus),270,1,REG-JABAR-4
+SAT-0917,Alfamart Melati 916,Bekasi,Jawa Barat,2023-03-13,Residential/Perumahan,Sedang (Reguler),215,0,REG-JABAR-4
+SAT-0918,Alfamart Gatot Subroto 917,Bogor,Jawa Barat,2023-06-10,Residential/Perumahan,Besar (Reguler Plus),383,1,REG-JABAR-3
+SAT-0919,Alfamart Melati 918,Bekasi,Jawa Barat,2023-05-14,Residential/Perumahan,Besar (Reguler Plus),289,1,REG-JABAR-2
+SAT-0920,Alfamart Melati 919,Semarang,Jawa Tengah,2021-04-25,Residential/Perumahan,Sedang (Reguler),122,0,REG-JATENG-2
+SAT-0921,Alfamart Melati 920,Semarang,Jawa Tengah,2023-06-10,Residential/Perumahan,Sedang (Reguler),204,0,REG-JATENG-2
+SAT-0922,Alfamart Sudirman 921,Surabaya,Jawa Timur,2023-02-03,Perkantoran,Sedang (Reguler),199,0,REG-JATIM-4
+SAT-0923,Alfamart Pahlawan 922,Bandung,Jawa Barat,2022-06-25,Residential/Perumahan,Sedang (Reguler),165,0,REG-JABAR-1
+SAT-0924,Alfamart Sudirman 923,Medan,Sumatera Utara,2023-09-07,Residential/Perumahan,Sedang (Reguler),158,0,REG-SUMUT-3
+SAT-0925,Alfamart Diponegoro 924,Medan,Sumatera Utara,2023-05-03,Residential/Perumahan,Sedang (Reguler),189,0,REG-SUMUT-2
+SAT-0926,Alfamart Sudirman 925,Surabaya,Jawa Timur,2023-09-05,Residential/Perumahan,Kecil (Express),72,0,REG-JATIM-1
+SAT-0927,Alfamart Diponegoro 926,Bandung,Jawa Barat,2023-04-23,Residential/Perumahan,Kecil (Express),69,0,REG-JABAR-4
+SAT-0928,Alfamart Gatot Subroto 927,Bekasi,Jawa Barat,2021-01-12,Perkantoran,Kecil (Express),91,0,REG-JABAR-2
+SAT-0929,Alfamart Melati 928,Medan,Sumatera Utara,2022-06-06,Residential/Perumahan,Besar (Reguler Plus),366,1,REG-SUMUT-1
+SAT-0930,Alfamart Gatot Subroto 929,Depok,Jawa Barat,2022-01-10,Residential/Perumahan,Sedang (Reguler),175,0,REG-JABAR-1
+SAT-0931,Alfamart Gatot Subroto 930,Semarang,Jawa Tengah,2022-11-08,Residential/Perumahan,Besar (Reguler Plus),226,0,REG-JATENG-2
+SAT-0932,Alfamart Pahlawan 931,Bandung,Jawa Barat,2021-06-14,Residential/Perumahan,Sedang (Reguler),203,1,REG-JABAR-1
+SAT-0933,Alfamart Pahlawan 932,Medan,Sumatera Utara,2021-05-24,Residential/Perumahan,Kecil (Express),78,0,REG-SUMUT-2
+SAT-0934,Alfamart Gatot Subroto 933,Depok,Jawa Barat,2021-06-12,Residential/Perumahan,Sedang (Reguler),184,0,REG-JABAR-4
+SAT-0935,Alfamart Gatot Subroto 934,Bandung,Jawa Barat,2023-01-26,Perkantoran,Sedang (Reguler),128,0,REG-JABAR-1
+SAT-0936,Alfamart Sudirman 935,Surabaya,Jawa Timur,2022-02-10,Residential/Perumahan,Sedang (Reguler),195,0,REG-JATIM-2
+SAT-0937,Alfamart Diponegoro 936,Bogor,Jawa Barat,2023-03-07,Dekat Pasar/Grosir,Kecil (Express),101,0,REG-JABAR-2
+SAT-0938,Alfamart Gatot Subroto 937,Medan,Sumatera Utara,2023-06-10,Residential/Perumahan,Sedang (Reguler),130,0,REG-SUMUT-3
+SAT-0939,Alfamart Melati 938,Bandung,Jawa Barat,2022-06-28,Perkantoran,Kecil (Express),70,0,REG-JABAR-4
+SAT-0940,Alfamart Diponegoro 939,Malang,Jawa Timur,2021-10-19,Residential/Perumahan,Sedang (Reguler),120,1,REG-JATIM-2
+SAT-0941,Alfamart Gatot Subroto 940,Semarang,Jawa Tengah,2023-02-27,Residential/Perumahan,Sedang (Reguler),144,0,REG-JATENG-2
+SAT-0942,Alfamart Diponegoro 941,Semarang,Jawa Tengah,2022-03-14,Perkantoran,Kecil (Express),117,0,REG-JATENG-1
+SAT-0943,Alfamart Pahlawan 942,Jakarta,DKI Jakarta,2022-10-08,Residential/Perumahan,Kecil (Express),68,0,REG-JKT-3
+SAT-0944,Alfamart Sudirman 943,Tangerang,Banten,2021-01-11,Residential/Perumahan,Sedang (Reguler),153,0,REG-BANTEN-4
+SAT-0945,Alfamart Diponegoro 944,Medan,Sumatera Utara,2021-02-06,Residential/Perumahan,Sedang (Reguler),217,0,REG-SUMUT-1
+SAT-0946,Alfamart Diponegoro 945,Malang,Jawa Timur,2023-05-07,Residential/Perumahan,Sedang (Reguler),172,0,REG-JATIM-3
+SAT-0947,Alfamart Gatot Subroto 946,Surabaya,Jawa Timur,2022-03-01,Residential/Perumahan,Sedang (Reguler),137,1,REG-JATIM-1
+SAT-0948,Alfamart Pahlawan 947,Bandung,Jawa Barat,2022-09-05,Perkantoran,Sedang (Reguler),127,1,REG-JABAR-4
+SAT-0949,Alfamart Pahlawan 948,Medan,Sumatera Utara,2021-07-21,Perkantoran,Kecil (Express),119,0,REG-SUMUT-2
+SAT-0950,Alfamart Melati 949,Depok,Jawa Barat,2023-07-04,Residential/Perumahan,Sedang (Reguler),192,0,REG-JABAR-2
+SAT-0951,Alfamart Melati 950,Bekasi,Jawa Barat,2021-01-07,Residential/Perumahan,Sedang (Reguler),134,0,REG-JABAR-2
+SAT-0952,Alfamart Gatot Subroto 951,Depok,Jawa Barat,2021-11-23,Residential/Perumahan,Sedang (Reguler),187,0,REG-JABAR-1
+SAT-0953,Alfamart Sudirman 952,Bogor,Jawa Barat,2021-02-21,Residential/Perumahan,Sedang (Reguler),210,1,REG-JABAR-1
+SAT-0954,Alfamart Diponegoro 953,Surabaya,Jawa Timur,2023-09-10,Residential/Perumahan,Sedang (Reguler),210,0,REG-JATIM-1
+SAT-0955,Alfamart Sudirman 954,Jakarta,DKI Jakarta,2023-05-15,Dekat Pasar/Grosir,Sedang (Reguler),158,0,REG-JKT-3
+SAT-0956,Alfamart Melati 955,Depok,Jawa Barat,2021-09-07,Perkantoran,Sedang (Reguler),163,1,REG-JABAR-2
+SAT-0957,Alfamart Sudirman 956,Malang,Jawa Timur,2022-02-04,Perkantoran,Kecil (Express),100,0,REG-JATIM-2
+SAT-0958,Alfamart Gatot Subroto 957,Semarang,Jawa Tengah,2022-08-11,Residential/Perumahan,Sedang (Reguler),196,0,REG-JATENG-2
+SAT-0959,Alfamart Pahlawan 958,Jakarta,DKI Jakarta,2021-01-10,Residential/Perumahan,Sedang (Reguler),177,0,REG-JKT-3
+SAT-0960,Alfamart Gatot Subroto 959,Malang,Jawa Timur,2021-02-21,Residential/Perumahan,Sedang (Reguler),130,0,REG-JATIM-2
+SAT-0961,Alfamart Gatot Subroto 960,Medan,Sumatera Utara,2021-10-21,Residential/Perumahan,Sedang (Reguler),215,0,REG-SUMUT-3
+SAT-0962,Alfamart Sudirman 961,Bekasi,Jawa Barat,2021-01-26,Residential/Perumahan,Besar (Reguler Plus),231,0,REG-JABAR-4
+SAT-0963,Alfamart Diponegoro 962,Bekasi,Jawa Barat,2022-02-18,Residential/Perumahan,Sedang (Reguler),159,0,REG-JABAR-4
+SAT-0964,Alfamart Pahlawan 963,Bandung,Jawa Barat,2022-03-09,Residential/Perumahan,Sedang (Reguler),199,0,REG-JABAR-4
+SAT-0965,Alfamart Pahlawan 964,Depok,Jawa Barat,2022-08-21,Dekat Pasar/Grosir,Kecil (Express),101,0,REG-JABAR-2
+SAT-0966,Alfamart Gatot Subroto 965,Surabaya,Jawa Timur,2023-01-03,Residential/Perumahan,Kecil (Express),87,0,REG-JATIM-1
+SAT-0967,Alfamart Pahlawan 966,Semarang,Jawa Tengah,2021-11-14,Dekat Pasar/Grosir,Kecil (Express),68,0,REG-JATENG-3
+SAT-0968,Alfamart Melati 967,Tangerang,Banten,2022-06-05,Residential/Perumahan,Sedang (Reguler),206,0,REG-BANTEN-1
+SAT-0969,Alfamart Pahlawan 968,Tangerang,Banten,2021-02-08,Residential/Perumahan,Kecil (Express),79,0,REG-BANTEN-1
+SAT-0970,Alfamart Pahlawan 969,Depok,Jawa Barat,2023-04-08,Residential/Perumahan,Kecil (Express),96,0,REG-JABAR-4
+SAT-0971,Alfamart Melati 970,Bandung,Jawa Barat,2022-10-24,Residential/Perumahan,Besar (Reguler Plus),236,1,REG-JABAR-4
+SAT-0972,Alfamart Melati 971,Bandung,Jawa Barat,2022-12-01,Residential/Perumahan,Sedang (Reguler),219,0,REG-JABAR-1
+SAT-0973,Alfamart Gatot Subroto 972,Depok,Jawa Barat,2022-03-07,Residential/Perumahan,Sedang (Reguler),151,1,REG-JABAR-4
+SAT-0974,Alfamart Sudirman 973,Medan,Sumatera Utara,2022-08-01,Perkantoran,Sedang (Reguler),156,0,REG-SUMUT-4
+SAT-0975,Alfamart Gatot Subroto 974,Surabaya,Jawa Timur,2023-07-20,Residential/Perumahan,Kecil (Express),116,0,REG-JATIM-3
+SAT-0976,Alfamart Sudirman 975,Bekasi,Jawa Barat,2022-06-16,Residential/Perumahan,Sedang (Reguler),216,0,REG-JABAR-2
+SAT-0977,Alfamart Gatot Subroto 976,Surabaya,Jawa Timur,2023-08-08,Residential/Perumahan,Sedang (Reguler),152,0,REG-JATIM-1
+SAT-0978,Alfamart Sudirman 977,Malang,Jawa Timur,2021-03-23,Residential/Perumahan,Sedang (Reguler),212,0,REG-JATIM-3
+SAT-0979,Alfamart Gatot Subroto 978,Bekasi,Jawa Barat,2023-07-15,Residential/Perumahan,Sedang (Reguler),158,0,REG-JABAR-2
+SAT-0980,Alfamart Melati 979,Surabaya,Jawa Timur,2023-06-30,Residential/Perumahan,Kecil (Express),64,0,REG-JATIM-3
+SAT-0981,Alfamart Sudirman 980,Jakarta,DKI Jakarta,2022-12-30,Dekat Pasar/Grosir,Sedang (Reguler),148,0,REG-JKT-3
+SAT-0982,Alfamart Gatot Subroto 981,Malang,Jawa Timur,2023-08-07,Perkantoran,Sedang (Reguler),183,0,REG-JATIM-4
+SAT-0983,Alfamart Gatot Subroto 982,Malang,Jawa Timur,2022-06-16,Residential/Perumahan,Kecil (Express),87,0,REG-JATIM-1
+SAT-0984,Alfamart Pahlawan 983,Bandung,Jawa Barat,2021-01-22,Residential/Perumahan,Sedang (Reguler),187,0,REG-JABAR-2
+SAT-0985,Alfamart Gatot Subroto 984,Malang,Jawa Timur,2021-03-04,Residential/Perumahan,Kecil (Express),64,0,REG-JATIM-1
+SAT-0986,Alfamart Sudirman 985,Jakarta,DKI Jakarta,2023-03-02,Dekat Pasar/Grosir,Sedang (Reguler),129,0,REG-JKT-4
+SAT-0987,Alfamart Diponegoro 986,Malang,Jawa Timur,2022-03-16,Residential/Perumahan,Sedang (Reguler),173,0,REG-JATIM-4
+SAT-0988,Alfamart Gatot Subroto 987,Bogor,Jawa Barat,2021-03-12,Residential/Perumahan,Kecil (Express),90,0,REG-JABAR-2
+SAT-0989,Alfamart Sudirman 988,Jakarta,DKI Jakarta,2023-03-23,Residential/Perumahan,Sedang (Reguler),141,0,REG-JKT-4
+SAT-0990,Alfamart Sudirman 989,Medan,Sumatera Utara,2022-04-29,Perkantoran,Sedang (Reguler),158,1,REG-SUMUT-3
+SAT-0991,Alfamart Gatot Subroto 990,Bandung,Jawa Barat,2022-07-06,Residential/Perumahan,Sedang (Reguler),151,0,REG-JABAR-2
+SAT-0992,Alfamart Sudirman 991,Malang,Jawa Timur,2021-10-23,Residential/Perumahan,Kecil (Express),90,0,REG-JATIM-2
+SAT-0993,Alfamart Gatot Subroto 992,Bandung,Jawa Barat,2021-02-06,Perkantoran,Sedang (Reguler),182,0,REG-JABAR-3
+SAT-0994,Alfamart Diponegoro 993,Tangerang,Banten,2022-02-08,Residential/Perumahan,Sedang (Reguler),139,0,REG-BANTEN-1
+SAT-0995,Alfamart Melati 994,Bekasi,Jawa Barat,2021-03-16,Dekat Pasar/Grosir,Sedang (Reguler),130,0,REG-JABAR-2
+SAT-0996,Alfamart Melati 995,Semarang,Jawa Tengah,2023-03-19,Residential/Perumahan,Sedang (Reguler),147,0,REG-JATENG-4
+SAT-0997,Alfamart Sudirman 996,Bogor,Jawa Barat,2021-05-05,Residential/Perumahan,Sedang (Reguler),211,0,REG-JABAR-4
+SAT-0998,Alfamart Gatot Subroto 997,Medan,Sumatera Utara,2021-11-25,Residential/Perumahan,Sedang (Reguler),159,0,REG-SUMUT-2
+SAT-0999,Alfamart Melati 998,Surabaya,Jawa Timur,2023-09-27,Dekat Pasar/Grosir,Kecil (Express),72,0,REG-JATIM-3
+SAT-1000,Alfamart Melati 999,Bandung,Jawa Barat,2022-08-11,Residential/Perumahan,Kecil (Express),72,0,REG-JABAR-4
+SAT-1001,Alfamart Kartini Baru,Semarang,Jawa Tengah,2024-03-11,Residential/Perumahan,Sedang (Reguler),213,0,REG-JATENG-1
+SAT-1002,Alfamart Ahmad Yani Baru,Depok,Jawa Barat,2024-08-02,Perkantoran,Sedang (Reguler),142,0,REG-JABAR-4
+SAT-1003,Alfamart Pasar Minggu Baru,Bogor,Jawa Barat,2025-01-20,Dekat Pasar/Grosir,Sedang (Reguler),149,0,REG-JABAR-1
