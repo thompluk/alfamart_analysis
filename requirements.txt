@@ -1,0 +1,28 @@
+# ==============================================================================
+# Requirements file for Alfamart JSM Promo & Reseller Leakage Analysis
+# Python 3.10+ Environment Dependencies
+# ==============================================================================
+
+# --- Data Manipulation & Analysis ---
+pandas>=2.0.0
+numpy>=1.24.0
+
+# --- Statistical Testing & Analytics ---
+# SciPy: Mann-Whitney U test, Welch's T-Test, & Cohen's d calculations
+scipy>=1.10.0
+# Statsmodels: Two-Proportion Z-Test for reseller rate anomaly detection
+statsmodels>=0.14.0
+
+# --- Data Visualization ---
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# --- Jupyter Notebook Environment ---
+jupyter>=1.0.0
+notebook>=6.5.0
+ipykernel>=6.20.0
+
+# --- Optional / Quality Utilities ---
+openpyxl>=3.1.0  # Exporting Excel reports & star schema data frames
+
+
